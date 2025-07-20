@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "E:/LED_CUBE_8x8x8/Led_cube_PCB/Project_Footprints/SamacSys_Parts.pretty")(options "")(descr ""))
+)

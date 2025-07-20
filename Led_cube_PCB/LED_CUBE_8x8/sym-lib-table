@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/Project_Footprints/SamacSys_Parts.kicad_sym")(options "")(descr ""))
-)

@@ -45,8 +45,8 @@
   (pad 18 smd rect (at 2.938 -1.625 90) (size 0.45 1.475) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd rect (at 2.938 -2.275 90) (size 0.45 1.475) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at 2.938 -2.925 90) (size 0.45 1.475) (layers F.Cu F.Paste F.Mask))
-  (model "E:\\LED_CUBE_8x8x8\\Led_cube_PCB\\Project_Footprints\\SamacSys_Parts.3dshapes\\74LVC244APW,118.stp"
-    (at (xyz 0.19015747731126 0.10118109973397 -0.12440945219806))
+  (model "C:\\Users\\larsm\\Documents\\Github_repos\\8x8_RGB_LED_CUBE\\Led_cube_PCB\\LED_CUBE_8x8\\Project_Footprints\\SamacSys_Parts.3dshapes\\74AHCT244PW,118.stp"
+    (at (xyz 0.19015747731126 0.10275590138173 -0.12440945219806))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
   )

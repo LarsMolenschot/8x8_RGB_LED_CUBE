@@ -30,4 +30,10 @@ K
 F 
 $ENDCMP
 #
+$CMP 74AHCT244PW,118
+D 74AHC(T)244 - Octal buffer/line driver; 3-state@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT244.pdf
+$ENDCMP
+#
 #End Doc Library

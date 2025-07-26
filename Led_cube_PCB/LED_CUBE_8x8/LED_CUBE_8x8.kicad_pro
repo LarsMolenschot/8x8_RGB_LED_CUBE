@@ -411,6 +411,18 @@
     [
       "b239677e-e361-4439-8200-63fb41f7e03c",
       "Root"
+    ],
+    [
+      "39f84ab9-cf03-4ef5-a6b6-c3023701b456",
+      "Red LED's"
+    ],
+    [
+      "028ca277-4d5d-4d09-af7b-5a73ce3cf523",
+      "Green LED's"
+    ],
+    [
+      "cc8bd84f-da41-4d1f-b6a9-e2091cdfadf0",
+      "Blue LED's"
     ]
   ],
   "text_variables": {}

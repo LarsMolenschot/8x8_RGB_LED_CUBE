@@ -6287,7 +6287,7 @@
 		(uuid "fdb242d9-37ad-4746-beec-edc16b37fffb")
 	)
 	(global_label "G_COL12"
-		(shape input)
+		(shape output)
 		(at 203.2 58.42 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6309,7 +6309,7 @@
 		)
 	)
 	(global_label "G_COL32"
-		(shape input)
+		(shape output)
 		(at 175.26 109.22 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6331,7 +6331,7 @@
 		)
 	)
 	(global_label "G_COL31"
-		(shape input)
+		(shape output)
 		(at 175.26 104.14 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6353,7 +6353,7 @@
 		)
 	)
 	(global_label "G_COL15"
-		(shape input)
+		(shape output)
 		(at 175.26 53.34 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6419,7 +6419,7 @@
 		)
 	)
 	(global_label "G_COL20"
-		(shape input)
+		(shape output)
 		(at 85.09 109.22 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6441,7 +6441,7 @@
 		)
 	)
 	(global_label "G_COL24"
-		(shape input)
+		(shape output)
 		(at 57.15 109.22 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6463,7 +6463,7 @@
 		)
 	)
 	(global_label "G_COL13"
-		(shape input)
+		(shape output)
 		(at 175.26 43.18 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6507,7 +6507,7 @@
 		)
 	)
 	(global_label "G_COL2"
-		(shape input)
+		(shape output)
 		(at 83.82 48.26 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6573,7 +6573,7 @@
 		)
 	)
 	(global_label "G_COL35"
-		(shape input)
+		(shape output)
 		(at 85.09 154.94 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6595,7 +6595,7 @@
 		)
 	)
 	(global_label "G_COL49"
-		(shape input)
+		(shape output)
 		(at 85.09 196.85 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6617,7 +6617,7 @@
 		)
 	)
 	(global_label "G_COL6"
-		(shape input)
+		(shape output)
 		(at 55.88 48.26 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6639,7 +6639,7 @@
 		)
 	)
 	(global_label "G_COL62"
-		(shape input)
+		(shape output)
 		(at 173.99 201.93 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6661,7 +6661,7 @@
 		)
 	)
 	(global_label "G_COL7"
-		(shape input)
+		(shape output)
 		(at 55.88 53.34 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6683,7 +6683,7 @@
 		)
 	)
 	(global_label "G_COL14"
-		(shape input)
+		(shape output)
 		(at 175.26 48.26 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6705,7 +6705,7 @@
 		)
 	)
 	(global_label "G_COL36"
-		(shape input)
+		(shape output)
 		(at 85.09 160.02 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6727,7 +6727,7 @@
 		)
 	)
 	(global_label "G_COL16"
-		(shape input)
+		(shape output)
 		(at 175.26 58.42 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6749,7 +6749,7 @@
 		)
 	)
 	(global_label "G_COL48"
-		(shape input)
+		(shape output)
 		(at 173.99 160.02 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6771,7 +6771,7 @@
 		)
 	)
 	(global_label "G_COL25"
-		(shape input)
+		(shape output)
 		(at 203.2 93.98 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6793,7 +6793,7 @@
 		)
 	)
 	(global_label "G_COL33"
-		(shape input)
+		(shape output)
 		(at 85.09 144.78 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6815,7 +6815,7 @@
 		)
 	)
 	(global_label "G_COL58"
-		(shape input)
+		(shape output)
 		(at 201.93 201.93 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6837,7 +6837,7 @@
 		)
 	)
 	(global_label "G_COL57"
-		(shape input)
+		(shape output)
 		(at 201.93 196.85 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6881,7 +6881,7 @@
 		)
 	)
 	(global_label "G_COL50"
-		(shape input)
+		(shape output)
 		(at 85.09 201.93 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6903,7 +6903,7 @@
 		)
 	)
 	(global_label "G_COL61"
-		(shape input)
+		(shape output)
 		(at 173.99 196.85 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6925,7 +6925,7 @@
 		)
 	)
 	(global_label "G_COL11"
-		(shape input)
+		(shape output)
 		(at 203.2 53.34 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6947,7 +6947,7 @@
 		)
 	)
 	(global_label "G_COL3"
-		(shape input)
+		(shape output)
 		(at 83.82 53.34 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6991,7 +6991,7 @@
 		)
 	)
 	(global_label "G_COL39"
-		(shape input)
+		(shape output)
 		(at 57.15 154.94 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7013,7 +7013,7 @@
 		)
 	)
 	(global_label "G_COL1"
-		(shape input)
+		(shape output)
 		(at 83.82 43.18 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7035,7 +7035,7 @@
 		)
 	)
 	(global_label "G_COL64"
-		(shape input)
+		(shape output)
 		(at 173.99 212.09 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7057,7 +7057,7 @@
 		)
 	)
 	(global_label "G_COL23"
-		(shape input)
+		(shape output)
 		(at 57.15 104.14 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7079,7 +7079,7 @@
 		)
 	)
 	(global_label "G_COL55"
-		(shape input)
+		(shape output)
 		(at 57.15 207.01 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7101,7 +7101,7 @@
 		)
 	)
 	(global_label "G_COL22"
-		(shape input)
+		(shape output)
 		(at 57.15 99.06 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7123,7 +7123,7 @@
 		)
 	)
 	(global_label "G_COL43"
-		(shape input)
+		(shape output)
 		(at 201.93 154.94 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7145,7 +7145,7 @@
 		)
 	)
 	(global_label "G_COL60"
-		(shape input)
+		(shape output)
 		(at 201.93 212.09 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7167,7 +7167,7 @@
 		)
 	)
 	(global_label "G_COL28"
-		(shape input)
+		(shape output)
 		(at 203.2 109.22 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7211,7 +7211,7 @@
 		)
 	)
 	(global_label "G_COL17"
-		(shape input)
+		(shape output)
 		(at 85.09 93.98 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7277,7 +7277,7 @@
 		)
 	)
 	(global_label "G_COL42"
-		(shape input)
+		(shape output)
 		(at 201.93 149.86 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7299,7 +7299,7 @@
 		)
 	)
 	(global_label "G_COL8"
-		(shape input)
+		(shape output)
 		(at 55.88 58.42 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7343,7 +7343,7 @@
 		)
 	)
 	(global_label "G_COL30"
-		(shape input)
+		(shape output)
 		(at 175.26 99.06 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7365,7 +7365,7 @@
 		)
 	)
 	(global_label "G_COL40"
-		(shape input)
+		(shape output)
 		(at 57.15 160.02 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7387,7 +7387,7 @@
 		)
 	)
 	(global_label "G_COL21"
-		(shape input)
+		(shape output)
 		(at 57.15 93.98 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7431,7 +7431,7 @@
 		)
 	)
 	(global_label "G_COL53"
-		(shape input)
+		(shape output)
 		(at 57.15 196.85 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7453,7 +7453,7 @@
 		)
 	)
 	(global_label "G_COL34"
-		(shape input)
+		(shape output)
 		(at 85.09 149.86 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7475,7 +7475,7 @@
 		)
 	)
 	(global_label "G_COL27"
-		(shape input)
+		(shape output)
 		(at 203.2 104.14 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7497,7 +7497,7 @@
 		)
 	)
 	(global_label "G_COL54"
-		(shape input)
+		(shape output)
 		(at 57.15 201.93 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7519,7 +7519,7 @@
 		)
 	)
 	(global_label "G_COL19"
-		(shape input)
+		(shape output)
 		(at 85.09 104.14 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7563,7 +7563,7 @@
 		)
 	)
 	(global_label "G_COL4"
-		(shape input)
+		(shape output)
 		(at 83.82 58.42 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7585,7 +7585,7 @@
 		)
 	)
 	(global_label "G_COL44"
-		(shape input)
+		(shape output)
 		(at 201.93 160.02 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7607,7 +7607,7 @@
 		)
 	)
 	(global_label "G_COL46"
-		(shape input)
+		(shape output)
 		(at 173.99 149.86 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7629,7 +7629,7 @@
 		)
 	)
 	(global_label "G_COL47"
-		(shape input)
+		(shape output)
 		(at 173.99 154.94 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7651,7 +7651,7 @@
 		)
 	)
 	(global_label "G_COL5"
-		(shape input)
+		(shape output)
 		(at 55.88 43.18 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7695,7 +7695,7 @@
 		)
 	)
 	(global_label "G_COL63"
-		(shape input)
+		(shape output)
 		(at 173.99 207.01 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7717,7 +7717,7 @@
 		)
 	)
 	(global_label "G_COL59"
-		(shape input)
+		(shape output)
 		(at 201.93 207.01 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7739,7 +7739,7 @@
 		)
 	)
 	(global_label "G_COL52"
-		(shape input)
+		(shape output)
 		(at 85.09 212.09 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7783,7 +7783,7 @@
 		)
 	)
 	(global_label "G_COL37"
-		(shape input)
+		(shape output)
 		(at 57.15 144.78 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7805,7 +7805,7 @@
 		)
 	)
 	(global_label "G_COL51"
-		(shape input)
+		(shape output)
 		(at 85.09 207.01 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7871,7 +7871,7 @@
 		)
 	)
 	(global_label "G_COL9"
-		(shape input)
+		(shape output)
 		(at 203.2 43.18 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7893,7 +7893,7 @@
 		)
 	)
 	(global_label "G_COL56"
-		(shape input)
+		(shape output)
 		(at 57.15 212.09 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7915,7 +7915,7 @@
 		)
 	)
 	(global_label "G_COL10"
-		(shape input)
+		(shape output)
 		(at 203.2 48.26 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7937,7 +7937,7 @@
 		)
 	)
 	(global_label "G_COL26"
-		(shape input)
+		(shape output)
 		(at 203.2 99.06 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7981,7 +7981,7 @@
 		)
 	)
 	(global_label "G_COL38"
-		(shape input)
+		(shape output)
 		(at 57.15 149.86 180)
 		(fields_autoplaced yes)
 		(effects
@@ -8003,7 +8003,7 @@
 		)
 	)
 	(global_label "G_COL18"
-		(shape input)
+		(shape output)
 		(at 85.09 99.06 0)
 		(fields_autoplaced yes)
 		(effects
@@ -8025,7 +8025,7 @@
 		)
 	)
 	(global_label "G_COL45"
-		(shape input)
+		(shape output)
 		(at 173.99 144.78 180)
 		(fields_autoplaced yes)
 		(effects
@@ -8069,7 +8069,7 @@
 		)
 	)
 	(global_label "G_COL41"
-		(shape input)
+		(shape output)
 		(at 201.93 144.78 0)
 		(fields_autoplaced yes)
 		(effects
@@ -8091,7 +8091,7 @@
 		)
 	)
 	(global_label "G_COL29"
-		(shape input)
+		(shape output)
 		(at 175.26 93.98 180)
 		(fields_autoplaced yes)
 		(effects

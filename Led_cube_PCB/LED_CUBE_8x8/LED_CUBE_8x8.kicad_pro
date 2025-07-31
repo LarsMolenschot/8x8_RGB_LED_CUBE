@@ -423,6 +423,10 @@
     [
       "cc8bd84f-da41-4d1f-b6a9-e2091cdfadf0",
       "Blue LED's"
+    ],
+    [
+      "ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089",
+      "Power"
     ]
   ],
   "text_variables": {}

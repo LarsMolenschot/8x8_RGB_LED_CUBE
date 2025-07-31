@@ -36,4 +36,10 @@ K
 F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT244.pdf
 $ENDCMP
 #
+$CMP BMCA000606304R7MD1
+D 4.7 H Shielded Molded Inductor 5.5 A 40mOhm Max Nonstandard
+K
+F https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/BMCA000606304R7MD1
+$ENDCMP
+#
 #End Doc Library

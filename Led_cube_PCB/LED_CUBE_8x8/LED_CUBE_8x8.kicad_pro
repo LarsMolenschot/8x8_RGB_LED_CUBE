@@ -427,6 +427,10 @@
     [
       "ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089",
       "Power"
+    ],
+    [
+      "7bc69d4c-9dbd-42bf-a8af-fd631877e467",
+      "STM32"
     ]
   ],
   "text_variables": {}

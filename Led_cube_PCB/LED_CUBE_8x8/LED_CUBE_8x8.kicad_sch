@@ -95,6 +95,48 @@
 		)
 	)
 	(sheet
+		(at 93.98 22.86)
+		(size 107.95 99.06)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7bc69d4c-9dbd-42bf-a8af-fd631877e467")
+		(property "Sheetname" "STM32"
+			(at 93.98 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32_sch.kicad_sch"
+			(at 93.98 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LED_CUBE_8x8"
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 223.52 116.84)
 		(size 58.42 39.37)
 		(exclude_from_sim no)

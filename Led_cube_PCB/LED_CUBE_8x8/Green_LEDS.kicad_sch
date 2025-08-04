@@ -6375,7 +6375,7 @@
 		)
 	)
 	(global_label "Ena_G5"
-		(shape input)
+		(shape output)
 		(at 365.76 40.64 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7189,7 +7189,7 @@
 		)
 	)
 	(global_label "Ena_G6"
-		(shape input)
+		(shape output)
 		(at 374.65 43.18 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7321,7 +7321,7 @@
 		)
 	)
 	(global_label "Ena_G2"
-		(shape input)
+		(shape output)
 		(at 374.65 33.02 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7409,7 +7409,7 @@
 		)
 	)
 	(global_label "Ena_G7"
-		(shape input)
+		(shape output)
 		(at 365.76 45.72 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7673,7 +7673,7 @@
 		)
 	)
 	(global_label "Ena_G4"
-		(shape input)
+		(shape output)
 		(at 374.65 38.1 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7827,7 +7827,7 @@
 		)
 	)
 	(global_label "Ena_G1"
-		(shape input)
+		(shape output)
 		(at 365.76 30.48 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7959,7 +7959,7 @@
 		)
 	)
 	(global_label "Ena_G3"
-		(shape input)
+		(shape output)
 		(at 365.76 35.56 0)
 		(fields_autoplaced yes)
 		(effects

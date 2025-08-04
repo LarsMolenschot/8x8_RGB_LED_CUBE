@@ -42,4 +42,10 @@ K
 F https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/BMCA000606304R7MD1
 $ENDCMP
 #
+$CMP BMRA000606303R3MA1
+D 3.3 H Shielded Molded Inductor 6 A 35mOhm Max Nonstandard
+K
+F https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/bmra000606303r3ma1
+$ENDCMP
+#
 #End Doc Library

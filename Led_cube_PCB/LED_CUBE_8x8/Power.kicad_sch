@@ -1244,12 +1244,6 @@
 		(uuid "42209eaf-ee0b-499c-a45f-d2f475519530")
 	)
 	(junction
-		(at 46.99 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "42d081c1-e90a-4ebd-bdc3-6716865ade04")
-	)
-	(junction
 		(at 78.74 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1274,22 +1268,28 @@
 		(uuid "b50246fe-07ee-4e0f-b447-fe81e0e2ebd5")
 	)
 	(junction
-		(at 46.99 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bcc4f77e-94e7-4df0-9dc7-e841f06feca5")
-	)
-	(junction
 		(at 64.77 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c05be3ff-fb31-47cd-b815-a254440dfe6f")
 	)
 	(junction
+		(at 46.99 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c8917236-d3ec-4af3-be24-a41b17035126")
+	)
+	(junction
 		(at 181.61 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cf9e2cbe-cd39-4233-bd74-832f5d42a67d")
+	)
+	(junction
+		(at 46.99 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d6d43ab3-33b5-427e-b865-6d718e7b3679")
 	)
 	(junction
 		(at 57.15 81.28)
@@ -1318,6 +1318,16 @@
 			(type default)
 		)
 		(uuid "0865f1d8-ed5d-4072-8723-8633030c9a34")
+	)
+	(wire
+		(pts
+			(xy 46.99 63.5) (xy 62.23 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "090993c7-5a04-4f5b-aca0-c02c86ed8bd8")
 	)
 	(wire
 		(pts
@@ -1351,7 +1361,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 63.5) (xy 62.23 63.5)
+			(xy 31.75 63.5) (xy 46.99 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1378,6 +1388,16 @@
 			(type default)
 		)
 		(uuid "21df4217-bb3e-42d1-a892-59caf3cdd39d")
+	)
+	(wire
+		(pts
+			(xy 46.99 55.88) (xy 62.23 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24588f71-ed8c-471e-b63f-ae37ba176db2")
 	)
 	(wire
 		(pts
@@ -1468,16 +1488,6 @@
 			(type default)
 		)
 		(uuid "48cf0e31-b6a0-4755-9c0b-f35d8a6b8bdb")
-	)
-	(wire
-		(pts
-			(xy 31.75 55.88) (xy 46.99 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c7855ac-29c5-4368-8f58-4559f5b8a591")
 	)
 	(wire
 		(pts
@@ -1731,16 +1741,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 63.5) (xy 46.99 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd49a35d-0e5a-4e68-aeb1-23382cd784e3")
-	)
-	(wire
-		(pts
 			(xy 149.86 58.42) (xy 156.21 58.42)
 		)
 		(stroke
@@ -1751,7 +1751,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 55.88) (xy 62.23 55.88)
+			(xy 31.75 55.88) (xy 46.99 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3193,17 +3193,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_US")
+		(lib_id "Device:C")
 		(at 46.99 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "154dcc01-5afb-4b05-aba8-5d159ec8dc22")
+		(uuid "0d2fb3b3-bb0d-4c91-abf1-44b1312a3bc1")
 		(property "Reference" "C26"
-			(at 50.8 57.7849 0)
+			(at 50.8 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3211,8 +3210,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_10uF"
-			(at 50.8 60.3249 0)
+		(property "Value" "C0.1uF"
+			(at 50.8 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3221,7 +3220,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 59.69 0)
+			(at 47.9552 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3238,7 +3237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor, US symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 46.99 59.69 0)
 			(effects
 				(font
@@ -3248,10 +3247,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "32ed27b4-df26-4b4a-97ab-32c38b4709b5")
+			(uuid "a7b1e991-c165-4c84-a5b8-82b06b5c9a37")
 		)
 		(pin "1"
-			(uuid "43fbbfc7-7fa2-4f75-9059-a0d519ba09e6")
+			(uuid "4e5271f5-c5e8-4860-8836-63a9da59ab62")
 		)
 		(instances
 			(project "LED_CUBE_8x8"
@@ -3482,7 +3481,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7uH"
+		(property "Value" "L4.7uH"
 			(at 92.71 77.47 0)
 			(effects
 				(font

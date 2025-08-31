@@ -48,4 +48,40 @@ K
 F https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/bmra000606303r3ma1
 $ENDCMP
 #
+$CMP 1984963
+D PCB terminal block, nominal current: 8 A, rated voltage (III/2): 250 V, nominal cross section: 1.5 mm, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Linear front pinning, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed in cardboard. Soldering legs in front ar
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/COMBICON%20Spring-Cage%20PCB%20Term.%20Blocks.pdf
+$ENDCMP
+#
+$CMP ABM11-48.000MHz-D7X-T
+D CERAMICS SMD ULTRA MINIATURE QUARTZ CRYSTAL
+K
+F https://abracon.com/Resonators/ABM11.pdf
+$ENDCMP
+#
+$CMP 20021121-00014T4LF
+D Headers & Wire Housings 1.27mm BTB, Hdr, SMT Unshrd, 14 Pos, Tub
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/20021121.pdf
+$ENDCMP
+#
+$CMP 1990038
+D PCB terminal block, nominal current: 2 A, rated voltage (III/2): 250 V, nominal cross section: 0.5 mm, number of potentials: 5, number of rows: 1, number of positions per row: 5, product range: PTSA 0,5, pitch: 2.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning M, Solder pin [P]: 3.6 mm, number of solder pins per potential: 1, type of packaging: packed in cardboard. Offset soldering legs, two-row
+K
+F http://www.phoenixcontact.net/product/1990038
+$ENDCMP
+#
+$CMP 1990041
+D PCB terminal block, nominal current: 2 A, rated voltage (III/2): 250 V, nominal cross section: 0.5 mm, number of potentials: 6, number of rows: 1, number of positions per row: 6, product range: PTSA 0,5, pitch: 2.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.6 mm, number of solder pins per potential: 1, type of packaging: packed in cardboard. Offset soldering legs, two-row
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00059273.pdf
+$ENDCMP
+#
+$CMP ERJ-6GEYJ331V
+D Panasonic ERJ6GE Series Thick Film Surface Mount Fixed Resistor 0805 Case 330 +/-5% 0.125W +/-200ppm/C
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS40/DSANUWW0010992.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -437,6 +437,158 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SamacSys_Parts:1984963"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 16.51 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "1984963"
+				(at 16.51 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "1984963"
+				(at 16.51 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/COMBICON%20Spring-Cage%20PCB%20Term.%20Blocks.pdf"
+				(at 16.51 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "PCB terminal block, nominal current: 8 A, rated voltage (III/2): 250 V, nominal cross section: 1.5 mm, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Linear front pinning, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed in cardboard. Soldering legs in front ar"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "13.1"
+				(at 16.51 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "651-1984963"
+				(at 16.51 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1984963?qs=W3wJikR1%252BS77jmVAo79BfA%3D%3D"
+				(at 16.51 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Phoenix Contact"
+				(at 16.51 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "1984963"
+				(at 16.51 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "1984963_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 15.24 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "SamacSys_Parts:BMCA000606304R7MD1"
 			(pin_names
 				(hide yes)
@@ -1205,6 +1357,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "PWR connector"
+		(exclude_from_sim no)
+		(at 222.25 20.32 0)
+		(size 54.61 38.1)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "35ebaa1e-004d-4bc7-a098-98ec58f84c2d")
+	)
 	(text_box "Buck converter"
 		(exclude_from_sim no)
 		(at 22.86 20.32 0)
@@ -1431,6 +1603,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 40.64) (xy 233.68 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3335ae10-d013-4f23-a963-2b8ef30503a0")
+	)
+	(wire
+		(pts
 			(xy 160.02 67.31) (xy 168.91 67.31)
 		)
 		(stroke
@@ -1558,6 +1740,36 @@
 			(type default)
 		)
 		(uuid "6bd21914-16aa-4dc0-9ff2-a48e36089c7c")
+	)
+	(wire
+		(pts
+			(xy 233.68 40.64) (xy 233.68 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7240b86e-0281-44ea-aeb0-c74e3df0bd86")
+	)
+	(wire
+		(pts
+			(xy 233.68 38.1) (xy 233.68 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75d53351-87b1-4f12-a1f3-bc161d8aabd0")
+	)
+	(wire
+		(pts
+			(xy 242.57 38.1) (xy 233.68 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "780d4307-c297-460d-89a8-92e1ed922b6f")
 	)
 	(wire
 		(pts
@@ -3262,6 +3474,128 @@
 		)
 	)
 	(symbol
+		(lib_id "SamacSys_Parts:1984963")
+		(at 242.57 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "23fd8967-e94c-4e37-b590-6b395950d25a")
+		(property "Reference" "J1"
+			(at 259.08 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1984963"
+			(at 259.08 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "1984963"
+			(at 259.08 133.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/COMBICON%20Spring-Cage%20PCB%20Term.%20Blocks.pdf"
+			(at 259.08 233.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "PCB terminal block, nominal current: 8 A, rated voltage (III/2): 250 V, nominal cross section: 1.5 mm, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Linear front pinning, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed in cardboard. Soldering legs in front ar"
+			(at 242.57 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "13.1"
+			(at 259.08 433.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "651-1984963"
+			(at 259.08 533.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1984963?qs=W3wJikR1%252BS77jmVAo79BfA%3D%3D"
+			(at 259.08 633.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Phoenix Contact"
+			(at 259.08 733.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1984963"
+			(at 259.08 833.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cd08d287-09e2-4f26-a80e-32d517f96800")
+		)
+		(pin "2"
+			(uuid "1fc0fcf3-6069-4eda-b8fb-59b206c038c1")
+		)
+		(instances
+			(project ""
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c/ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 64.77 88.9 0)
 		(unit 1)
@@ -3584,6 +3918,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 233.68 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "35832c24-6a38-41c4-8137-939bcf1e2b10")
+		(property "Reference" "#PWR0150"
+			(at 233.68 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 233.68 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 233.68 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 233.68 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "59485637-154a-4fd5-a928-4edffeae905f")
+		)
+		(instances
+			(project ""
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c/ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089"
+					(reference "#PWR0150")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 78.74 88.9 0)
 		(unit 1)
@@ -3717,6 +4117,72 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089"
 					(reference "C28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 233.68 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "66f5a030-ffed-47d8-a179-6dc7acc04da0")
+		(property "Reference" "#PWR0149"
+			(at 233.68 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 233.68 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 233.68 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 233.68 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9367cf38-8fce-4e75-af89-751579ee00b4")
+		)
+		(instances
+			(project ""
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c/ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089"
+					(reference "#PWR0149")
 					(unit 1)
 				)
 			)

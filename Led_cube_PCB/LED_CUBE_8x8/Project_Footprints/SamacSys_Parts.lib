@@ -274,4 +274,145 @@ A 550 -2 50 1777 -23 0 1 6 N 600 0 500 0
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model 1984963
+#/1120364/1233974/2.50/2/2/Connector
+DEF 1984963 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1984963" 650 200 50 H V L CNN
+F2 "1984963" 650 100 50 H I L CNN
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/COMBICON%20Spring-Cage%20PCB%20Term.%20Blocks.pdf" 650 0 50 H I L CNN
+F4 "PCB terminal block, nominal current: 8 A, rated voltage (III/2): 250 V, nominal cross section: 1.5 mm, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Linear front pinning, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed in cardboard. Soldering legs in front ar" 650 -100 50 H I L CNN "Description"
+F5 "13.1" 650 -200 50 H I L CNN "Height"
+F6 "651-1984963" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1984963?qs=W3wJikR1%252BS77jmVAo79BfA%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1984963" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model ABM11-48.000MHz-D7X-T
+#/4690171/1233974/2.50/4/2/Crystal or Oscillator
+DEF ABM11-48.000MHz-D7X-T Y 0 30 Y Y 1 F N
+F0 "Y" 1050 300 50 H V L CNN
+F1 "ABM11-48.000MHz-D7X-T" 1050 200 50 H V L CNN
+F2 "ABM11" 1050 100 50 H I L CNN
+F3 "https://abracon.com/Resonators/ABM11.pdf" 1050 0 50 H I L CNN
+F4 "CERAMICS SMD ULTRA MINIATURE QUARTZ CRYSTAL" 1050 -100 50 H I L CNN "Description"
+F5 "0.59" 1050 -200 50 H I L CNN "Height"
+F6 "" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "ABRACON" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ABM11-48.000MHz-D7X-T" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X X1 1 0 -100 200 R 50 50 0 0 P
+X GND_1 2 1200 -100 200 L 50 50 0 0 P
+X X2 3 1200 0 200 L 50 50 0 0 P
+X GND_2 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 20021121-00014T4LF
+#/18847839/1233974/2.50/14/3/Connector
+DEF 20021121-00014T4LF J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "20021121-00014T4LF" 750 200 50 H V L CNN
+F2 "2002112100014T4LF" 750 100 50 H I L CNN
+F3 "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/20021121.pdf" 750 0 50 H I L CNN
+F4 "Headers & Wire Housings 1.27mm BTB, Hdr, SMT Unshrd, 14 Pos, Tub" 750 -100 50 H I L CNN "Description"
+F5 "4.75" 750 -200 50 H I L CNN "Height"
+F6 "649-221121-00014T4LF" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/20021121-00014T4LF?qs=oJs1R%252BxK6kTmAaa2SgvDEw%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Amphenol" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "20021121-00014T4LF" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 900 0 200 L 50 50 0 0 P
+X 3 3 0 -100 200 R 50 50 0 0 P
+X 4 4 900 -100 200 L 50 50 0 0 P
+X 5 5 0 -200 200 R 50 50 0 0 P
+X 6 6 900 -200 200 L 50 50 0 0 P
+X 7 7 0 -300 200 R 50 50 0 0 P
+X 8 8 900 -300 200 L 50 50 0 0 P
+X 9 9 0 -400 200 R 50 50 0 0 P
+X 10 10 900 -400 200 L 50 50 0 0 P
+X 11 11 0 -500 200 R 50 50 0 0 P
+X 12 12 900 -500 200 L 50 50 0 0 P
+X 13 13 0 -600 200 R 50 50 0 0 P
+X 14 14 900 -600 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -700 200 -700 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 1990038
+#/333437/1233974/2.50/5/2/Connector
+DEF 1990038 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1990038" 650 200 50 H V L CNN
+F2 "1990038" 650 100 50 H I L CNN
+F3 "http://www.phoenixcontact.net/product/1990038" 650 0 50 H I L CNN
+F4 "PCB terminal block, nominal current: 2 A, rated voltage (III/2): 250 V, nominal cross section: 0.5 mm, number of potentials: 5, number of rows: 1, number of positions per row: 5, product range: PTSA 0,5, pitch: 2.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning M, Solder pin [P]: 3.6 mm, number of solder pins per potential: 1, type of packaging: packed in cardboard. Offset soldering legs, two-row" 650 -100 50 H I L CNN "Description"
+F5 "16.4" 650 -200 50 H I L CNN "Height"
+F6 "651-1990038" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1990038?qs=sps7W%2FwBcGG%2Fj7A7AAdz8A%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1990038" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 800 0 200 L 50 50 0 0 P
+X 3 3 0 -100 200 R 50 50 0 0 P
+X 4 4 800 -100 200 L 50 50 0 0 P
+X 5 5 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 1990041
+#/333439/1233974/2.50/6/2/Connector
+DEF 1990041 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1990041" 650 200 50 H V L CNN
+F2 "1990041" 650 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00059273.pdf" 650 0 50 H I L CNN
+F4 "PCB terminal block, nominal current: 2 A, rated voltage (III/2): 250 V, nominal cross section: 0.5 mm, number of potentials: 6, number of rows: 1, number of positions per row: 6, product range: PTSA 0,5, pitch: 2.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.6 mm, number of solder pins per potential: 1, type of packaging: packed in cardboard. Offset soldering legs, two-row" 650 -100 50 H I L CNN "Description"
+F5 "13.1" 650 -200 50 H I L CNN "Height"
+F6 "651-1990041" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1990041?qs=eiqBpq341KWfl%252B1fhZg0IQ%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1990041" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 800 0 200 L 50 50 0 0 P
+X 2 2 0 0 200 R 50 50 0 0 P
+X 3 3 800 -100 200 L 50 50 0 0 P
+X 4 4 0 -100 200 R 50 50 0 0 P
+X 5 5 800 -200 200 L 50 50 0 0 P
+X 6 6 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model ERJ-6GEYJ331V
+#/656753/1233974/2.50/2/5/Resistor
+DEF ERJ-6GEYJ331V R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "ERJ-6GEYJ331V" 550 150 50 H V L CNN
+F2 "RESC2012X70N" 550 50 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/DKDS40/DSANUWW0010992.pdf" 550 -50 50 H I L CNN
+F4 "Panasonic ERJ6GE Series Thick Film Surface Mount Fixed Resistor 0805 Case 330 +/-5% 0.125W +/-200ppm/C" 550 -150 50 H I L CNN "Description"
+F5 "0.7" 550 -250 50 H I L CNN "Height"
+F6 "667-ERJ-6GEYJ331V" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-6GEYJ331V?qs=f9DM49H8yrPV03C%252BWLc%2FLQ%3D%3D" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Panasonic" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "ERJ-6GEYJ331V" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
 #End Library

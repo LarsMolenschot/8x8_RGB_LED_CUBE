@@ -84,4 +84,10 @@ K
 F https://datasheet.datasheetarchive.com/originals/distributors/DKDS40/DSANUWW0010992.pdf
 $ENDCMP
 #
+$CMP 2N7002BK,215
+D  Logic-level compatible  Very fast switching  Trench MOSFET technology  ESD protection up to 2 kV  AEC-Q101 qualified
+K
+F https://assets.nexperia.com/documents/data-sheet/2N7002BK.pdf
+$ENDCMP
+#
 #End Doc Library

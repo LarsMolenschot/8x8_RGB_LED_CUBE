@@ -137,6 +137,48 @@
 		)
 	)
 	(sheet
+		(at 93.98 128.27)
+		(size 107.95 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "905dac8e-5dc9-4853-8a58-87c51247ef9b")
+		(property "Sheetname" "Layer_select"
+			(at 93.98 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Layer_select.kicad_sch"
+			(at 93.98 160.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LED_CUBE_8x8"
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 223.52 116.84)
 		(size 58.42 39.37)
 		(exclude_from_sim no)

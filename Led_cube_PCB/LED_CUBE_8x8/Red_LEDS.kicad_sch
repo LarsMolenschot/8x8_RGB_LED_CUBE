@@ -1285,410 +1285,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SamacSys_Parts:74AHC138PW,118"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "IC"
-				(at 21.59 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "74AHC138PW,118"
-				(at 21.59 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "SOP65P640X110-16N"
-				(at 21.59 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/74AHC138PW,118.pdf"
-				(at 21.59 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "74AHC(T)138 - 3-to-8 line decoder/demultiplexer; inverting@en-us"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "1.1"
-				(at 21.59 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "771-AHC138PW118"
-				(at 21.59 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=771-AHC138PW118"
-				(at 21.59 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Nexperia"
-				(at 21.59 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "74AHC138PW,118"
-				(at 21.59 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "74AHC138PW,118_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 20.32 -20.32)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "A0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "A1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "A2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 0)
-					(length 5.08)
-					(name "~{E1}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -10.16 0)
-					(length 5.08)
-					(name "~{E2}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -12.7 0)
-					(length 5.08)
-					(name "E3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -15.24 0)
-					(length 5.08)
-					(name "~{Y7}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -17.78 0)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 0 180)
-					(length 5.08)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -2.54 180)
-					(length 5.08)
-					(name "~{Y0}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -5.08 180)
-					(length 5.08)
-					(name "~{Y1}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -7.62 180)
-					(length 5.08)
-					(name "~{Y2}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -10.16 180)
-					(length 5.08)
-					(name "~{Y3}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -12.7 180)
-					(length 5.08)
-					(name "~{Y4}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -15.24 180)
-					(length 5.08)
-					(name "~{Y5}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -17.78 180)
-					(length 5.08)
-					(name "~{Y6}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "SamacSys_Parts:74AHCT244PW,118"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2155,6 +1751,410 @@
 						)
 					)
 					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "SamacSys_Parts:SN74HCS238DYYR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "IC"
+				(at 21.59 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "SN74HCS238DYYR"
+				(at 21.59 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "SOP50P326X110-16N"
+				(at 21.59 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/sn74hcs238"
+				(at 21.59 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "3-To-8 Line Decoder Demultiplexer Inverting And Non-Inverting With Schmitt-Trigger Input"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.1"
+				(at 21.59 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "595-SN74HCS238DYYR"
+				(at 21.59 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74HCS238DYYR?qs=QNEnbhJQKvaif85BFm1rOg%3D%3D"
+				(at 21.59 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Texas Instruments"
+				(at 21.59 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "SN74HCS238DYYR"
+				(at 21.59 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "SN74HCS238DYYR_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 20.32 -20.32)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "A0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "A2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "~{G0}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 0)
+					(length 5.08)
+					(name "~{G1}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -12.7 0)
+					(length 5.08)
+					(name "G2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -15.24 0)
+					(length 5.08)
+					(name "Y7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -17.78 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 0 180)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -2.54 180)
+					(length 5.08)
+					(name "Y0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -5.08 180)
+					(length 5.08)
+					(name "Y1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -7.62 180)
+					(length 5.08)
+					(name "Y2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -10.16 180)
+					(length 5.08)
+					(name "Y3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -12.7 180)
+					(length 5.08)
+					(name "Y4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -15.24 180)
+					(length 5.08)
+					(name "Y5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -17.78 180)
+					(length 5.08)
+					(name "Y6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -12314,6 +12314,168 @@
 		)
 	)
 	(symbol
+		(lib_id "SamacSys_Parts:SN74HCS238DYYR")
+		(at 335.28 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b2ba691-2daf-4d2b-8f1d-17e903dd14a8")
+		(property "Reference" "IC7"
+			(at 347.98 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SN74HCS238DYYR"
+			(at 347.98 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SOP50P326X110-16N"
+			(at 356.87 122.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/sn74hcs238"
+			(at 356.87 222.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "3-To-8 Line Decoder Demultiplexer Inverting And Non-Inverting With Schmitt-Trigger Input"
+			(at 335.28 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at 356.87 422.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "595-SN74HCS238DYYR"
+			(at 356.87 522.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74HCS238DYYR?qs=QNEnbhJQKvaif85BFm1rOg%3D%3D"
+			(at 356.87 622.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 356.87 722.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SN74HCS238DYYR"
+			(at 356.87 822.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "13"
+			(uuid "854ba06d-97a5-417c-acde-efd101e80c48")
+		)
+		(pin "6"
+			(uuid "aa037b8d-e3fd-4fed-aa2c-da0807346757")
+		)
+		(pin "7"
+			(uuid "6fc06390-2827-4236-8d76-be316909994f")
+		)
+		(pin "4"
+			(uuid "682bb996-f9f8-48ff-be47-0bf5811b28c3")
+		)
+		(pin "16"
+			(uuid "32cd447c-2ea4-4b36-93df-071a6db83347")
+		)
+		(pin "2"
+			(uuid "1eb13da9-af99-4e65-9a3b-5f9603a6e81a")
+		)
+		(pin "1"
+			(uuid "8332eabb-756f-4bf7-a506-ee777e2f0e97")
+		)
+		(pin "9"
+			(uuid "ae22ed5c-0f2f-48d7-b103-b5dc66f5e1da")
+		)
+		(pin "8"
+			(uuid "e453b87b-1a8e-4e4a-8df8-3ab41511d0c7")
+		)
+		(pin "3"
+			(uuid "c1913689-c6aa-417b-98ef-8c1c79d40693")
+		)
+		(pin "15"
+			(uuid "6f7a0e44-fddc-462c-9908-25e3b466ce62")
+		)
+		(pin "14"
+			(uuid "7af690fe-c91b-4d8d-8a01-9a0cdb305ceb")
+		)
+		(pin "12"
+			(uuid "5fc5ff8d-c6c5-4c88-acf5-87e9848f3227")
+		)
+		(pin "11"
+			(uuid "6cfb4f7f-3b99-4887-a4aa-07dd2b13a182")
+		)
+		(pin "5"
+			(uuid "843cf63f-f5ea-415c-874d-f4eb07647c6f")
+		)
+		(pin "10"
+			(uuid "932f04c4-3009-43d0-899f-8b0a0f4b13d0")
+		)
+		(instances
+			(project ""
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
+					(reference "IC7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 355.6 123.19 270)
 		(unit 1)
@@ -22021,168 +22183,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
 					(reference "R119")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:74AHC138PW,118")
-		(at 335.28 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f10c99f1-1f68-4dd6-ae2b-6de4db61a05b")
-		(property "Reference" "IC7"
-			(at 347.98 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "74AHC138PW,118"
-			(at 347.98 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SOP65P640X110-16N"
-			(at 356.87 122.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/74AHC138PW,118.pdf"
-			(at 356.87 222.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "74AHC(T)138 - 3-to-8 line decoder/demultiplexer; inverting@en-us"
-			(at 335.28 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.1"
-			(at 356.87 422.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "771-AHC138PW118"
-			(at 356.87 522.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=771-AHC138PW118"
-			(at 356.87 622.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Nexperia"
-			(at 356.87 722.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "74AHC138PW,118"
-			(at 356.87 822.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "7b2863b2-d2da-4348-8cd7-9c27ae538ce6")
-		)
-		(pin "15"
-			(uuid "10950b49-9e0b-4df4-8d89-7c333d90e253")
-		)
-		(pin "2"
-			(uuid "71adf2d6-0154-4fb5-be0f-6e14c70cd293")
-		)
-		(pin "7"
-			(uuid "46beb6ad-a0fc-415f-9a06-62dc7bf50ff7")
-		)
-		(pin "12"
-			(uuid "2024e456-5f66-4af0-8832-8f03086bcd5d")
-		)
-		(pin "1"
-			(uuid "26b2c3b0-8c3c-41cc-a97c-04ff9543bd18")
-		)
-		(pin "11"
-			(uuid "333d3838-646f-4bce-8aac-1fd9f798b78f")
-		)
-		(pin "10"
-			(uuid "5e1e0917-98ab-46c5-ba4f-db7a429b85a1")
-		)
-		(pin "8"
-			(uuid "48351122-0a74-4d6e-ba04-88245a995964")
-		)
-		(pin "16"
-			(uuid "54204c3d-321d-433c-85b5-0252e5dc94d7")
-		)
-		(pin "9"
-			(uuid "3c759d6d-9bc3-463d-81d5-4ab1228bd288")
-		)
-		(pin "3"
-			(uuid "720e08d5-b3eb-4149-83bf-4f77cc8deb46")
-		)
-		(pin "13"
-			(uuid "2bfa2450-5b93-4ba8-90d0-8dcbd61f7490")
-		)
-		(pin "5"
-			(uuid "e9032952-d7e9-4d8d-a63a-d11cbfec8bf5")
-		)
-		(pin "6"
-			(uuid "53004347-65c9-4d38-9fab-a7205996342c")
-		)
-		(pin "14"
-			(uuid "a5d2fcab-39df-4dc0-8cc5-c97a046ec4bb")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "IC7")
 					(unit 1)
 				)
 			)

@@ -90,4 +90,16 @@ K
 F https://assets.nexperia.com/documents/data-sheet/2N7002BK.pdf
 $ENDCMP
 #
+$CMP TBD62083AFNG,EL
+D BiCD Integrated Circuit Silicon Monolithic
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=29893&prodName=TBD62083AFG
+$ENDCMP
+#
+$CMP SN74HCS238DYYR
+D 3-To-8 Line Decoder Demultiplexer Inverting And Non-Inverting With Schmitt-Trigger Input
+K
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/sn74hcs238
+$ENDCMP
+#
 #End Doc Library

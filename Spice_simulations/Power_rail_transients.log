@@ -1,0 +1,1756 @@
+LTspice 26.0.1 for Windows
+Circuit: E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net
+Start Time: Sat Apr 18 12:54:15 2026
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(3): This sub-circuit cannot be instantiated because it contains these syntax errors:
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(64): Expected a sequence <directive or device instantiation end of line> here.
+$CDNENCSTART_ADV2
+^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(65): Expected a sequence <directive or device instantiation end of line> here.
+17f62b1fb318c25603aeb85644ae98a5d179ef807807791f6459efacb9d7ffc37a831b146dc0f06bb1ef275619162e6d8f7ad0dc708bf15ae1a1d5bd0ae623b2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(66): Expected a sequence <directive or device instantiation end of line> here.
+c03e100481a706fc69d9b274e18f4cb25652d031f8de1abfd3cd0db998d19e4b0b4b945465eed843b713ef7a6a9517f9ce8848de8c53bc61a474cf7566e10376
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(67): Expected a sequence <directive or device instantiation end of line> here.
+62070955318c3eaf6d33326d50d0a08c627ce5b47408a02e513871b3e5907dc280d221434adf0c58bc0920decc2056177bb47768921fbb7e7f40092333efebcb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(68): Expected node name here.
+bec384cd59ac5b14fd40c4d2c27a2c0d3a7075fd69e05bbf74a596e2cf653b9f192c00dcbab0f5939aed5a957433fc2aad46247764bf819a88883ba31b6b1b07
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(68): Expected a sequence <directive or device instantiation end of line> here.
+bec384cd59ac5b14fd40c4d2c27a2c0d3a7075fd69e05bbf74a596e2cf653b9f192c00dcbab0f5939aed5a957433fc2aad46247764bf819a88883ba31b6b1b07
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(69): Expected a sequence <directive or device instantiation end of line> here.
+9aa1852b8f77f1a28d42dfc489b457a9e5e700ef742f7b1ac13ac53446f514223c9d320530462117a7e89dfb06779df5dc3120e8e97d2dbcdd067cbc1eea0dfc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(70): Expected a sequence <directive or device instantiation end of line> here.
+10ef46454f1832fd8faeaf73328be03b74499066d5216735b82729f7143d78e585696825f2a07c0241ec7ea60c7219eaeb4d0528888bd80fb708f241ea7371d9
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(71): Expected node name here.
+f36551016244621c0ae1c1c11c4ba0beda3f5e8b22db99a196a48037e59fb486c76bb561ecbf1bff8999e334dbc883fe42b87742699b6fd9f1b9a41fe4c6ea96
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(71): Expected a sequence <directive or device instantiation end of line> here.
+f36551016244621c0ae1c1c11c4ba0beda3f5e8b22db99a196a48037e59fb486c76bb561ecbf1bff8999e334dbc883fe42b87742699b6fd9f1b9a41fe4c6ea96
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(72): Expected 2 node names here.
+ec6e00308396369603b879471152fbecbd6f4fc95c49fdfa18bdebd4cda15050dcddecc2ce547080c6c405bbcef00349b8fd11db1518d985856af6ed506095d3
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(73): Expected node name here.
+bb29468ec7bfa2458f65a4d6fb128935b67fa9711abe6d6efb2026036d661cf6e96d42d1738d7b7dbeba6b2781ff49535cf801ace15fbdd5121db089b5ad5ab3
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(73): Expected a sequence <directive or device instantiation end of line> here.
+bb29468ec7bfa2458f65a4d6fb128935b67fa9711abe6d6efb2026036d661cf6e96d42d1738d7b7dbeba6b2781ff49535cf801ace15fbdd5121db089b5ad5ab3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(74): Expected a sequence <directive or device instantiation end of line> here.
+910301d70f931d569b3b3d67721bb5453906bbf5a3d3ee1ff156c2ffb06eb72e5c7f1069cfe272bf703465b399610e6cdaff40937f93508d10d7a12dc67a00d9
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(75): Expected a sequence <directive or device instantiation end of line> here.
+1f151db2ac4dc76c93afa99260fd5a2a55c31fe1df258c59a6ae47c97bc81ff2fd957d39cfebed0ff9966016b7885e18e938d5993da3d0ce91aa64959bb60fa4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(76): Expected a sequence <directive or device instantiation end of line> here.
+3864001e863225d37e7b0c7ec8db7e04745d2f9fd2afabae35c3ee7d9869c39519797c44bba88ae04ffb6c1cc326b32316dadd325f20c64cde69de697edfd25e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(77): Expected a sequence <directive or device instantiation end of line> here.
+43d0127b4cb34d0c943e6cabbf679f06617c58f09bd597b365deeba6ab64a28009d44f0afd66bccf08cabf09c2450884dc9890713baac8553edd276e7efd498d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(78): Expected node name here.
+fdee4325090e68b175adc88f16978e203c9d320530462117a7e89dfb06779df5d4f5132a2444a5f260e717b9c55a908aaa5aa0089fa1aaf051c1f00bce6f2721
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(78): Expected a sequence <directive or device instantiation end of line> here.
+fdee4325090e68b175adc88f16978e203c9d320530462117a7e89dfb06779df5d4f5132a2444a5f260e717b9c55a908aaa5aa0089fa1aaf051c1f00bce6f2721
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(79): Expected a sequence <directive or device instantiation end of line> here.
+52eac2b702a9975c0775dc510a4c7120638e6a49184506e44b8a26cefe0246b1a73b7b8b04f00533c5aae649029fa01a758cd1433b095bd557ee088122dde553
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(80): Expected a sequence <directive or device instantiation end of line> here.
+94aa929f0c54e0aadb788460e6bbbc06e23bf7b2b1d5ad6ccf8a7a2915928b31a5b8c36cd515229ec1cede64474468fbcc443b89e3ab95c75a71e1904feb8ac8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(81): Expected node name here.
+f0575896586cb48950e5c8731cdf51791dab21501491faf6b1cd124837b3b9b6e5bcf6bee9b4eb5a0e822d86319999759c9459c6ecb154ba2ab1a2f4a89c9ec1
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(81): Expected a sequence <directive or device instantiation end of line> here.
+f0575896586cb48950e5c8731cdf51791dab21501491faf6b1cd124837b3b9b6e5bcf6bee9b4eb5a0e822d86319999759c9459c6ecb154ba2ab1a2f4a89c9ec1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(82): Expected a sequence <directive or device instantiation end of line> here.
+4e783eb3055a53373aafae7e9ab627bd395b05cd4c5331eef9946928c3aaad811c4aa3330b71ee8345ee936b9f3a4013cfcdc283658954a9b39f807a64b445dc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(83): Expected a sequence <directive or device instantiation end of line> here.
+12146c895af27b09aeff33f158d6b8b85edd4e06ccfbb59d02d91b15cb8ffc06f81bed367a7498b3d0096e0e4424fc7d09ca46b23658867365bb55d2d89f3078
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(84): Expected a sequence <directive or device instantiation end of line> here.
+81723a0b86aa87a7aaaa3250495eeed26146e1ae215632794e9a085c41874731cbc22ef9ca80db407da76fba8e2d1d554d876558cee3e252798fef237d494c73
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(85): Expected node name here.
+bd3594af85e8068f44fde6fcf893cf34b4b5d58bdb3bb94558d5d42c2aeed5fb3f3cef42580745b0c74659c525064b454077ad57f502dd188f9378c3d8cad6b7
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(85): Expected a sequence <directive or device instantiation end of line> here.
+bd3594af85e8068f44fde6fcf893cf34b4b5d58bdb3bb94558d5d42c2aeed5fb3f3cef42580745b0c74659c525064b454077ad57f502dd188f9378c3d8cad6b7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(86): Expected a sequence <directive or device instantiation end of line> here.
+4473216a7ca00d310f695b0b7f00d5fa3f8198008c66b99f006053663d5d0366c61930f40199d9cd659bee1c7ac1cf622542d0c555684a839a11abcf7d95a0bd
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(87): Expected a sequence <directive or device instantiation end of line> here.
+4a5b40954dbfdd0cf8a26065019a5121ae0b79f7a17cec1110cb7ca2a1ae2cea68b45c7e70470ad03c58a76d5802e27442b87742699b6fd9f1b9a41fe4c6ea96
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(88): Expected a sequence <directive or device instantiation end of line> here.
+4a193ccf68b3c9e54a810d6948df0b5783741802f547c9fae5b4c17b203f2ce7a7d7d36cb6ce38c0d948383de19949ff805de18e1f5aab6169680d9754eebefb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(89): Expected node name here.
+b2b62eaf99535d18af0607b231d33ed7395b05cd4c5331eef9946928c3aaad811c4aa3330b71ee8345ee936b9f3a4013cfcdc283658954a9b39f807a64b445dc
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(89): Expected a sequence <directive or device instantiation end of line> here.
+b2b62eaf99535d18af0607b231d33ed7395b05cd4c5331eef9946928c3aaad811c4aa3330b71ee8345ee936b9f3a4013cfcdc283658954a9b39f807a64b445dc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(90): Expected node name here.
+ad22f5aec1dfc398c4fa233102f172f76146e1ae215632794e9a085c41874731400d085b9e1603eee904a6935f2614f6420b2f7ebdc203afac4d6889a617ee2e
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(90): Expected a sequence <directive or device instantiation end of line> here.
+ad22f5aec1dfc398c4fa233102f172f76146e1ae215632794e9a085c41874731400d085b9e1603eee904a6935f2614f6420b2f7ebdc203afac4d6889a617ee2e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(91): Expected 2 node names here.
+e32fb575c644aea89e82231c61c01a7e3a1c9609f5f5063ae63258c8f90641e66a44df497f8cf236c0e0527042b34a5ab5b3b96b2baff7045a91c99b5fb8ee63
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(92): Expected node name here.
+d9ea628a8fbb3eb5ddbce694c5ca5624e8be1e9824ba15b60850f6c6143cd282a71f4fcf19ec21e7caa7eed072ff0e36fff61764552fb81ed2ebda0aff0ee0e3
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(92): Expected a sequence <directive or device instantiation end of line> here.
+d9ea628a8fbb3eb5ddbce694c5ca5624e8be1e9824ba15b60850f6c6143cd282a71f4fcf19ec21e7caa7eed072ff0e36fff61764552fb81ed2ebda0aff0ee0e3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(93): Expected a sequence <directive or device instantiation end of line> here.
+3dacd48c019eb90c312dd73babf9cb855cc6efdee9f6af940c582589d47a469ba2bf90fe1a091d63ab4f30ea3f7cf19e42b87742699b6fd9f1b9a41fe4c6ea96
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(94): Expected a sequence <directive or device instantiation end of line> here.
+65561b268154955ef17bdd9746a0f04a6146e1ae215632794e9a085c41874731a5a3237a01a7205416763af1a56691e5636641ade9d80a7f5c10dea2c4970f66
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(95): Expected a sequence <directive or device instantiation end of line> here.
+42d34c6b6cccd0d91f2859e518be5fa967c606539b37dca902d81bbc41cd2e6ca387166bd1c742de19ec3c0b860437c4c281a48490d9ebb0b9a256d3b8955ff1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(96): Expected a sequence <directive or device instantiation end of line> here.
+5054432af27556a478d1c783c7d5e391f5fd2469d7956263170288fd0725667487bae25275b6645df5bf84a95b2493070b92eca08a1c8be66b5bec70859def4b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(97): Expected a sequence <directive or device instantiation end of line> here.
+75a4df9b955a4ea44b7c34526febf286f5fd2469d7956263170288fd07256674a045918d65e0c6c4ccb56498f55b71520b92eca08a1c8be66b5bec70859def4b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(98): Expected a sequence <directive or device instantiation end of line> here.
+8552c02e72576abf2d5b4a417713fb24f5fd2469d7956263170288fd072566747ffcbb5695dda5bf5fa008fc585802260b92eca08a1c8be66b5bec70859def4b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(99): Expected node name here.
+f197ae3094532e6aff758bae099a0b674bffca2eba5633c5b54207ead85402c7993fdd2b188bee228b6f7ca40d97b5d5122babca43fbf037f74c4159702d3ab6
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(99): Expected a sequence <directive or device instantiation end of line> here.
+f197ae3094532e6aff758bae099a0b674bffca2eba5633c5b54207ead85402c7993fdd2b188bee228b6f7ca40d97b5d5122babca43fbf037f74c4159702d3ab6
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(100): Expected a sequence <directive or device instantiation end of line> here.
+91f0131075ea21330294c6ea10671e83ac3b4c9b1f3a7286fdcd3a6539c99dae7576f0a941a25c375352853835f1d9f7fabace9e27166724e9dd89c6a3cad6f3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(101): Expected a sequence <directive or device instantiation end of line> here.
+12e88fe0b231d531181ef55e2e7b3bfa913bdde10f158331e55b218cde844db01150734e4806bfdd27f176e1d2466b2a5b886d37a773552612b1bb9d3266156d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(102): Expected a sequence <directive or device instantiation end of line> here.
+2ca096f6d23145f18b135239c5cb9bce780041e2e235e11312c0d10428595fd5fbb817e85273ae43cca35fc63461b33d40d9bcbe93ba44c48154d308c48dbc77
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(103): Expected a sequence <directive or device instantiation end of line> here.
+4a6d68398e9559985ef8952ff3793a9bae58ab56802208086e2e47d5748405defa3176b1ddf2c790874796d5804cead81ff1e52b491fb98c4de5c8c10bed6dd1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(104): Expected a sequence <directive or device instantiation end of line> here.
+4f1b3429707e004b1a62a4653f974692563b70e4e18292839a4c21d8ffe24095fe830c90788194b5148a261b06c45b6569815b52d2bacd98ce1b09cb5641ceb3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(105): Expected a sequence <directive or device instantiation end of line> here.
+42d34c6b6cccd0d91f2859e518be5fa967c606539b37dca902d81bbc41cd2e6ca387166bd1c742de19ec3c0b860437c4c281a48490d9ebb0b9a256d3b8955ff1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(106): Expected a sequence <directive or device instantiation end of line> here.
+8d523aa4fb9b3951e914e393819ac7bd4ad765bc05d246b0acf7a00367f733e2ddc4d56040b99c2bad53c966b1535f264e12af93a70f7cbe55c6a3d7d17699bf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(107): Expected 2 node names here.
+e8d513d98004084a2e1101bbdb3123436146e1ae215632794e9a085c41874731da05ff030c2e66e0d21936ef2635ea87addc2f3b4362fed52a2cc32c8680294d
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(108): Expected a sequence <directive or device instantiation end of line> here.
+3df6a40bef899910723dc83eb095f4d46146e1ae215632794e9a085c41874731794a113a81c64c1ad99b1a641685ee91a88f094819deac5936a80ed39f1e0d5c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(109): Expected a sequence <directive or device instantiation end of line> here.
+8039033b5c53da5845cdccd021ece1eaf5fd2469d7956263170288fd072566742d13f76f8682d1387f3063d1369d7e9bd78335c08515e47ea3bfb4c23a0c6f8a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(110): Expected node name here.
+f6251b3837dd523e9da2404dc01fce3281cd702d89b662c2cd1c03a3a2e5768631dbcb5c2459590d9164037767daeb9cafd414f1277779b1a082cf1b0f4135e1
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(110): Expected a sequence <directive or device instantiation end of line> here.
+f6251b3837dd523e9da2404dc01fce3281cd702d89b662c2cd1c03a3a2e5768631dbcb5c2459590d9164037767daeb9cafd414f1277779b1a082cf1b0f4135e1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(111): Expected node name here.
+d338f4d8800615dba26058b83c2cc6073f8198008c66b99f006053663d5d0366c61930f40199d9cd659bee1c7ac1cf622542d0c555684a839a11abcf7d95a0bd
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(111): Expected a sequence <directive or device instantiation end of line> here.
+d338f4d8800615dba26058b83c2cc6073f8198008c66b99f006053663d5d0366c61930f40199d9cd659bee1c7ac1cf622542d0c555684a839a11abcf7d95a0bd
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(112): Expected a sequence <directive or device instantiation end of line> here.
+398811c782f12dd87e5730e9e349d3cf3994391f3c48853a7327bf6f5fa545e35bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(113): Expected a sequence <directive or device instantiation end of line> here.
+3f56e5645114b60d09181eb17d39b2d886d7ddb3f828c083e332b00f35d937632e09c216e6727273cec9f991190a76e9ee441d5b51acdd5a36ee0ef6e39a8978
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(114): Expected a sequence <directive or device instantiation end of line> here.
+9a8989ee368454115c79cc784f6f3eec395b05cd4c5331eef9946928c3aaad811c4aa3330b71ee8345ee936b9f3a4013cfcdc283658954a9b39f807a64b445dc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(115): Expected node name here.
+a9e8dec4948b68c75dbd0ae947f600e160d97a887c59ed029111f0dac58be7c4e9838e592c65191a7b272246fa54c815ed1ed037d1b448f1e2f155cb37da400a
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(115): Expected a sequence <directive or device instantiation end of line> here.
+a9e8dec4948b68c75dbd0ae947f600e160d97a887c59ed029111f0dac58be7c4e9838e592c65191a7b272246fa54c815ed1ed037d1b448f1e2f155cb37da400a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(116): Expected a sequence <directive or device instantiation end of line> here.
+305920a0cd321a5cddb977fb4b5a716cf5fd2469d7956263170288fd07256674b0ca00a8311d73202469c7b26569fe950b92eca08a1c8be66b5bec70859def4b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(117): Expected a sequence <directive or device instantiation end of line> here.
+5477cefac59b16a4ffdf13e1c7eb9a316146e1ae215632794e9a085c4187473134f3c2f84d8eb74d3d5e871652bc37645c6168d71a87c0736ca3b39ceb8447a8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(118): Expected a sequence <directive or device instantiation end of line> here.
+163d7167d0610c3abcfe5a4377efa2cd3a7075fd69e05bbf74a596e2cf653b9f192c00dcbab0f5939aed5a957433fc2aad46247764bf819a88883ba31b6b1b07
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(119): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026b9ef4b59b82d27b3718d136702c20e10e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(120): Expected a sequence <directive or device instantiation end of line> here.
+2da6dcb2b05e0dc1a17160b34126f5756146e1ae215632794e9a085c41874731f68e3e89d614637645a27372b8b41430cc443b89e3ab95c75a71e1904feb8ac8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(121): Expected a sequence <directive or device instantiation end of line> here.
+981b63eb606fa627491b61dd2bc88aaf83741802f547c9fae5b4c17b203f2ce726f81d9f1e9c667c9fd7165158e2222d01d2ede1359a85bbdfffd15d93dc6197
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(122): Expected a sequence <directive or device instantiation end of line> here.
+c239fc0d16001c17e24be7b0b69f6c6bb67fa9711abe6d6efb2026036d661cf6e96d42d1738d7b7dbeba6b2781ff49535cf801ace15fbdd5121db089b5ad5ab3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(123): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026bdcd4844856e7959232f1238d4a2c343f59fe289bc0225d5dc4798734147b4cacce8848de8c53bc61a474cf7566e10376
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(124): Expected a sequence <directive or device instantiation end of line> here.
+c5402b1179209836166c3bd7ef265b89f5fd2469d7956263170288fd0725667490ad53d6d5094335492a0f1a9551e4290b92eca08a1c8be66b5bec70859def4b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(125): Expected a sequence <directive or device instantiation end of line> here.
+2e1a5eb453a96db5564d291e3703136860f6cec8c31907649ec7060c1b7684ec6e27c4758e40978603271aac6e2234fd0b92eca08a1c8be66b5bec70859def4b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(126): Expected a sequence <directive or device instantiation end of line> here.
+11cfcff4b07925338f95e921090873e36146e1ae215632794e9a085c4187473163bed92abce2bff49e7b6022665823868e4de54f602578a7a8747cb7f34232f5
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(127): Expected node name here.
+a40410fa2adb71c0f07d35fd8059cfbb6146e1ae215632794e9a085c41874731e8323c7709a64d241cf4d6071f541933ba0bc15418fe1e6ee478cdfcf3cf7224
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(127): Expected a sequence <directive or device instantiation end of line> here.
+a40410fa2adb71c0f07d35fd8059cfbb6146e1ae215632794e9a085c41874731e8323c7709a64d241cf4d6071f541933ba0bc15418fe1e6ee478cdfcf3cf7224
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(128): Expected a sequence <directive or device instantiation end of line> here.
+6c79afc015ef01293babbf120f604628b192198c9f1dcd9999fa9ce7d5b2ec612834ae1684ffad0ad9cd76f44afc34110b92eca08a1c8be66b5bec70859def4b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(129): Expected a sequence <directive or device instantiation end of line> here.
+7058f0aef68dd5e21e5cec2b8448f985b4b5d58bdb3bb94558d5d42c2aeed5fb5d750fed07bf1b043c4950391f62df34006df87b16a50eef65c66648bef6d15b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(130): Expected a sequence <directive or device instantiation end of line> here.
+1d751ee2659870166d6e05cf64b6186c1e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(131): Expected a sequence <directive or device instantiation end of line> here.
+0962b76d43446a2b401d22ca66c839b534e7c31a1f76697d598798c966f257e173ff5b483dc4a9f58207661e369e940f119d833847ca94cb0b659820878b812e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(132): Expected a sequence <directive or device instantiation end of line> here.
+7ee3adabda35ae96b7d4d07e548ed04e0fd899b926f617adb3509575fda859eb55b634d1f9020f73b1bcd1735b6577099f19d84d9bf3d705055c738c3a82f100
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(133): Expected a sequence <directive or device instantiation end of line> here.
+4865b6a95cbb82044c91f5beef41e2a8c777593416e98f7948a9e59fa27a079c4742fb364bfd6eccf27b56aca20c6859f14417150f5751416b124b589e25ff35
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(134): Expected a sequence <directive or device instantiation end of line> here.
+56dcdfa14dea41f21e5bad9923ceaf3d08e3e6c97bf76f4b445c3fb4d575306c7372492370f4a18ced98d6903bc8f6b3ce0f8ee511d7c7ff7d84a24886e6ccf5
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(135): Expected a sequence <directive or device instantiation end of line> here.
+6e5a68841f807e0fac72f8fa1f28fddac87395ba794159f20aae7ac5c3ff272978370f6ca9f90dcd92b9b01ecc32dde252dcea293b2890ed9c8e7a95ad2657da
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(136): Expected a sequence <directive or device instantiation end of line> here.
+691e61fd29c6d99cf1c2b52e64cfdf97a394a739d40a08aa536934c58db2bea0046c143c886c4d301cd889134534e54752dcea293b2890ed9c8e7a95ad2657da
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(137): Expected node name here.
+b67ea700ba85bbe0a5282215431bc29b86d7ddb3f828c083e332b00f35d93763be03f110f0ee92e31ae473f9859df98ed0df0d65ef94e5c79fc73b1b7dee26bf
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(137): Expected a sequence <directive or device instantiation end of line> here.
+b67ea700ba85bbe0a5282215431bc29b86d7ddb3f828c083e332b00f35d93763be03f110f0ee92e31ae473f9859df98ed0df0d65ef94e5c79fc73b1b7dee26bf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(138): Expected a sequence <directive or device instantiation end of line> here.
+c5aef37a3143e695d7deefa1a6d4387e3c9d320530462117a7e89dfb06779df5d4f5132a2444a5f260e717b9c55a908aaa5aa0089fa1aaf051c1f00bce6f2721
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(139): Expected node name here.
+b5e3630ba22bab3895275c647301bcd5ebaaff418295058334a9d5e361894c59b67fa9711abe6d6efb2026036d661cf6f3e75855274d61f55789bdc0a5625957
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(139): Expected a sequence <directive or device instantiation end of line> here.
+b5e3630ba22bab3895275c647301bcd5ebaaff418295058334a9d5e361894c59b67fa9711abe6d6efb2026036d661cf6f3e75855274d61f55789bdc0a5625957
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(140): Expected a sequence <directive or device instantiation end of line> here.
+961d053578d84f0a864a70cc2618ea85d19a042993335e8d2bd0cc36023ba8a53bb6d49843fc3f6f5439b387ce5712c042b87742699b6fd9f1b9a41fe4c6ea96
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(141): Expected a sequence <directive or device instantiation end of line> here.
+65a79a12c780ca79d8f8c826da474bf56146e1ae215632794e9a085c4187473142022e4a011d889bc068a4852399371acc8d3006c7e6515f580991aae47b8358
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(142): Expected a sequence <directive or device instantiation end of line> here.
+5a046fb06d01b6093674d0d92b71d906beb41e15408fd279ca78231f9fc7bb18b7d1b1799bb7350a30cbf9101afa2f2175a5a53d7fd875fc00a824f9ee34148f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(143): Expected a sequence <directive or device instantiation end of line> here.
+7c15ebc28bcf4f4908ce958d8dec723a9d61a30d1c4c78213889db7908acdcfd89359906ef70ddfb0a58c7b1d345bdf7ec839002fbdf0309b2bafd3384540310
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(144): Expected a sequence <directive or device instantiation end of line> here.
+1a590cd9dfced49a9b919794e8b31ca6598e28957996a08078a25ac775f3f2a869f780b503fcc38630932d06fd532fb460e456a119310e4464058bb4b782dcb2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(145): Expected a sequence <directive or device instantiation end of line> here.
+6cf373fd78ea28e66ddb02c705fff889a73b7b8b04f00533c5aae649029fa01ad4912078928c294e065e1720b37d11bfe8d26e472fd5795130d2548332d1d317
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(146): Expected a sequence <directive or device instantiation end of line> here.
+c570ee9d53c6da20d32fc1d77b14aafb2a89082a3305db6f543ea62b7e7816603fd3f1b333f03771de7a3d58594d6fd8bebc0173e4ff7cfe4d9230120d187a45
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(147): Expected a sequence <directive or device instantiation end of line> here.
+4a7a8fda1af9a697d1806c3a70624762c477fee5f125e04270bcdfde44542097aecaf9471e168a955ca3a51ddc975848e7c851b8b9f26adcf53dab1046eecf95
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(148): Expected a sequence <directive or device instantiation end of line> here.
+86b34fb9b0f1add5307b165975ef7ad73f8198008c66b99f006053663d5d0366c61930f40199d9cd659bee1c7ac1cf622542d0c555684a839a11abcf7d95a0bd
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(149): Expected a sequence <directive or device instantiation end of line> here.
+9aa1852b8f77f1a28d42dfc489b457a9e5e700ef742f7b1ac13ac53446f514223c9d320530462117a7e89dfb06779df5dc3120e8e97d2dbcdd067cbc1eea0dfc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(150): Expected node name here.
+fc4fb18dacfd8e8640f0a83ae94962bb8704ba89a897802013a97a6f180332ee59a80c871fb489a857f29491c57f97588ad705d34acfb96ece68e403f10360e6
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(150): Expected a sequence <directive or device instantiation end of line> here.
+fc4fb18dacfd8e8640f0a83ae94962bb8704ba89a897802013a97a6f180332ee59a80c871fb489a857f29491c57f97588ad705d34acfb96ece68e403f10360e6
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(151): Expected a sequence <directive or device instantiation end of line> here.
+635ea1189c1ae2dae9fe44ca85e320e11a152c2d66aec6ba182ff7dc619f03e23f8198008c66b99f006053663d5d0366aa13145be0dc7e14fe2e7677cb13ab90
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(152): Expected a sequence <directive or device instantiation end of line> here.
+78da38293a4f654620f9d650231afc34babf10d09fceabe033f323ecad0dab8296a1c0ed0764d360e32c34c6308ce90ce7d6d70d19f66b4d24d64eb24f125d04
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(153): Expected a sequence <directive or device instantiation end of line> here.
+834d44ac762c5a3b82f74ef18c24d637005337ce95e08c6635320d9ce60d34e6be06f289d903b1530dd04c2e39d5bdc25aab57eb562d091d4402c72ee37c152e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(154): Expected a sequence <directive or device instantiation end of line> here.
+6fe395a18cfe59527c23362e6594606fe9838e592c65191a7b272246fa54c8156f276a68fe7b8092cd416a24f3e3143eca74516309fde8ee86f8d3e78f6a46c1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(155): Expected a sequence <directive or device instantiation end of line> here.
+ce4f15c9d1391a1a7c988d94f03892b9ef43e137e67beb21db71b2723a282d5add925652ba0631a60e2839e2da6a9bad52dcea293b2890ed9c8e7a95ad2657da
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(156): Expected node name here.
+a8ac899922224a81399e3f6df7438ede35818911ee35c02d9d26bd5ec3ce66255cebe22a44b4dfacf9f2d1171c6ac32b42b87742699b6fd9f1b9a41fe4c6ea96
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(156): Expected a sequence <directive or device instantiation end of line> here.
+a8ac899922224a81399e3f6df7438ede35818911ee35c02d9d26bd5ec3ce66255cebe22a44b4dfacf9f2d1171c6ac32b42b87742699b6fd9f1b9a41fe4c6ea96
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(157): Expected a sequence <directive or device instantiation end of line> here.
+4bdbf73f7e2197108d07fbd6f74cdb07c6077b2eaf85d6807f5acd14ef7fe992cb08846162a71ba2012515e3a47f986842b87742699b6fd9f1b9a41fe4c6ea96
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(158): Expected a sequence <directive or device instantiation end of line> here.
+073538b3957bfc5cd1851642cf459001dbd9d820e1b78dc285a5790ef8976b4a39795c9ed0c6d9e10f80bb1cf8678a8a42b87742699b6fd9f1b9a41fe4c6ea96
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(159): Expected a sequence <directive or device instantiation end of line> here.
+563f836075a719e75ce5474201a2d935d1e36361d00141d134032ebdac266765676bc046b36d5376c47c39e22428f98c1e507a9a63b3c2de0bfee3ae5857ec4b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(160): Expected a sequence <directive or device instantiation end of line> here.
+954de88c651c4acc31613c1b5f73e667ddc4d56040b99c2bad53c966b1535f266442943d36cc90a12ba7d3f90b3c1eec00ab801a46da801f96e0daffa2b196f4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(161): Expected node name here.
+aa1481eafa091028def053bd72438ac43eaadaf5618fe12c2572e3caacedceb4846def95f4aa92337069c618672e0bd9635075e695014375fc9f2fd0b3f93ab8
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(161): Expected a sequence <directive or device instantiation end of line> here.
+aa1481eafa091028def053bd72438ac43eaadaf5618fe12c2572e3caacedceb4846def95f4aa92337069c618672e0bd9635075e695014375fc9f2fd0b3f93ab8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(162): Expected a sequence <directive or device instantiation end of line> here.
+82908df1b8d2e8b56cc1f87d796da78cb3720dbbdc0ab91b80cb124328c86d09f8f289e23d15362cc6f70e673b0580fdc43251d7c15274e06137548b02953509
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(163): Expected a sequence <directive or device instantiation end of line> here.
+2d138f5dd7a88daa82f502869b7247bd4fba11d950523174e9e07e8fee47b96a02f99d2b8fa8fee8806c0eb532c68cff4c82aba28e78426fc29a94f61a14e417
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(164): Expected a sequence <directive or device instantiation end of line> here.
+685aeaf143044dc1cd2562b42511ab858694d860edb4b369ba15e5b2ae319bf66be11cc040a6960bf36f0d488ce4774aec839002fbdf0309b2bafd3384540310
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(165): Expected 2 node names here.
+eb8273b4d323d69f3a906358ecd44236f5440b8c2c17609c67de83fd11798f8f8715e80d984ae79319b21662625e224c97f2a7a6c4ae3459232c1c7764eb953f
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(166): Expected a sequence <directive or device instantiation end of line> here.
+4280a68579e072d656286f3df0abbeab3f8198008c66b99f006053663d5d0366c61930f40199d9cd659bee1c7ac1cf622542d0c555684a839a11abcf7d95a0bd
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(167): Expected node name here.
+a7ebdd3746253131ca5338cc18d244688694d860edb4b369ba15e5b2ae319bf6ce48e338e7663dd449a383196746380eec839002fbdf0309b2bafd3384540310
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(167): Expected a sequence <directive or device instantiation end of line> here.
+a7ebdd3746253131ca5338cc18d244688694d860edb4b369ba15e5b2ae319bf6ce48e338e7663dd449a383196746380eec839002fbdf0309b2bafd3384540310
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(168): Expected a sequence <directive or device instantiation end of line> here.
+085ac0ddc8e52d2eb29ad6480b7f09ce8694d860edb4b369ba15e5b2ae319bf627387b687d5158b7a8fbdee1c6180437ec839002fbdf0309b2bafd3384540310
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(169): Expected a sequence <directive or device instantiation end of line> here.
+7e7c7b0fb82bc40669e97f23c85d59016813637d1b4b692768c070ff6417a46f857c5507121a5d0ddb737bfe4c9097deea90c0e0bd5d54c7f1346c820ebd3792
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(170): Expected node name here.
+fb04deaf8bd6d37300233099af2746fae9866e6c46129bac69d8edbe556eca720ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(170): Expected a sequence <directive or device instantiation end of line> here.
+fb04deaf8bd6d37300233099af2746fae9866e6c46129bac69d8edbe556eca720ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(171): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026b9ef4b59b82d27b3718d136702c20e10e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(172): Expected node name here.
+a4094c51a96fb00cf9af8d55e47040cdcc596a4b70957be3d5f7ddd447b8e3a7d25bf46c34196819399608b3ca14b3f214099928de08eaaa552e166c2184df15
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(172): Expected a sequence <directive or device instantiation end of line> here.
+a4094c51a96fb00cf9af8d55e47040cdcc596a4b70957be3d5f7ddd447b8e3a7d25bf46c34196819399608b3ca14b3f214099928de08eaaa552e166c2184df15
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(173): Expected node name here.
+f79d95697d6a131a0896a48a3d6f5dbdf5440b8c2c17609c67de83fd11798f8f56add2a3de6739f68907bf6e309222405697ae1e65afa82260d2dc93ff86370c
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(173): Expected a sequence <directive or device instantiation end of line> here.
+f79d95697d6a131a0896a48a3d6f5dbdf5440b8c2c17609c67de83fd11798f8f56add2a3de6739f68907bf6e309222405697ae1e65afa82260d2dc93ff86370c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(174): Expected a sequence <directive or device instantiation end of line> here.
+17dd311918544c883b78096bb26acb439adac5b52324ce246c8f3c9acc72b86e4fcdd816e8a6e6d69501cb46f12fadf2766da7841df489fd795670f5b01249e0
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(175): Expected a sequence <directive or device instantiation end of line> here.
+92d76faa63d15326e77569bef401d9f0b67fa9711abe6d6efb2026036d661cf6e96d42d1738d7b7dbeba6b2781ff49535cf801ace15fbdd5121db089b5ad5ab3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(176): Expected a sequence <directive or device instantiation end of line> here.
+9aa1852b8f77f1a28d42dfc489b457a9e5e700ef742f7b1ac13ac53446f514223c9d320530462117a7e89dfb06779df5dc3120e8e97d2dbcdd067cbc1eea0dfc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(177): Expected a sequence <directive or device instantiation end of line> here.
+3fb6cca5fbed214d62cffa360060261a27338297a738b783009d839dfc4cd014dbf25a7d9604e92be16d35bc27f9a400f82a8a40c92e700a75d2c3364771aa53
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(178): Expected a sequence <directive or device instantiation end of line> here.
+86b34fb9b0f1add5307b165975ef7ad73f8198008c66b99f006053663d5d0366c61930f40199d9cd659bee1c7ac1cf622542d0c555684a839a11abcf7d95a0bd
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(179): Expected a sequence <directive or device instantiation end of line> here.
+9aa1852b8f77f1a28d42dfc489b457a9e5e700ef742f7b1ac13ac53446f514223c9d320530462117a7e89dfb06779df5dc3120e8e97d2dbcdd067cbc1eea0dfc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(180): Expected node name here.
+f8e9fef01544fc65c8488ef6ecc54c7bf2a38e225374189e4998664aa9c4f8f556e9200548132f9ac2c903026a296503d4a3153bbd0e7f25b261d9e7fb1ea16f
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(180): Expected a sequence <directive or device instantiation end of line> here.
+f8e9fef01544fc65c8488ef6ecc54c7bf2a38e225374189e4998664aa9c4f8f556e9200548132f9ac2c903026a296503d4a3153bbd0e7f25b261d9e7fb1ea16f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(181): Expected node name here.
+fb04deaf8bd6d37300233099af2746fae9866e6c46129bac69d8edbe556eca720ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(181): Expected a sequence <directive or device instantiation end of line> here.
+fb04deaf8bd6d37300233099af2746fae9866e6c46129bac69d8edbe556eca720ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(182): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026b9ef4b59b82d27b3718d136702c20e10e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(183): Expected node name here.
+f913084b0c94d301027d3c3447a7c088d3842b14ae8adcd592776df08b0e16b06902260f8820c83762936ac0fab559d614099928de08eaaa552e166c2184df15
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(183): Expected a sequence <directive or device instantiation end of line> here.
+f913084b0c94d301027d3c3447a7c088d3842b14ae8adcd592776df08b0e16b06902260f8820c83762936ac0fab559d614099928de08eaaa552e166c2184df15
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(184): Expected a sequence <directive or device instantiation end of line> here.
+4dfb1c0564af1146b8aa76ffdec071b2a3382459b8235c89ed4c2a75be56f408e31a73c548e81198823e9606f7a5160acfeeaa9ed59d6aee89dde6662966c6c5
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(185): Expected 2 node names here.
+e869dc229e6521957605787d04b6e8248694d860edb4b369ba15e5b2ae319bf6813e3d1fafb5b5a5d259bca0c9144695ec839002fbdf0309b2bafd3384540310
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(186): Expected a sequence <directive or device instantiation end of line> here.
+3a5a5c757fce8e56788d83b01bda81d26813637d1b4b692768c070ff6417a46f857c5507121a5d0ddb737bfe4c9097defe10e3122c67edb601556c6e269b1049
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(187): Expected node name here.
+b5d9e53a9f66d0405684ca4e8fe0fb775bde49220015762f76b63503ad8ad2c419a9c70d5593a0515676b71df0fc5e8a2aebcd8b415c2e09a9a572f16dc134af
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(187): Expected a sequence <directive or device instantiation end of line> here.
+b5d9e53a9f66d0405684ca4e8fe0fb775bde49220015762f76b63503ad8ad2c419a9c70d5593a0515676b71df0fc5e8a2aebcd8b415c2e09a9a572f16dc134af
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(188): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026bdcd4844856e7959232f1238d4a2c343f510173155d5f069562286013252399fa26ab50dbe54711b81eb6caf893c63e01
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(189): Expected a sequence <directive or device instantiation end of line> here.
+0e8b239eb681cf4b290bca6a3742c01c27338297a738b783009d839dfc4cd0145ecc9fd287b4c0ec8b40a706df31710ffc89e4bbafaa98b7ca523ea86a2df4a2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(190): Expected a sequence <directive or device instantiation end of line> here.
+920822f6de1dd28c02e783f1e50a2407f8f289e23d15362cc6f70e673b0580fd4e69229c28f705e66638d17b6c7645e1909ec99c9db8a5e60bb5254b7249cbe3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(191): Expected a sequence <directive or device instantiation end of line> here.
+9aa1852b8f77f1a28d42dfc489b457a9e5e700ef742f7b1ac13ac53446f514223c9d320530462117a7e89dfb06779df5dc3120e8e97d2dbcdd067cbc1eea0dfc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(192): Expected node name here.
+a098ff08634cbfdf209141cd681a82847cab67c68ec02218904d660b38722c1d5d2d3e738ebcb037e602ffd25bfdb6062da186960c88451840d183c3aad77076
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(192): Expected a sequence <directive or device instantiation end of line> here.
+a098ff08634cbfdf209141cd681a82847cab67c68ec02218904d660b38722c1d5d2d3e738ebcb037e602ffd25bfdb6062da186960c88451840d183c3aad77076
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(193): Expected node name here.
+fb04deaf8bd6d37300233099af2746fae9866e6c46129bac69d8edbe556eca720ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(193): Expected a sequence <directive or device instantiation end of line> here.
+fb04deaf8bd6d37300233099af2746fae9866e6c46129bac69d8edbe556eca720ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(194): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026b9ef4b59b82d27b3718d136702c20e10e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(195): Expected a sequence <directive or device instantiation end of line> here.
+1d49c5fdc00adace6a631ceca9de5c2a0e820486cbf3bbbb0b0b1d82a13e38ae1a0306bec9a774c93e469c7eb2438b0988ca08f5245d917dd79643fd705a38f0
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(196): Expected node name here.
+fb04deaf8bd6d37300233099af2746fae9866e6c46129bac69d8edbe556eca720ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(196): Expected a sequence <directive or device instantiation end of line> here.
+fb04deaf8bd6d37300233099af2746fae9866e6c46129bac69d8edbe556eca720ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(197): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026b9ef4b59b82d27b3718d136702c20e10e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(198): Expected a sequence <directive or device instantiation end of line> here.
+410a712a6a290eeb0e094f798c95ba71b77bdfb153eb1a64541c268e087fdbef0b42c548be7545ee4e4a5a10e8d788af7bb47768921fbb7e7f40092333efebcb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(199): Expected node name here.
+bec384cd59ac5b14fd40c4d2c27a2c0d3a7075fd69e05bbf74a596e2cf653b9f192c00dcbab0f5939aed5a957433fc2aad46247764bf819a88883ba31b6b1b07
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(199): Expected a sequence <directive or device instantiation end of line> here.
+bec384cd59ac5b14fd40c4d2c27a2c0d3a7075fd69e05bbf74a596e2cf653b9f192c00dcbab0f5939aed5a957433fc2aad46247764bf819a88883ba31b6b1b07
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(200): Expected a sequence <directive or device instantiation end of line> here.
+9aa1852b8f77f1a28d42dfc489b457a9e5e700ef742f7b1ac13ac53446f514223c9d320530462117a7e89dfb06779df5dc3120e8e97d2dbcdd067cbc1eea0dfc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(201): Expected a sequence <directive or device instantiation end of line> here.
+70ebaf80913c1e06f020bc6bcd9e34074e059aa9677d5186ff4bd088bace3225d616dea1e66191d860ac7635fbb331dfb2b38ef7e3fcbd065f71a349ca93dccc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(202): Expected node name here.
+fd0c242e3eeddde077a0934c53197d861e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(202): Expected a sequence <directive or device instantiation end of line> here.
+fd0c242e3eeddde077a0934c53197d861e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(203): Expected node name here.
+a896ea495073864af5dcc1529a802d7b0e820486cbf3bbbb0b0b1d82a13e38ae1a0306bec9a774c93e469c7eb2438b09fe10e3122c67edb601556c6e269b1049
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(203): Expected a sequence <directive or device instantiation end of line> here.
+a896ea495073864af5dcc1529a802d7b0e820486cbf3bbbb0b0b1d82a13e38ae1a0306bec9a774c93e469c7eb2438b09fe10e3122c67edb601556c6e269b1049
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(204): Expected node name here.
+b5d9e53a9f66d0405684ca4e8fe0fb775bde49220015762f76b63503ad8ad2c419a9c70d5593a0515676b71df0fc5e8a2aebcd8b415c2e09a9a572f16dc134af
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(204): Expected a sequence <directive or device instantiation end of line> here.
+b5d9e53a9f66d0405684ca4e8fe0fb775bde49220015762f76b63503ad8ad2c419a9c70d5593a0515676b71df0fc5e8a2aebcd8b415c2e09a9a572f16dc134af
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(205): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026bdcd4844856e7959232f1238d4a2c343f510173155d5f069562286013252399fa26ab50dbe54711b81eb6caf893c63e01
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(206): Expected a sequence <directive or device instantiation end of line> here.
+80a1fc11cb2d13f36b35c37440bebc0cfeb76c15ad62498f9aefd64a5b16029ad1386535c57bc33d1682528eea3ec9ea732f8ecba97e880bafb56ad80b058f64
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(207): Expected a sequence <directive or device instantiation end of line> here.
+3f80c9839df248ae18e719622cf69e6df8f289e23d15362cc6f70e673b0580fd4e69229c28f705e66638d17b6c7645e1909ec99c9db8a5e60bb5254b7249cbe3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(208): Expected a sequence <directive or device instantiation end of line> here.
+910301d70f931d569b3b3d67721bb5453906bbf5a3d3ee1ff156c2ffb06eb72e5c7f1069cfe272bf703465b399610e6cdaff40937f93508d10d7a12dc67a00d9
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(209): Expected node name here.
+ab9277a788deb49ce8d4aab0f99636bf96bfb6f0f83eff997aa85454b7290d563dde93c8fe2fb68ba8f32b5c90a18957dac11ce77e54fd8568fd809b4d7428f5
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(209): Expected a sequence <directive or device instantiation end of line> here.
+ab9277a788deb49ce8d4aab0f99636bf96bfb6f0f83eff997aa85454b7290d563dde93c8fe2fb68ba8f32b5c90a18957dac11ce77e54fd8568fd809b4d7428f5
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(210): Expected node name here.
+b5381799db8e653cd6d87065508807797beea78a43cce2426ef24c2aab0bbe610ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(210): Expected a sequence <directive or device instantiation end of line> here.
+b5381799db8e653cd6d87065508807797beea78a43cce2426ef24c2aab0bbe610ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(211): Expected a sequence <directive or device instantiation end of line> here.
+75c7a759c211baef8d5d33c39ed46652e9838e592c65191a7b272246fa54c8156f276a68fe7b8092cd416a24f3e3143eca74516309fde8ee86f8d3e78f6a46c1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(212): Expected node name here.
+bbaede619713cb4aae3277fc71d274a1d2a0012f91ae962e6e8e462bca588cca72a1c764a82d221c89478909a752280da1c1cdfc4641db6389eae370ff5b19ad
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(212): Expected a sequence <directive or device instantiation end of line> here.
+bbaede619713cb4aae3277fc71d274a1d2a0012f91ae962e6e8e462bca588cca72a1c764a82d221c89478909a752280da1c1cdfc4641db6389eae370ff5b19ad
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(213): Expected a sequence <directive or device instantiation end of line> here.
+23bef7178fa0aaffd567e817ace7e92238cfea118088948e260ece35c51f68a0d8f43df459954ffa9bdf41b3c6df800adaff40937f93508d10d7a12dc67a00d9
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(214): Expected node name here.
+a7de293bace7712dc74b65027dd7d324870ffccb0b30378d08ac3edf577d50baf7cef500ee80c5f360f461e7538f39422b5992017a2a7bcd74da81362afd2bf7
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(214): Expected a sequence <directive or device instantiation end of line> here.
+a7de293bace7712dc74b65027dd7d324870ffccb0b30378d08ac3edf577d50baf7cef500ee80c5f360f461e7538f39422b5992017a2a7bcd74da81362afd2bf7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(215): Expected a sequence <directive or device instantiation end of line> here.
+880387ecace1628d347e89bb4453fddc38cfea118088948e260ece35c51f68a02573324a45eea880c5ffea22f8cefffbec839002fbdf0309b2bafd3384540310
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(216): Expected a sequence <directive or device instantiation end of line> here.
+12674945fba40d27ad6fcd584bd34c11cbc0d97ee683f2e6c62dd58bfaaab19392a312275d3885b0ba694c441eb51879c5af0e38facd2affa7569cdf94c22021
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(217): Expected a sequence <directive or device instantiation end of line> here.
+698cc0351087e6bcd134a40d4f17f677f8f289e23d15362cc6f70e673b0580fd4e69229c28f705e66638d17b6c7645e1909ec99c9db8a5e60bb5254b7249cbe3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(218): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026b9ef4b59b82d27b3718d136702c20e10e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(219): Expected a sequence <directive or device instantiation end of line> here.
+6d1be7318c5b26ed696a9dee87b0b1ed9425f760c9b031b86e399174215831345688c2452e7086d6d028e23f42772e20949919d75d44dede157d1d0ddd4bfb2a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(220): Expected node name here.
+f0281eab6d076122e1998b0dc2d3bec81e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(220): Expected a sequence <directive or device instantiation end of line> here.
+f0281eab6d076122e1998b0dc2d3bec81e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(221): Expected a sequence <directive or device instantiation end of line> here.
+12146c895af27b09aeff33f158d6b8b85edd4e06ccfbb59d02d91b15cb8ffc06f81bed367a7498b3d0096e0e4424fc7d09ca46b23658867365bb55d2d89f3078
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(222): Expected a sequence <directive or device instantiation end of line> here.
+7f35b7f4e60f5813f54bf4a9ec57ea979283dcd06176dfec05e966b0d6488c8ec07a1bd75eb4672abc061449d6f913e741b7d80ff63d161e4fb0803536da0062
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(223): Expected a sequence <directive or device instantiation end of line> here.
+3fd70d94db51ee096a8257e4fff3195eddc4d56040b99c2bad53c966b1535f266442943d36cc90a12ba7d3f90b3c1eec00ab801a46da801f96e0daffa2b196f4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(224): Expected a sequence <directive or device instantiation end of line> here.
+37c05100d7e35cbfa0fb1dbcea0d48e56ecdb114775585d9b38e78db10dba14ecc8e872614b84bc255c5af5990ae4ba2ea27b90867b5612b6d960403d76fd279
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(225): Expected a sequence <directive or device instantiation end of line> here.
+29dbbf6a1055433800c430cd0bab504a85dbe22b761d1549f04e39d1c064c86694d76056c43a7775cb1daebb608cbb822859ef1558d8c7445332228f259365ca
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(226): Expected a sequence <directive or device instantiation end of line> here.
+689e80428177a87357d9f279dbf780875bde49220015762f76b63503ad8ad2c419a9c70d5593a0515676b71df0fc5e8a2aebcd8b415c2e09a9a572f16dc134af
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(227): Expected a sequence <directive or device instantiation end of line> here.
+12146c895af27b09aeff33f158d6b8b85edd4e06ccfbb59d02d91b15cb8ffc06f81bed367a7498b3d0096e0e4424fc7d09ca46b23658867365bb55d2d89f3078
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(228): Expected a sequence <directive or device instantiation end of line> here.
+ceb8a7cb1b14fe6e5f1e779d9e09a229a9bf13a34c15bc52e57b5504c0580af5f78535f35edc4676444befd6c9d78b67d7dfe9473f7828a7600656c2878bd4c5
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(229): Expected a sequence <directive or device instantiation end of line> here.
+701cbe4df7e0956d9290f0aaed1cce6f392930a2d06365b8f51490ef2e4cbf5c0ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(230): Expected node name here.
+d34ef78c9a2e28b3c0bf893c209cf04d6ecdb114775585d9b38e78db10dba14ecc8e872614b84bc255c5af5990ae4ba2ea27b90867b5612b6d960403d76fd279
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(230): Expected a sequence <directive or device instantiation end of line> here.
+d34ef78c9a2e28b3c0bf893c209cf04d6ecdb114775585d9b38e78db10dba14ecc8e872614b84bc255c5af5990ae4ba2ea27b90867b5612b6d960403d76fd279
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(231): Expected a sequence <directive or device instantiation end of line> here.
+2140ca722bcfcba7d18cbf7c7c0d2cce08935a70470fcb58f35176fa8d0d783810152ef5cef1b36acee55d286396ba7ae39e4fa819d36fbc1095bc040d9f3e5e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(232): Expected a sequence <directive or device instantiation end of line> here.
+5ae45620e3109779a97ca0b6388a03d33f8198008c66b99f006053663d5d0366c61930f40199d9cd659bee1c7ac1cf622542d0c555684a839a11abcf7d95a0bd
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(233): Expected a sequence <directive or device instantiation end of line> here.
+910301d70f931d569b3b3d67721bb5453906bbf5a3d3ee1ff156c2ffb06eb72e5c7f1069cfe272bf703465b399610e6cdaff40937f93508d10d7a12dc67a00d9
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(234): Expected a sequence <directive or device instantiation end of line> here.
+0db0aee8d30316bfb1a4eada22981b144e7a5787a0bccaf97bd9c2448e7746eedd0b6be7314df546ecb8e3f37293fdd092699c0795f59dc5b93fc63f6e93d20d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(235): Expected a sequence <directive or device instantiation end of line> here.
+9866e565d6c4e39f8df5189213e173ca395b05cd4c5331eef9946928c3aaad811c4aa3330b71ee8345ee936b9f3a4013cfcdc283658954a9b39f807a64b445dc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(236): Expected node name here.
+a7646d985834376076b0c5ec4b8a69ac3d8e3b7fc8b379d7f29991608b4e657c79593b20060128bdeab98d9fbab5928ac327dc7cb7969f0bd38914901c9840d5
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(236): Expected a sequence <directive or device instantiation end of line> here.
+a7646d985834376076b0c5ec4b8a69ac3d8e3b7fc8b379d7f29991608b4e657c79593b20060128bdeab98d9fbab5928ac327dc7cb7969f0bd38914901c9840d5
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(237): Expected a sequence <directive or device instantiation end of line> here.
+81f00c4f56a01bfc6b489da804244848395b05cd4c5331eef9946928c3aaad811c4aa3330b71ee8345ee936b9f3a4013cfcdc283658954a9b39f807a64b445dc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(238): Expected a sequence <directive or device instantiation end of line> here.
+1ed4a190137e5ed7faa7fddebc1b1df68f3ed289ed07bd3ae5c8b2250f1a8d986644b4b29df0550fe129439fd6d62667baaa5c5429b8ebae3906f4a14916c3c2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(239): Expected node name here.
+a55ad38b13614d0fae95578ffd7ac8d8cbc0d97ee683f2e6c62dd58bfaaab1938a893ed6e4ccad6c0e095599c2efeee774dbf140f12bc8648250f80292e81e8d
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(239): Expected a sequence <directive or device instantiation end of line> here.
+a55ad38b13614d0fae95578ffd7ac8d8cbc0d97ee683f2e6c62dd58bfaaab1938a893ed6e4ccad6c0e095599c2efeee774dbf140f12bc8648250f80292e81e8d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(240): Expected a sequence <directive or device instantiation end of line> here.
+698cc0351087e6bcd134a40d4f17f677f8f289e23d15362cc6f70e673b0580fd4e69229c28f705e66638d17b6c7645e1909ec99c9db8a5e60bb5254b7249cbe3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(241): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026b9ef4b59b82d27b3718d136702c20e10e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(242): Expected a sequence <directive or device instantiation end of line> here.
+47bc3b201a1f113ae245b947b825f4af4e7a5787a0bccaf97bd9c2448e7746eeca1a1806dfac373145e5308fc76599cb06444914dba5d43603bd40ac8ffea7fe
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(243): Expected a sequence <directive or device instantiation end of line> here.
+8b0c20db02f7c4d9b29007cc850b989f7beea78a43cce2426ef24c2aab0bbe610ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(244): Expected a sequence <directive or device instantiation end of line> here.
+44d73275d00aa58b3852f8be12bd7a2eda50d341e9401fdc704e3c5dbd73b1a16d5b1787038a37e7e824d4cc0105dda72b5992017a2a7bcd74da81362afd2bf7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(245): Expected a sequence <directive or device instantiation end of line> here.
+1c7a251ae1dbc9d54eae0fdd865989d019c0159d65fff93353bf93295a6255c57d944e96dc21e9fd7c25324ab7126c58a61b5a7327272d33f69b4416b46a4738
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(246): Expected a sequence <directive or device instantiation end of line> here.
+444905d87cab57496fbf0ad0cbea44ad395b05cd4c5331eef9946928c3aaad811c4aa3330b71ee8345ee936b9f3a4013cfcdc283658954a9b39f807a64b445dc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(247): Expected a sequence <directive or device instantiation end of line> here.
+1ed4a190137e5ed7faa7fddebc1b1df68f3ed289ed07bd3ae5c8b2250f1a8d98ede9152310ad57e9e60a4e017ea2e1e5baaa5c5429b8ebae3906f4a14916c3c2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(248): Expected node name here.
+b6dea22929c7d7092d75dbf7639978f24e059aa9677d5186ff4bd088bace32251de0dc6834173ff8e53a2aec36868736f9defea23fbd44c339efe4c69c6f6f38
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(248): Expected a sequence <directive or device instantiation end of line> here.
+b6dea22929c7d7092d75dbf7639978f24e059aa9677d5186ff4bd088bace32251de0dc6834173ff8e53a2aec36868736f9defea23fbd44c339efe4c69c6f6f38
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(249): Expected a sequence <directive or device instantiation end of line> here.
+613def0ac454ecbd0fb692d2b36f86a0c777593416e98f7948a9e59fa27a079c4742fb364bfd6eccf27b56aca20c6859f14417150f5751416b124b589e25ff35
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(250): Expected node name here.
+bfbc7ac17bd3d24ecd9fa96c8acbcef40869d412d98e7d030a72897751e06804659c1611a36aa9fc163e1e7fa7278f8a5f72e99972b99a44385b6d38eb2e5c17
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(250): Expected a sequence <directive or device instantiation end of line> here.
+bfbc7ac17bd3d24ecd9fa96c8acbcef40869d412d98e7d030a72897751e06804659c1611a36aa9fc163e1e7fa7278f8a5f72e99972b99a44385b6d38eb2e5c17
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(251): Expected node name here.
+ddab9be72063aff5e3a67621f9c79bda3d8e3b7fc8b379d7f29991608b4e657c8c772651e0c3b51bd19bcae5cf6983fcdf1b95f72abf7f60f166938da6840a78
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(251): Expected a sequence <directive or device instantiation end of line> here.
+ddab9be72063aff5e3a67621f9c79bda3d8e3b7fc8b379d7f29991608b4e657c8c772651e0c3b51bd19bcae5cf6983fcdf1b95f72abf7f60f166938da6840a78
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(252): Expected a sequence <directive or device instantiation end of line> here.
+c239fc0d16001c17e24be7b0b69f6c6bb67fa9711abe6d6efb2026036d661cf6e96d42d1738d7b7dbeba6b2781ff49535cf801ace15fbdd5121db089b5ad5ab3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(253): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026b9ef4b59b82d27b3718d136702c20e10e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(254): Expected node name here.
+d5ea8036a7c9f859684cb71e24aebfc23d8e3b7fc8b379d7f29991608b4e657c55f69e1f820a16c8956063ee1bee875beb229fea9f142b6822ef06b8a74ac805
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(254): Expected a sequence <directive or device instantiation end of line> here.
+d5ea8036a7c9f859684cb71e24aebfc23d8e3b7fc8b379d7f29991608b4e657c55f69e1f820a16c8956063ee1bee875beb229fea9f142b6822ef06b8a74ac805
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(255): Expected node name here.
+aa4c0178b85592d87f0723fda85765ef1e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(255): Expected a sequence <directive or device instantiation end of line> here.
+aa4c0178b85592d87f0723fda85765ef1e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(256): Expected a sequence <directive or device instantiation end of line> here.
+1ed4a190137e5ed7faa7fddebc1b1df68f3ed289ed07bd3ae5c8b2250f1a8d986644b4b29df0550fe129439fd6d62667baaa5c5429b8ebae3906f4a14916c3c2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(257): Expected node name here.
+bc32f6f9346c36131b1c0e4d7a0766e203b513f461f95138d7b19d350e11f3a933905ef4c122ff2dcf41ab1e3ca95c955bd759b59222b11b5892a23d96398133
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(257): Expected a sequence <directive or device instantiation end of line> here.
+bc32f6f9346c36131b1c0e4d7a0766e203b513f461f95138d7b19d350e11f3a933905ef4c122ff2dcf41ab1e3ca95c955bd759b59222b11b5892a23d96398133
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(258): Expected a sequence <directive or device instantiation end of line> here.
+3afc4afc36edf73d00986f9753cdc5d83f8198008c66b99f006053663d5d0366c61930f40199d9cd659bee1c7ac1cf622542d0c555684a839a11abcf7d95a0bd
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(259): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026b9ef4b59b82d27b3718d136702c20e10e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(260): Expected 2 node names here.
+eb5993d3e7a59fbac217e831d02d8c913d8e3b7fc8b379d7f29991608b4e657c93b219b570d17e9673eeeae8fa12a5ab42cd091acead2f57e718530242a3d74c
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(261): Expected a sequence <directive or device instantiation end of line> here.
+47c2234b0a69ef047439240b1dff40a956b8e8c711b4ed41c7ac51dde2de43390ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(262): Expected a sequence <directive or device instantiation end of line> here.
+9aa1852b8f77f1a28d42dfc489b457a9e5e700ef742f7b1ac13ac53446f514223c9d320530462117a7e89dfb06779df5dc3120e8e97d2dbcdd067cbc1eea0dfc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(263): Expected a sequence <directive or device instantiation end of line> here.
+0593446bd9f39ba24c736fdd08a668d542328626d18743829c95cd505839216aa687ac1b7e77dac0fe053586825a6de269b845e0cc82fa600305594f43b1af22
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(264): Expected a sequence <directive or device instantiation end of line> here.
+210aaf493b727a4ce497a55ea4db424b7003ac039ba4d4a0ac235ef31404de480ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(265): Expected a sequence <directive or device instantiation end of line> here.
+910301d70f931d569b3b3d67721bb5453906bbf5a3d3ee1ff156c2ffb06eb72e5c7f1069cfe272bf703465b399610e6cdaff40937f93508d10d7a12dc67a00d9
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(266): Expected 2 node names here.
+e268e5cd3670344fa6c11132ee6e9841a6148a2cefb457ba368bb69bed6a66b6ead99c409ff2b71de5deee5af53b499162366af1166bf5b91feebfe49772861f
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(267): Expected node name here.
+fa75263426b035e2437eb58b9603236b99dc3cb93f47bd0bd4dd369cf59aff7a395b05cd4c5331eef9946928c3aaad81e94fe776a0888e271a56626d62f7ad21
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(267): Expected a sequence <directive or device instantiation end of line> here.
+fa75263426b035e2437eb58b9603236b99dc3cb93f47bd0bd4dd369cf59aff7a395b05cd4c5331eef9946928c3aaad81e94fe776a0888e271a56626d62f7ad21
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(268): Expected a sequence <directive or device instantiation end of line> here.
+8061e43078129c4a07d995f9f231d23c42328626d18743829c95cd505839216abbe4670df88073b4d7838f59a17624caf9defea23fbd44c339efe4c69c6f6f38
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(269): Expected a sequence <directive or device instantiation end of line> here.
+317dc808afc3e8b5a1900ae5631f6f4d745d2f9fd2afabae35c3ee7d9869c39519797c44bba88ae04ffb6c1cc326b32316dadd325f20c64cde69de697edfd25e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(270): Expected a sequence <directive or device instantiation end of line> here.
+36fa44102ed6fe8bd823ac16f5717fe642328626d18743829c95cd505839216a230c3a4411580af6f941793af8e52a6ca450f9a928cc7976c5f4c0ad975ba1a0
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(271): Expected a sequence <directive or device instantiation end of line> here.
+698cc0351087e6bcd134a40d4f17f677f8f289e23d15362cc6f70e673b0580fd4e69229c28f705e66638d17b6c7645e1909ec99c9db8a5e60bb5254b7249cbe3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(272): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026b9ef4b59b82d27b3718d136702c20e10e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(273): Expected a sequence <directive or device instantiation end of line> here.
+3d217fd79d22eb8accc6dd92de96a67638c0cc4d63a97fcf278006e6b04285536ce9bf945ec3e1810b4447dcc277252a92699c0795f59dc5b93fc63f6e93d20d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(274): Expected a sequence <directive or device instantiation end of line> here.
+8f04c13badf2499aefde543fe71e1689395b05cd4c5331eef9946928c3aaad811c4aa3330b71ee8345ee936b9f3a4013cfcdc283658954a9b39f807a64b445dc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(275): Expected a sequence <directive or device instantiation end of line> here.
+806f5619f346bfe3285b385938be1db042328626d18743829c95cd505839216a7dcf14e303f4a1290787bd1bb17abd679765ed69d06d8d7133834d476eaa16a5
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(276): Expected node name here.
+bb29468ec7bfa2458f65a4d6fb128935b67fa9711abe6d6efb2026036d661cf6e96d42d1738d7b7dbeba6b2781ff49535cf801ace15fbdd5121db089b5ad5ab3
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(276): Expected a sequence <directive or device instantiation end of line> here.
+bb29468ec7bfa2458f65a4d6fb128935b67fa9711abe6d6efb2026036d661cf6e96d42d1738d7b7dbeba6b2781ff49535cf801ace15fbdd5121db089b5ad5ab3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(277): Expected a sequence <directive or device instantiation end of line> here.
+910301d70f931d569b3b3d67721bb5453906bbf5a3d3ee1ff156c2ffb06eb72e5c7f1069cfe272bf703465b399610e6cdaff40937f93508d10d7a12dc67a00d9
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(278): Expected a sequence <directive or device instantiation end of line> here.
+7ae8dfa29c13dd9cdec59a8e4f534f1872f38b6e6583e57749514601f0c5edeff9d4bef2c635eac5885466733b4c404c7bb47768921fbb7e7f40092333efebcb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(279): Expected node name here.
+bec384cd59ac5b14fd40c4d2c27a2c0d3a7075fd69e05bbf74a596e2cf653b9f192c00dcbab0f5939aed5a957433fc2aad46247764bf819a88883ba31b6b1b07
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(279): Expected a sequence <directive or device instantiation end of line> here.
+bec384cd59ac5b14fd40c4d2c27a2c0d3a7075fd69e05bbf74a596e2cf653b9f192c00dcbab0f5939aed5a957433fc2aad46247764bf819a88883ba31b6b1b07
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(280): Expected a sequence <directive or device instantiation end of line> here.
+9aa1852b8f77f1a28d42dfc489b457a9e5e700ef742f7b1ac13ac53446f514223c9d320530462117a7e89dfb06779df5dc3120e8e97d2dbcdd067cbc1eea0dfc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(281): Expected node name here.
+be3da2916dd139ad8d847a21b423761cd110402f260b9215fb6bf7f98c88efd5f8caeb8bdca052911bce2db2c986e8dce8a7a478aba4f2cd3132fb573a1236e3
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(281): Expected a sequence <directive or device instantiation end of line> here.
+be3da2916dd139ad8d847a21b423761cd110402f260b9215fb6bf7f98c88efd5f8caeb8bdca052911bce2db2c986e8dce8a7a478aba4f2cd3132fb573a1236e3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(282): Expected a sequence <directive or device instantiation end of line> here.
+57c92e5f97dfb37d55987bea806bfa73e9838e592c65191a7b272246fa54c8156f276a68fe7b8092cd416a24f3e3143eca74516309fde8ee86f8d3e78f6a46c1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(283): Expected a sequence <directive or device instantiation end of line> here.
+32dee6642edb48926dd90a28231e0d7cf555fab818c6e129f6d60e2854f7770f24635674630316ccc9a7a7864f0831a5ae5fce66c3c0c66cd95282955db96bfb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(284): Expected a sequence <directive or device instantiation end of line> here.
+1ba0fda3b074b6d32cd0476a29602894c777593416e98f7948a9e59fa27a079c4742fb364bfd6eccf27b56aca20c6859f14417150f5751416b124b589e25ff35
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(285): Expected a sequence <directive or device instantiation end of line> here.
+1fe2ba4381528fd473392ed6a3e16f23b6f8b4e3e4ff4c271b668575fb8f5f2e755fa8bfd3d77d5a7ca3e749261c4fced78335c08515e47ea3bfb4c23a0c6f8a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(286): Expected a sequence <directive or device instantiation end of line> here.
+5c236ae4fd6cae073545824c814d982dcbc0d97ee683f2e6c62dd58bfaaab1936ff09b665e295ba05913933d63563052988b12ff81c68802b6d78c0a8b3fc601
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(287): Expected a sequence <directive or device instantiation end of line> here.
+1b1a202a746008b6320e9a1b1f376707a71f4fcf19ec21e7caa7eed072ff0e36e44cca65fb4c07a8a8243fc332e8399417f92dffbfb7c0ff3652c6c85c17f0f4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(288): Expected a sequence <directive or device instantiation end of line> here.
+2d8c1b7e8e21f8559d13487b5e3d93d337c568e017d7a76e2405aef4d42d36ec86b34fb9b0f1add5307b165975ef7ad708a523d41a02047340c62c2df51ea280
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(289): Expected 2 node names here.
+e5e700ef742f7b1ac13ac53446f514223c9d320530462117a7e89dfb06779df5d4f5132a2444a5f260e717b9c55a908aaa5aa0089fa1aaf051c1f00bce6f2721
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(290): Expected a sequence <directive or device instantiation end of line> here.
+9f62469375d01fe5983644aa4435418fa164034e7bca5e17b515b9d1f9988fdc1e9d7a983a1e419c97f655fcec1a3428122babca43fbf037f74c4159702d3ab6
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(291): Expected a sequence <directive or device instantiation end of line> here.
+6a6aece6172854ca51fb866d5d0ff86ce70e56175226400a7836f78035d09b75fb818a0143a9e0f38be871a1431d32ed122babca43fbf037f74c4159702d3ab6
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(292): Expected a sequence <directive or device instantiation end of line> here.
+22c79fde69e2c483dae8254ff0d78ae46d88d197ec119714aec2829bf0b42e674ff8c7a4dfaeb31e006390b19096cefc52dcea293b2890ed9c8e7a95ad2657da
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(293): Expected a sequence <directive or device instantiation end of line> here.
+95cd10f0f408d428f42e69f1f54752224e059aa9677d5186ff4bd088bace32258b1f89605e5e24954b35c50290fd39ce4d52220f2d8ebb061ff8f869705a49d7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(294): Expected node name here.
+ad0f679e87ce3d7aec9e19097a2207187003ac039ba4d4a0ac235ef31404de480ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(294): Expected a sequence <directive or device instantiation end of line> here.
+ad0f679e87ce3d7aec9e19097a2207187003ac039ba4d4a0ac235ef31404de480ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(295): Expected a sequence <directive or device instantiation end of line> here.
+910301d70f931d569b3b3d67721bb5453906bbf5a3d3ee1ff156c2ffb06eb72e5c7f1069cfe272bf703465b399610e6cdaff40937f93508d10d7a12dc67a00d9
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(296): Expected 2 node names here.
+eeb746260802938c32f322d9c890096546c3753bc3b278808caf80514087aaf1037cc7743d34a62fccf32c8c06d6b43c549bd502186888ebd2bb37f986e7cf16
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(297): Expected node name here.
+d11a980493c2dae8308bd8ad4b302c43cccf212be0133cce2becc792055f14ffdffb088f2f4d92b776e8375734ae7baf554d55c4b0fb36ce706559f7535de3ff
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(297): Expected a sequence <directive or device instantiation end of line> here.
+d11a980493c2dae8308bd8ad4b302c43cccf212be0133cce2becc792055f14ffdffb088f2f4d92b776e8375734ae7baf554d55c4b0fb36ce706559f7535de3ff
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(298): Expected a sequence <directive or device instantiation end of line> here.
+691314b9e5d511430729cf7421630525cccf212be0133cce2becc792055f14ff34211ff733b563e030bc3294e358e947958ab26320416aaf2ff9ba072f47cfee
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(299): Expected a sequence <directive or device instantiation end of line> here.
+8de68ab2fb44d20e233e34d4c56ebd95551f018b0c4921fe40c1fea91dafdd75c8ebb382351497d9f1a8b8b6516bfd6f122babca43fbf037f74c4159702d3ab6
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(300): Expected a sequence <directive or device instantiation end of line> here.
+46d6b84f3a5da0f8fa9d48a29ad64955da8fcd4a5706e751a738e913aeff3c60d5abdac356414ec7de458b7fbc9e197f0b92eca08a1c8be66b5bec70859def4b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(301): Expected a sequence <directive or device instantiation end of line> here.
+9441fd60f30f7048da41af3f793abdb52d5fd1380dcce4a4c0c40d1fa249d253f8f289e23d15362cc6f70e673b0580fdc43251d7c15274e06137548b02953509
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(302): Expected a sequence <directive or device instantiation end of line> here.
+cdabc7bd02eed7062322c7fc83b434694bd04a8d769d7895a143f67abfae502e0c5b52e679e0b6c866bfb59411bb1b9f26ab50dbe54711b81eb6caf893c63e01
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(303): Expected node name here.
+f6a22b69e6700dad4761b9d141dc3541dfa546b913de0dcd253d32311dd6e56a3f8198008c66b99f006053663d5d0366aa13145be0dc7e14fe2e7677cb13ab90
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(303): Expected a sequence <directive or device instantiation end of line> here.
+f6a22b69e6700dad4761b9d141dc3541dfa546b913de0dcd253d32311dd6e56a3f8198008c66b99f006053663d5d0366aa13145be0dc7e14fe2e7677cb13ab90
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(304): Expected a sequence <directive or device instantiation end of line> here.
+8acb21063e75431831ea00d752505509117e163512a0f69d4eb2174b4581d031583ef52ef8723951199ca23840d9c2951ce05df2278618f7063f7d4a3949fab8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(305): Expected a sequence <directive or device instantiation end of line> here.
+614f26316b87734304a8d940239f356af8f289e23d15362cc6f70e673b0580fd4e69229c28f705e66638d17b6c7645e1909ec99c9db8a5e60bb5254b7249cbe3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(306): Expected a sequence <directive or device instantiation end of line> here.
+910301d70f931d569b3b3d67721bb5452ffcb799c2bd0e117a5c17bc878cebbd7413f23652f7ae464cce539386090a55bebc0173e4ff7cfe4d9230120d187a45
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(307): Expected a sequence <directive or device instantiation end of line> here.
+3ed2ebcb34b7ac9ffc9ac2fd2bf9740456c45abc5208f8fba2f024f7acfac7768c1aa2a4d2ae6f56e3b3d0faf64c4e957758ab52a9bb3a94015ea8675fe364ab
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(308): Expected node name here.
+fb04deaf8bd6d37300233099af2746fae9866e6c46129bac69d8edbe556eca720ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(308): Expected a sequence <directive or device instantiation end of line> here.
+fb04deaf8bd6d37300233099af2746fae9866e6c46129bac69d8edbe556eca720ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(309): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026b9ef4b59b82d27b3718d136702c20e10e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(310): Expected a sequence <directive or device instantiation end of line> here.
+4086b8d8732a389f7893cbd199a7bd3e8b4a51abf0636bc53e8e6415b43b7fe77d72b4db4a35677d754e7c2d7039044f98c19c5eaef3bed9e9452e7c1862fb19
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(311): Expected node name here.
+d947e9b14cb3c801ffd6b6d4c690af1c66ba4564ea86dcacdbc2e02622d636725c8b729b50c9ff09d8967913fcda24ae42b87742699b6fd9f1b9a41fe4c6ea96
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(311): Expected a sequence <directive or device instantiation end of line> here.
+d947e9b14cb3c801ffd6b6d4c690af1c66ba4564ea86dcacdbc2e02622d636725c8b729b50c9ff09d8967913fcda24ae42b87742699b6fd9f1b9a41fe4c6ea96
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(312): Expected a sequence <directive or device instantiation end of line> here.
+6d6701f10386c630830e420de229637956c45abc5208f8fba2f024f7acfac776f56121203c001c6c9a2bd84102f83170a941fe61eff082ac14c77c7338d9c36f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(313): Expected a sequence <directive or device instantiation end of line> here.
+9072bbb4333f563c6f586108d2e18576e9838e592c65191a7b272246fa54c8156f276a68fe7b8092cd416a24f3e3143eca74516309fde8ee86f8d3e78f6a46c1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(314): Expected node name here.
+d374f2639c5edccbfac9d8deb692b19e384e3c3a0ffcf0f90a619f9f1e450f1943f8a741a01564d4ccebe6faa542a5df6be238216ee36db5381e4a42f56aca2d
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(314): Expected a sequence <directive or device instantiation end of line> here.
+d374f2639c5edccbfac9d8deb692b19e384e3c3a0ffcf0f90a619f9f1e450f1943f8a741a01564d4ccebe6faa542a5df6be238216ee36db5381e4a42f56aca2d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(315): Expected node name here.
+bf07d3defd0115b8846365ac7c361c301e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(315): Expected a sequence <directive or device instantiation end of line> here.
+bf07d3defd0115b8846365ac7c361c301e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(316): Expected node name here.
+f67b59df6a29172932e328349edf64af51fd7f083e416368e1aa00059c2f1372854ecba11fdbb9c5ba61aca9ef2b48866b36bc1edeba6af5d634ae66f5ae7a0e
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(316): Expected a sequence <directive or device instantiation end of line> here.
+f67b59df6a29172932e328349edf64af51fd7f083e416368e1aa00059c2f1372854ecba11fdbb9c5ba61aca9ef2b48866b36bc1edeba6af5d634ae66f5ae7a0e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(317): Expected node name here.
+d6dcdf109d4efdb2d9e40b7631785ff6e5dc71a93bda93e187a51f1b9feafd7c29bec956ef4ca3c30e62133b2f16422d6698b4a6e3131397245833d2476c314f
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(317): Expected a sequence <directive or device instantiation end of line> here.
+d6dcdf109d4efdb2d9e40b7631785ff6e5dc71a93bda93e187a51f1b9feafd7c29bec956ef4ca3c30e62133b2f16422d6698b4a6e3131397245833d2476c314f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(318): Expected node name here.
+d374f2639c5edccbfac9d8deb692b19e8bf40d37be52d66bca5ef95180f0be115c4e7f8507d6b359122d7a41d26199b5a9512a656dfdd81a9fdb181c439a3299
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(318): Expected a sequence <directive or device instantiation end of line> here.
+d374f2639c5edccbfac9d8deb692b19e8bf40d37be52d66bca5ef95180f0be115c4e7f8507d6b359122d7a41d26199b5a9512a656dfdd81a9fdb181c439a3299
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(319): Expected node name here.
+bf07d3defd0115b8846365ac7c361c301e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(319): Expected a sequence <directive or device instantiation end of line> here.
+bf07d3defd0115b8846365ac7c361c301e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(320): Expected a sequence <directive or device instantiation end of line> here.
+cf18012cff82e87e31abb910f17d167fe5dc71a93bda93e187a51f1b9feafd7cbbde80bbcefd6ff7a2fb06a1cf8dc4621b30ef67167651dc9c088030d33b52ab
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(321): Expected node name here.
+bf07d3defd0115b8846365ac7c361c301e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(321): Expected a sequence <directive or device instantiation end of line> here.
+bf07d3defd0115b8846365ac7c361c301e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(322): Expected a sequence <directive or device instantiation end of line> here.
+47655d1589298c3a85394add50fa0d7b9146ff3b9e8ab116ab44536f3af920f90ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(323): Expected a sequence <directive or device instantiation end of line> here.
+9549cc2562d8f0d8c6a3e79b0ac3e0944a75956269b7c3f5d7db7f46df3888b404d62e5479acad736e484e5e4d1693e3ce8848de8c53bc61a474cf7566e10376
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(324): Expected a sequence <directive or device instantiation end of line> here.
+680f9637b245079d79f1d37d91444b0b19836f8632f2e930e120e00eff8e313954b39814e9f0bfda3c6d7d4a04a1d833a1abbd145ffe193907d7542d51bbbf60
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(325): Expected node name here.
+dee1a8773ca5979915864be08d75adb467c606539b37dca902d81bbc41cd2e6ca387166bd1c742de19ec3c0b860437c4c281a48490d9ebb0b9a256d3b8955ff1
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(325): Expected a sequence <directive or device instantiation end of line> here.
+dee1a8773ca5979915864be08d75adb467c606539b37dca902d81bbc41cd2e6ca387166bd1c742de19ec3c0b860437c4c281a48490d9ebb0b9a256d3b8955ff1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(326): Expected a sequence <directive or device instantiation end of line> here.
+1ed4a190137e5ed7faa7fddebc1b1df69bfe0fbce1feafcb6a5bc0f281db92c398ff9804dc375869fbcd03bfa1df6ac8302b9c1c3413344a8a560b03eefe05d0
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(327): Expected a sequence <directive or device instantiation end of line> here.
+52e488df78ef55a33d6a5eed793ac0b31a4623e5ea6d2eddf3f446cffa3efa55611ff7e191270fe3d4968aeea7209c4d98c19c5eaef3bed9e9452e7c1862fb19
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(328): Expected a sequence <directive or device instantiation end of line> here.
+56da2cb544067cb26f306c826198c1e456c45abc5208f8fba2f024f7acfac776247bf24472f996389761fc76b00ac7f4eb43beaa918b86bcb31dc188b76d75c1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(329): Expected a sequence <directive or device instantiation end of line> here.
+5af3d0a33b51e958f8c412cb6af1c4093a7075fd69e05bbf74a596e2cf653b9f192c00dcbab0f5939aed5a957433fc2aad46247764bf819a88883ba31b6b1b07
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(330): Expected a sequence <directive or device instantiation end of line> here.
+31abb9a462a1d8f2c1a5fbc32faaf793dd57efa681e4a78f751a6d45f746ac46f7fee01e04d25d86cf2e2bf3063fc1daf8983507fc593da9c0941de1ca7e71e0
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(331): Expected a sequence <directive or device instantiation end of line> here.
+6199fe0feb39a4d5c402808ea5560636f8f289e23d15362cc6f70e673b0580fd4e69229c28f705e66638d17b6c7645e1909ec99c9db8a5e60bb5254b7249cbe3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(332): Expected a sequence <directive or device instantiation end of line> here.
+47655d1589298c3a85394add50fa0d7b9146ff3b9e8ab116ab44536f3af920f90ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(333): Expected node name here.
+a9bef3c0589afeef6bb9fbf576e792598fac7f9f302bccd473037d00f59a451a5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(333): Expected a sequence <directive or device instantiation end of line> here.
+a9bef3c0589afeef6bb9fbf576e792598fac7f9f302bccd473037d00f59a451a5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(334): Expected node name here.
+a7ebda232605d493adb60d1e59249c2cf453134d95d827bda4eda102e92d8f09e2e1bc58235b5e313a819389cd580ed9cbccdc9a18e3418e44a13bca24d383d9
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(334): Expected a sequence <directive or device instantiation end of line> here.
+a7ebda232605d493adb60d1e59249c2cf453134d95d827bda4eda102e92d8f09e2e1bc58235b5e313a819389cd580ed9cbccdc9a18e3418e44a13bca24d383d9
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(335): Expected 2 node names here.
+edd40b6da2b46f9464087cbe3961cd01305d98c0ca9bcfd3e9ca9799931f61850ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(336): Expected a sequence <directive or device instantiation end of line> here.
+7c1c00f409e995247d35c7e6f44740c4b67fa9711abe6d6efb2026036d661cf6e96d42d1738d7b7dbeba6b2781ff49535cf801ace15fbdd5121db089b5ad5ab3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(337): Expected a sequence <directive or device instantiation end of line> here.
+95b2d3d4e0020e9d241c491e4f3c956d5124e0c26ee8a2ed46a54dd43853fe4da77cb011d5613d98db2077d766487c69abe6cddfe27fd55f279262ad73df7f1b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(338): Expected node name here.
+d374f2639c5edccbfac9d8deb692b19eb4f5a374756a8421c5654094175657bb43f8a741a01564d4ccebe6faa542a5df6be238216ee36db5381e4a42f56aca2d
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(338): Expected a sequence <directive or device instantiation end of line> here.
+d374f2639c5edccbfac9d8deb692b19eb4f5a374756a8421c5654094175657bb43f8a741a01564d4ccebe6faa542a5df6be238216ee36db5381e4a42f56aca2d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(339): Expected node name here.
+bf07d3defd0115b8846365ac7c361c301e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(339): Expected a sequence <directive or device instantiation end of line> here.
+bf07d3defd0115b8846365ac7c361c301e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(340): Expected a sequence <directive or device instantiation end of line> here.
+73eedd46f49ee245c0891c0c034ca3a8f68cbf81d693e476fb184d6f45c11e0daeef38052c44179141a7b0bbb5c7bf2483ed97327a5ed544841f8b032ac89b0f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(341): Expected a sequence <directive or device instantiation end of line> here.
+6e9d47cd28c09a8887fa755bec7efc35e4c29ead3cbceb0aeb4fe614b86606fe04ddc26955b8075d4837db9ec163ac231fa74c7f4cae9167349b215bf464a0b5
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(342): Expected a sequence <directive or device instantiation end of line> here.
+271eb45923b621aeec998334b725a3cc1e9b1cfc06769244546578085aa378846ee3ca1b67c8cfd587ec070d6c707b39b512e74ae36b0ba35f11d2cd384de95d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(343): Expected node name here.
+b89dcb10668b0957fe5cc8d5b7c9facf4ad765bc05d246b0acf7a00367f733e2ddc4d56040b99c2bad53c966b1535f264e12af93a70f7cbe55c6a3d7d17699bf
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(343): Expected a sequence <directive or device instantiation end of line> here.
+b89dcb10668b0957fe5cc8d5b7c9facf4ad765bc05d246b0acf7a00367f733e2ddc4d56040b99c2bad53c966b1535f264e12af93a70f7cbe55c6a3d7d17699bf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(344): Expected a sequence <directive or device instantiation end of line> here.
+2f01bb7575da5011ceded097bc1ea736ac07f2b8731965e90df253df05e8db697beea78a43cce2426ef24c2aab0bbe61bebc0173e4ff7cfe4d9230120d187a45
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(345): Expected a sequence <directive or device instantiation end of line> here.
+59cfbdf40e25ee545de2700a5e6fbf261ac32e964f947a2e6bd463bd0401c23f990902730cd4b02b89494f01c86cb3ec727ca87bed279ea1fdf5cdac7c1ba76d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(346): Expected a sequence <directive or device instantiation end of line> here.
+47c2234b0a69ef047439240b1dff40a956b8e8c711b4ed41c7ac51dde2de43390ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(347): Expected a sequence <directive or device instantiation end of line> here.
+9aa1852b8f77f1a28d42dfc489b457a9e5e700ef742f7b1ac13ac53446f514223c9d320530462117a7e89dfb06779df5dc3120e8e97d2dbcdd067cbc1eea0dfc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(348): Expected a sequence <directive or device instantiation end of line> here.
+8f09c958b36c4d6e94b2e6e2e95ac7e957fa1af53a66dc936918eead502831bf04d62e5479acad736e484e5e4d1693e3ce8848de8c53bc61a474cf7566e10376
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(349): Expected node name here.
+a6cc7d884ec384f4af216d70da9e6229feb727af370d3d9c54a31388c6c4006e8b416d71ab5e45fa38bb03af2839c14cd78335c08515e47ea3bfb4c23a0c6f8a
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(349): Expected a sequence <directive or device instantiation end of line> here.
+a6cc7d884ec384f4af216d70da9e6229feb727af370d3d9c54a31388c6c4006e8b416d71ab5e45fa38bb03af2839c14cd78335c08515e47ea3bfb4c23a0c6f8a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(350): Expected a sequence <directive or device instantiation end of line> here.
+2ef6d436c387d0e133f21ee89401cefd82f8d51718912c793299afc303418695480e2c5de0623bb8ca1e941e3c66fa1e98c19c5eaef3bed9e9452e7c1862fb19
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(351): Expected a sequence <directive or device instantiation end of line> here.
+6b3756d1284c8f358ce9749c5c1020a61b9c6a077052584653320b6ee2ffc904e80ae390866c27fc440f1b5c76a5a004ee3c5283d08507291a12b01cf63d3e6b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(352): Expected a sequence <directive or device instantiation end of line> here.
+4ece0837dffbce2fc916394266375dd1e6498d51bd75ffcdd37dff1cf30ea676547f397e0c52cb2e9d5088ab5df405a5daff40937f93508d10d7a12dc67a00d9
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(353): Expected a sequence <directive or device instantiation end of line> here.
+9df50fcb22b15187c7bc7bab04fc32a36be2c458d9884944dd4fee7134c3f977e4b8e02729a784a4986b376f09ee96b3ec839002fbdf0309b2bafd3384540310
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(354): Expected node name here.
+b7902b913dd13660e47687266637a2960e7414c3fb629a1dab6ec607913ff8a9655be84cde3f721185119e4d302f904c7e6603293d7168bfb673470ce958dc96
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(354): Expected a sequence <directive or device instantiation end of line> here.
+b7902b913dd13660e47687266637a2960e7414c3fb629a1dab6ec607913ff8a9655be84cde3f721185119e4d302f904c7e6603293d7168bfb673470ce958dc96
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(355): Expected a sequence <directive or device instantiation end of line> here.
+698cc0351087e6bcd134a40d4f17f677f8f289e23d15362cc6f70e673b0580fd4e69229c28f705e66638d17b6c7645e1909ec99c9db8a5e60bb5254b7249cbe3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(356): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026b9ef4b59b82d27b3718d136702c20e10e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(357): Expected node name here.
+ba12c09dd385cb5b189a68ccf7c9e2dc4c2464a73a222ebf1b07f9590a2678617beea78a43cce2426ef24c2aab0bbe61bebc0173e4ff7cfe4d9230120d187a45
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(357): Expected a sequence <directive or device instantiation end of line> here.
+ba12c09dd385cb5b189a68ccf7c9e2dc4c2464a73a222ebf1b07f9590a2678617beea78a43cce2426ef24c2aab0bbe61bebc0173e4ff7cfe4d9230120d187a45
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(358): Expected a sequence <directive or device instantiation end of line> here.
+7d8e6d9a531b280fb6feaba3666f2bed86a3be5b594e75eec8310814991930f03bbd28d87dc3c2992f590c808537f3d6a1c1cdfc4641db6389eae370ff5b19ad
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(359): Expected a sequence <directive or device instantiation end of line> here.
+499233ab61efa4a9f09972fad9fbc06b245888ff7de0babdb74d3c7cd7eb8d1c3f8198008c66b99f006053663d5d0366aa13145be0dc7e14fe2e7677cb13ab90
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(360): Expected a sequence <directive or device instantiation end of line> here.
+3e2f66e206d63bb379f58949c6e49d8d2b6fb46f601186e5802003d7953fbbb29ad191a77c0173a169c83583026dea2276cc073b0750395450e421949a693876
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(361): Expected a sequence <directive or device instantiation end of line> here.
+6d23a1bf80e8b714c4b0ed93eefb8fe8395b05cd4c5331eef9946928c3aaad811c4aa3330b71ee8345ee936b9f3a4013cfcdc283658954a9b39f807a64b445dc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(362): Expected a sequence <directive or device instantiation end of line> here.
+7e36e1dcd2fd0a517f7c29eeff53f2633f2b26e765be26b9c0d2bc1d9d486d74318106a67fbe8d2415582ffc4e52890de49305b66502580161b5e69c43408f13
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(363): Expected a sequence <directive or device instantiation end of line> here.
+9bf87bdc3104807a34bf802feb64227ba71f4fcf19ec21e7caa7eed072ff0e36e44cca65fb4c07a8a8243fc332e8399417f92dffbfb7c0ff3652c6c85c17f0f4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(364): Expected node name here.
+be1e84830e9f7845e142e38e6330dd65701d536aebf4ef6c37c131837e129c1e42d34c6b6cccd0d91f2859e518be5fa9119d833847ca94cb0b659820878b812e
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(364): Expected a sequence <directive or device instantiation end of line> here.
+be1e84830e9f7845e142e38e6330dd65701d536aebf4ef6c37c131837e129c1e42d34c6b6cccd0d91f2859e518be5fa9119d833847ca94cb0b659820878b812e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(365): Expected a sequence <directive or device instantiation end of line> here.
+c5dfd446c37ada3fa3fd856bd45eb9391b4fbc640f79cf0470c49f5bbf4096acf5ad73eb3445e9cbd12843ccd4abdd102b5992017a2a7bcd74da81362afd2bf7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(366): Expected node name here.
+d14e1be65d41b13a75450f025f5b64d1329102fbff66838523af88f871d9b8742cb48f91686a6d469fc8cedcf4ff2cdddb2ec462dab84770b6ed65c97d6ca34c
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(366): Expected a sequence <directive or device instantiation end of line> here.
+d14e1be65d41b13a75450f025f5b64d1329102fbff66838523af88f871d9b8742cb48f91686a6d469fc8cedcf4ff2cdddb2ec462dab84770b6ed65c97d6ca34c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(367): Expected a sequence <directive or device instantiation end of line> here.
+02f7d13e8aa36fa35cd1e3eabe30c61ad2d8b2ce560276d1a76b00a23f8bad2f611ff7e191270fe3d4968aeea7209c4d98c19c5eaef3bed9e9452e7c1862fb19
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(368): Expected a sequence <directive or device instantiation end of line> here.
+47db50be4aff796828cd23b2eb26af75728fa1b4578510add8f0187d2ff2333e1625ec3a35904d74cef62a5616deeb38895325c0d55b7b28b58e87db46e79307
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(369): Expected a sequence <directive or device instantiation end of line> here.
+08324b092627c204d81c78801cec34cb3a7075fd69e05bbf74a596e2cf653b9f192c00dcbab0f5939aed5a957433fc2aad46247764bf819a88883ba31b6b1b07
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(370): Expected node name here.
+a26301867f73e4626365434df3617b66638e6a49184506e44b8a26cefe0246b1a73b7b8b04f00533c5aae649029fa01a758cd1433b095bd557ee088122dde553
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(370): Expected a sequence <directive or device instantiation end of line> here.
+a26301867f73e4626365434df3617b66638e6a49184506e44b8a26cefe0246b1a73b7b8b04f00533c5aae649029fa01a758cd1433b095bd557ee088122dde553
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(371): Expected a sequence <directive or device instantiation end of line> here.
+8c30661e3189f76e6c70d1236ad88ac4f19dae2bd245984be0c5c76e4f69f0b70a7b95b990c3242d5e12bcee28e6d63b8e7e50d3b2b3da4030ac3f7a667a24e6
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(372): Expected 2 node names here.
+e57e4ba9c50b008ca8c538e1f79da4a13fd3f1b333f03771de7a3d58594d6fd80ea05e0610f5ec6d99ba55dda81c4f06085f88cad57fec812ae0e895c426c361
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(373): Expected a sequence <directive or device instantiation end of line> here.
+184468fe11ff7b874941b6eda6235ff832a619e91af6c3e4cb2b238aff447dd95ca06d32aba0393a9ae01d44e3d46c06caef2ab909ce8aeafc8911370d7c0766
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(374): Expected a sequence <directive or device instantiation end of line> here.
+6fe26e98b8d2a77f8c4d0b01458e62c5341318405812d6dd5356a39d4c8c0b6e3f8198008c66b99f006053663d5d0366aa13145be0dc7e14fe2e7677cb13ab90
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(375): Expected node name here.
+f470d11f778df377098d930bcd6cc08ebe54a05abaeadb934cd9d1e4e39eda9d87ec0da45642c9fd1a36aa3df13fe3ed23df93ac38c367399552ddc849ded3ce
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(375): Expected a sequence <directive or device instantiation end of line> here.
+f470d11f778df377098d930bcd6cc08ebe54a05abaeadb934cd9d1e4e39eda9d87ec0da45642c9fd1a36aa3df13fe3ed23df93ac38c367399552ddc849ded3ce
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(376): Expected a sequence <directive or device instantiation end of line> here.
+3edca03b880b63ff5deb383791b05fddc0723adbcc26a54597d2b2b72a89033afb1db614c11d23b9826e0360b22638de0c9f73872ef9c38cd73ac8094185b62b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(377): Expected node name here.
+af62472e7e08145425c2862876fe3ecd395b05cd4c5331eef9946928c3aaad811c4aa3330b71ee8345ee936b9f3a4013cfcdc283658954a9b39f807a64b445dc
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(377): Expected a sequence <directive or device instantiation end of line> here.
+af62472e7e08145425c2862876fe3ecd395b05cd4c5331eef9946928c3aaad811c4aa3330b71ee8345ee936b9f3a4013cfcdc283658954a9b39f807a64b445dc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(378): Expected a sequence <directive or device instantiation end of line> here.
+9e93b58fb6edff24c85a644b6ad2e49d82b6bbdaa86d5090461005d782cee1ddc6b42ea5d087579d0af167cb206fe313ee5a19c8611b3e5a88f30aa03d9500ba
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(379): Expected node name here.
+b5d9e53a9f66d0405684ca4e8fe0fb775bde49220015762f76b63503ad8ad2c419a9c70d5593a0515676b71df0fc5e8a2aebcd8b415c2e09a9a572f16dc134af
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(379): Expected a sequence <directive or device instantiation end of line> here.
+b5d9e53a9f66d0405684ca4e8fe0fb775bde49220015762f76b63503ad8ad2c419a9c70d5593a0515676b71df0fc5e8a2aebcd8b415c2e09a9a572f16dc134af
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(380): Expected a sequence <directive or device instantiation end of line> here.
+8dbbb958602553232ee699663985026bf27df898a28dba987622e4c27b2d4151c777593416e98f7948a9e59fa27a079c6d55273c2a64e421faa819f99f3fe980
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(381): Expected a sequence <directive or device instantiation end of line> here.
+4fb5f39434dc96de4a9fd92ded82a4edcd9785924ba7f0a71e93a41814f901d2e4b4f1da4a1701f65d490879e17afacd0b92eca08a1c8be66b5bec70859def4b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(382): Expected a sequence <directive or device instantiation end of line> here.
+95747ae3224733d8151d022bd46e5c269002544a0c29e2e152adaf0e1d8bed8df6ddb076b66639d897e1d54997d2bc5098c19c5eaef3bed9e9452e7c1862fb19
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(383): Expected a sequence <directive or device instantiation end of line> here.
+068ddbd2371cb8614b2a6675f976606cd0dcddbcc8c3fd065d67f96f696b0dfe5ab5ceead32d832732cae7f7ad48223883ed97327a5ed544841f8b032ac89b0f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(384): Expected a sequence <directive or device instantiation end of line> here.
+6d729e4e692216d54176014478256696127318b56dede7daadfdddd520e462178df295c682812e45728e5bfa4e5ac01526ab50dbe54711b81eb6caf893c63e01
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(385): Expected a sequence <directive or device instantiation end of line> here.
+53380f60a9d576376f906d44c954db457106aa9049a14ba530b1c2ba174fde417beea78a43cce2426ef24c2aab0bbe61bebc0173e4ff7cfe4d9230120d187a45
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(386): Expected a sequence <directive or device instantiation end of line> here.
+038bda2d773d6f804547d8caa7194887dc1392d03fcac1290b572ff1ee4e678989ccf4d26c157645c6d02355364ac77e5caa7ec734cf0be2ef53323f0b74c59a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(387): Expected a sequence <directive or device instantiation end of line> here.
+0083f2f87abf41bc3bf8c1bb154eb4214659be241d69349cf666a396239847ce5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(388): Expected a sequence <directive or device instantiation end of line> here.
+1f761ecba323bab5ffac2b016535a2d8bf4b08b2239a68fb338b57a2254feea51be1095aa9f264f8e5b752724a8f085ba5f299155bb9c9e7706efa759bdeb98d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(389): Expected a sequence <directive or device instantiation end of line> here.
+c5f75d7fdbf26ee9eb6f94f60674e785f8f289e23d15362cc6f70e673b0580fd4e69229c28f705e66638d17b6c7645e1909ec99c9db8a5e60bb5254b7249cbe3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(390): Expected a sequence <directive or device instantiation end of line> here.
+910301d70f931d569b3b3d67721bb545a2a0863e4638aac400f06f1008770617915b30ce692611b46012565e7ad7567f119d833847ca94cb0b659820878b812e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(391): Expected a sequence <directive or device instantiation end of line> here.
+4c42f57b7c78ffd60cb13900ca14fd9b1468703cd0c7334d496caaa8c6f9525fb4bb120eb86eba43d32d04cb56cd956e119d833847ca94cb0b659820878b812e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(392): Expected node name here.
+d49c369d916f89f6bc2206c186b9d25ccc22d38f46fc407cb62ce4db1359e3171368b740325a3259ff8f96898bab8ef5ec839002fbdf0309b2bafd3384540310
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(392): Expected a sequence <directive or device instantiation end of line> here.
+d49c369d916f89f6bc2206c186b9d25ccc22d38f46fc407cb62ce4db1359e3171368b740325a3259ff8f96898bab8ef5ec839002fbdf0309b2bafd3384540310
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(393): Expected a sequence <directive or device instantiation end of line> here.
+22af9fe04ac8afbef39e41d7e85c3676275040c7e092fdb33137af11c106481c5ae9600a30849ab94158deb09c2f2d7f785aa2540cfc0c5b0508c79ad4e2aae7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(394): Expected a sequence <directive or device instantiation end of line> here.
+39b33f97a2a00959b6c64ac3fb67584f5bde49220015762f76b63503ad8ad2c419a9c70d5593a0515676b71df0fc5e8a2aebcd8b415c2e09a9a572f16dc134af
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(395): Expected a sequence <directive or device instantiation end of line> here.
+01737b38fa8337d61e38581e5da0dbe0a7b7bfbd14990d2a062155765a90f079915b30ce692611b46012565e7ad7567f119d833847ca94cb0b659820878b812e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(396): Expected node name here.
+df1c2f7f3ad57cc1f4395c87ff584e8d913b94d792448e0914fc52e597f90108395b05cd4c5331eef9946928c3aaad81e94fe776a0888e271a56626d62f7ad21
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(396): Expected a sequence <directive or device instantiation end of line> here.
+df1c2f7f3ad57cc1f4395c87ff584e8d913b94d792448e0914fc52e597f90108395b05cd4c5331eef9946928c3aaad81e94fe776a0888e271a56626d62f7ad21
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(397): Expected node name here.
+aa043b8393ff427ce441bc0280d22af23a99741b689957a84b8b56145da91f643c9d320530462117a7e89dfb06779df5dc3120e8e97d2dbcdd067cbc1eea0dfc
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(397): Expected a sequence <directive or device instantiation end of line> here.
+aa043b8393ff427ce441bc0280d22af23a99741b689957a84b8b56145da91f643c9d320530462117a7e89dfb06779df5dc3120e8e97d2dbcdd067cbc1eea0dfc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(398): Expected node name here.
+d38244cf4a47de005e5eb0b3bba986825c7b6e48562fc158efbab063f8730b9e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(398): Expected a sequence <directive or device instantiation end of line> here.
+d38244cf4a47de005e5eb0b3bba986825c7b6e48562fc158efbab063f8730b9e5bde49220015762f76b63503ad8ad2c44374134bb94bdc4971632cca29300d6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(399): Expected a sequence <directive or device instantiation end of line> here.
+cd015a83d82d17fb5ab404cd5e493cb36f11103e2739e4d684746e473050ecc13f8198008c66b99f006053663d5d0366aa13145be0dc7e14fe2e7677cb13ab90
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(400): Expected node name here.
+f0b8c4aab063c1554d1f0df6abf5d35134518e609b9eeb221ebf6fbfa62b06c58977397241395f98424b21a488467281119d833847ca94cb0b659820878b812e
+                                                                                                                                ^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(400): Expected a sequence <directive or device instantiation end of line> here.
+f0b8c4aab063c1554d1f0df6abf5d35134518e609b9eeb221ebf6fbfa62b06c58977397241395f98424b21a488467281119d833847ca94cb0b659820878b812e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(401): Expected a sequence <directive or device instantiation end of line> here.
+3778a668bc4d596552300db33431f868a5c9c8b8ec15a96103bf6226f671420ef8f289e23d15362cc6f70e673b0580fdc43251d7c15274e06137548b02953509
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(402): Expected a sequence <directive or device instantiation end of line> here.
+974dd283f9d59fa8cad0eca106be5fb2f5b33e59420eefd1208a39ba596f1149a8a83aa7ac7f99f44ac188e438291cc6122babca43fbf037f74c4159702d3ab6
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(403): Expected a sequence <directive or device instantiation end of line> here.
+$CDNENCFINISH_ADV2
+^^^^^^^^^^^^^^^^^^
+
+X§U1 N003 0 N005 N004 N002 N001 TPS562202_TRANS STEADY_STATE=1 ;§pnba EN)GND)SW)VBST)VFB)VIN
+                                ^^^^^^^^^^^^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(4): Undefined model "c10uf".
+C1 N001 0 C10uF
+          ^^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(5): Undefined model "c0.1uf".
+C2 N001 0 C0.1uF
+          ^^^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(6): Undefined model "c0.1uf".
+C3 N001 0 C0.1uF
+          ^^^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(8): Undefined model "r10k".
+R1 N001 N003 R10K
+             ^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(9): Undefined model "c100pf".
+C4 FB N002 C100pF
+           ^^^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(10): Undefined model "r52.3k".
+R2 FB N002 R52.3K
+           ^^^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(11): Undefined model "c0.1uf".
+C5 N004 N005 C0.1uF
+             ^^^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(12): Undefined model "r10k".
+R3 N002 0 R10K
+          ^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(14): Undefined model "c22uf".
+C6 FB 0 C22uF
+        ^^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(15): Undefined model "c22uf".
+C7 FB 0 C22uF
+        ^^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(16): Undefined model "r390".
+R4 FB N006 R390
+           ^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(17): Undefined model "r390".
+R5 FB N007 R390
+           ^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(18): Undefined model "r390".
+R6 FB N008 R390
+           ^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(19): Undefined model "r390".
+R7 FB N009 R390
+           ^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(20): Undefined model "r390".
+R8 FB N010 R390
+           ^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(21): Undefined model "r390".
+R9 FB N011 R390
+           ^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(22): Undefined model "r390".
+R10 FB N012 R390
+            ^^^^
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(23): Undefined model "r390".
+R11 FB N013 R390
+            ^^^^

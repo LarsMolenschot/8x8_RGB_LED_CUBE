@@ -10,6 +10,129 @@
 		(company "Áuthor: Lars Molenschot")
 	)
 	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_02x04_Top_Bottom"
 			(pin_names
 				(offset 1.016)
@@ -1680,6 +1803,12 @@
 		(uuid "e4e00d69-4fd0-4fb3-b133-bfffba9bacf0")
 	)
 	(junction
+		(at 140.97 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d4fb63c-f3d6-47a0-9dff-744eec5cdcef")
+	)
+	(junction
 		(at 41.91 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1933,7 +2062,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 93.98) (xy 151.13 93.98)
+			(xy 137.16 93.98) (xy 151.13 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1993,7 +2122,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 96.52) (xy 151.13 96.52)
+			(xy 130.81 96.52) (xy 151.13 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2123,7 +2252,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 88.9) (xy 151.13 88.9)
+			(xy 137.16 88.9) (xy 140.97 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2133,7 +2262,17 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 91.44) (xy 151.13 91.44)
+			(xy 140.97 88.9) (xy 151.13 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e136e9ce-f40e-4116-aa09-c475dd9a2a5b")
+	)
+	(wire
+		(pts
+			(xy 130.81 91.44) (xy 151.13 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2457,7 +2596,7 @@
 	)
 	(global_label "O_L1"
 		(shape input)
-		(at 143.51 88.9 180)
+		(at 137.16 88.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2467,7 +2606,7 @@
 		)
 		(uuid "6f3de4bb-a22e-4b61-bed0-ff40454f836c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 135.9891 88.9 0)
+			(at 129.6391 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2601,7 +2740,7 @@
 	)
 	(global_label "O_L4"
 		(shape input)
-		(at 137.16 96.52 180)
+		(at 130.81 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2611,7 +2750,7 @@
 		)
 		(uuid "a82f3e8e-73b2-43a0-91ca-6e6d075cdf03")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.6391 96.52 0)
+			(at 123.2891 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2793,7 +2932,7 @@
 	)
 	(global_label "O_L2"
 		(shape input)
-		(at 137.16 91.44 180)
+		(at 130.81 91.44 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2803,7 +2942,7 @@
 		)
 		(uuid "cb1ed91c-f782-484d-b8e4-f2801855af97")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.6391 91.44 0)
+			(at 123.2891 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2865,7 +3004,7 @@
 	)
 	(global_label "O_L3"
 		(shape input)
-		(at 143.51 93.98 180)
+		(at 137.16 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2875,7 +3014,7 @@
 		)
 		(uuid "e76a2ccc-98bf-4118-acc3-7c405f37bd1f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 135.9891 93.98 0)
+			(at 129.6391 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3736,6 +3875,84 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/905dac8e-5dc9-4853-8a58-87c51247ef9b"
 					(reference "#PWR0160")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 140.97 88.9 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a6070159-d7ea-41fc-8b5c-c0afdf0941f1")
+		(property "Reference" "TP7"
+			(at 136.652 83.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 131.064 85.598 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 146.05 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 140.97 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "da6ade45-094d-4354-96cc-56d2c6cc24b0")
+		)
+		(instances
+			(project "LED_CUBE_8x8"
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c/905dac8e-5dc9-4853-8a58-87c51247ef9b"
+					(reference "TP7")
 					(unit 1)
 				)
 			)

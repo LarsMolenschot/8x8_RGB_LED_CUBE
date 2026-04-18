@@ -284,13 +284,14 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
+        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
       }
     ],
     "meta": {
-      "version": 4
+      "version": 5
     },
     "net_colors": null,
     "netclass_assignments": null,
@@ -436,7 +437,7 @@
         "uuid": "b239677e-e361-4439-8200-63fb41f7e03c"
       }
     ],
-    "used_designators": "",
+    "used_designators": "TP1-7,JP1-2",
     "variants": []
   },
   "sheets": [

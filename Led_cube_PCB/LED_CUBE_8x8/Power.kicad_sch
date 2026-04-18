@@ -10,6 +10,129 @@
 		(company "Áuthor: Lars Molenschot")
 	)
 	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -468,6 +591,195 @@
 					(at 0 -3.81 90)
 					(length 1.27)
 					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Jumper:SolderJumper_2_Bridged"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "JP"
+				(at 0 2.032 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SolderJumper_2_Bridged"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Solder Jumper, 2-pole, closed/bridged"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "solder jumper SPST"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "SolderJumper*Bridged*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SolderJumper_2_Bridged_0_1"
+				(rectangle
+					(start -0.508 0.508)
+					(end 0.508 -0.508)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 1.016) (xy -0.254 -1.016)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.254 -1.016)
+					(mid -1.2656 0)
+					(end -0.254 1.016)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start 0.254 1.016)
+					(mid 1.2656 0)
+					(end 0.254 -1.016)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 1.016) (xy 0.254 -1.016)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SolderJumper_2_Bridged_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "B"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1560,7 +1872,7 @@
 		(uuid "2a6d6313-6cb4-4ff5-8dde-bc629baf0d3f")
 	)
 	(junction
-		(at 64.77 96.52)
+		(at 64.77 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d016857-0c43-49f3-802c-115d5c134b95")
@@ -1572,7 +1884,19 @@
 		(uuid "42209eaf-ee0b-499c-a45f-d2f475519530")
 	)
 	(junction
-		(at 78.74 81.28)
+		(at 57.15 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71c35b25-fc05-4d83-8c4d-4767cd9f123f")
+	)
+	(junction
+		(at 57.15 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91a6e4fb-fc9f-4d34-8815-9d0cd44e9cac")
+	)
+	(junction
+		(at 78.74 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95644dfb-1431-4e50-8de5-4c03c909828d")
@@ -1596,7 +1920,13 @@
 		(uuid "b50246fe-07ee-4e0f-b447-fe81e0e2ebd5")
 	)
 	(junction
-		(at 64.77 81.28)
+		(at 52.07 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf6261fe-8525-47a0-ad35-65da5216b5e2")
+	)
+	(junction
+		(at 64.77 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c05be3ff-fb31-47cd-b815-a254440dfe6f")
@@ -1620,12 +1950,6 @@
 		(uuid "d6d43ab3-33b5-427e-b865-6d718e7b3679")
 	)
 	(junction
-		(at 57.15 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e647c15d-56ce-4c0b-b4dd-a08ff86629e6")
-	)
-	(junction
 		(at 160.02 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1639,7 +1963,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 96.52) (xy 78.74 96.52)
+			(xy 64.77 99.06) (xy 78.74 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1659,7 +1983,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 81.28) (xy 57.15 81.28)
+			(xy 48.26 83.82) (xy 57.15 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1689,6 +2013,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 72.39) (xy 63.5 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12dd7387-9aab-4399-a697-5cfc40a3df1b")
+	)
+	(wire
+		(pts
 			(xy 31.75 63.5) (xy 46.99 63.5)
 		)
 		(stroke
@@ -1709,7 +2043,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 96.52) (xy 78.74 92.71)
+			(xy 78.74 99.06) (xy 78.74 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1756,6 +2090,16 @@
 			(type default)
 		)
 		(uuid "2ed8c5d8-94f3-4897-b446-fb31bf0ffe93")
+	)
+	(wire
+		(pts
+			(xy 57.15 72.39) (xy 57.15 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "303e7a2f-068f-4f6c-89f0-48f619e360c4")
 	)
 	(wire
 		(pts
@@ -1849,6 +2193,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 71.12) (xy 57.15 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61f8f1d5-6b28-4020-9013-0d46c6247af2")
+	)
+	(wire
+		(pts
 			(xy 111.76 91.44) (xy 148.59 91.44)
 		)
 		(stroke
@@ -1859,7 +2213,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 81.28) (xy 64.77 85.09)
+			(xy 64.77 83.82) (xy 64.77 87.63)
 		)
 		(stroke
 			(width 0)
@@ -1949,7 +2303,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 81.28) (xy 78.74 85.09)
+			(xy 78.74 83.82) (xy 78.74 87.63)
 		)
 		(stroke
 			(width 0)
@@ -1959,7 +2313,17 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 81.28) (xy 106.68 58.42)
+			(xy 57.15 83.82) (xy 64.77 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "921c8500-d475-486f-9f37-f51cd6b9017f")
+	)
+	(wire
+		(pts
+			(xy 106.68 83.82) (xy 106.68 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1969,7 +2333,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 81.28) (xy 102.87 81.28)
+			(xy 106.68 83.82) (xy 102.87 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1979,7 +2343,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 96.52) (xy 64.77 92.71)
+			(xy 64.77 99.06) (xy 64.77 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1999,7 +2363,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 81.28) (xy 82.55 81.28)
+			(xy 78.74 83.82) (xy 82.55 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2029,7 +2393,17 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 41.91) (xy 156.21 41.91)
+			(xy 52.07 41.91) (xy 156.21 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb144034-a2d5-4bad-b342-50ccaffe266b")
+	)
+	(wire
+		(pts
+			(xy 31.75 41.91) (xy 52.07 41.91)
 		)
 		(stroke
 			(width 0)
@@ -2039,7 +2413,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 96.52) (xy 64.77 99.06)
+			(xy 64.77 99.06) (xy 64.77 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2079,33 +2453,13 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 81.28) (xy 64.77 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9063c6d-e461-4368-917b-c26c4a5f79c8")
-	)
-	(wire
-		(pts
-			(xy 64.77 81.28) (xy 78.74 81.28)
+			(xy 64.77 83.82) (xy 78.74 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "dbf2670b-c2f4-458d-856a-094fc60d4e74")
-	)
-	(wire
-		(pts
-			(xy 57.15 77.47) (xy 57.15 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd19523d-19ff-4972-9b0b-e956c653452d")
 	)
 	(wire
 		(pts
@@ -3315,7 +3669,7 @@
 	)
 	(global_label "FB"
 		(shape passive)
-		(at 48.26 81.28 180)
+		(at 48.26 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3325,7 +3679,7 @@
 		)
 		(uuid "9abfa1ab-86d8-4fc5-9213-cc0012f8d8a3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.0275 81.28 0)
+			(at 44.0275 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3444,7 +3798,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 57.15 77.47 0)
+		(at 57.15 71.12 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3455,7 +3809,7 @@
 		(fields_autoplaced yes)
 		(uuid "03bac3b3-9d41-45c4-a3d2-219f63c1ebe4")
 		(property "Reference" "#PWR0138"
-			(at 57.15 81.28 0)
+			(at 57.15 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3466,7 +3820,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 57.15 72.39 0)
+			(at 57.15 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3476,7 +3830,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 57.15 77.47 0)
+			(at 57.15 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3487,7 +3841,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 77.47 0)
+			(at 57.15 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3498,7 +3852,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 57.15 77.47 0)
+			(at 57.15 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3827,7 +4181,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 64.77 88.9 0)
+		(at 64.77 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3838,17 +4192,6 @@
 		(fields_autoplaced yes)
 		(uuid "25335e44-ab08-48ae-b78b-0c78fcefcbbf")
 		(property "Reference" "C29"
-			(at 68.58 87.6299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C22uF"
 			(at 68.58 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3859,8 +4202,19 @@
 				(justify left)
 			)
 		)
+		(property "Value" "C22uF"
+			(at 68.58 92.7099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(property "Footprint" ""
-			(at 65.7352 92.71 0)
+			(at 65.7352 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3871,7 +4225,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 88.9 0)
+			(at 64.77 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3882,7 +4236,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 64.77 88.9 0)
+			(at 64.77 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3902,6 +4256,85 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089"
 					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 63.5 72.39 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2d98289e-2654-4a87-9d33-25745d6c4888")
+		(property "Reference" "TP1"
+			(at 68.58 71.1199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 68.58 73.6599 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 63.5 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 63.5 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2a8c0b23-c1f0-4a37-bbc6-070aa194db88")
+		)
+		(instances
+			(project "LED_CUBE_8x8"
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c/ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089"
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -4065,7 +4498,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:BMCA000606304R7MD1")
-		(at 82.55 81.28 0)
+		(at 82.55 83.82 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4076,16 +4509,6 @@
 		(fields_autoplaced yes)
 		(uuid "32f1d991-332b-47d3-8caa-94fd3c436a71")
 		(property "Reference" "L2"
-			(at 92.71 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "L4.7uH"
 			(at 92.71 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4095,8 +4518,18 @@
 				)
 			)
 		)
+		(property "Value" "L4.7uH"
+			(at 92.71 80.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Footprint" "BMCA000606304R7MD1"
-			(at 99.06 177.47 0)
+			(at 99.06 180.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4108,7 +4541,7 @@
 			)
 		)
 		(property "Datasheet" "https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/BMCA000606304R7MD1"
-			(at 99.06 277.47 0)
+			(at 99.06 280.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4120,7 +4553,7 @@
 			)
 		)
 		(property "Description" "4.7 H Shielded Molded Inductor 5.5 A 40mOhm Max Nonstandard"
-			(at 82.55 81.28 0)
+			(at 82.55 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4131,7 +4564,7 @@
 			)
 		)
 		(property "Height" "3"
-			(at 99.06 477.47 0)
+			(at 99.06 480.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4143,7 +4576,7 @@
 			)
 		)
 		(property "Mouser Part Number" "603-BMCA0606304R7MD1"
-			(at 99.06 577.47 0)
+			(at 99.06 580.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4155,7 +4588,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/BMCA000606304R7MD1?qs=DRkmTr78QASHtq8UaFwi2g%3D%3D"
-			(at 99.06 677.47 0)
+			(at 99.06 680.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4167,7 +4600,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "PULSE"
-			(at 99.06 777.47 0)
+			(at 99.06 780.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4179,7 +4612,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "BMCA000606304R7MD1"
-			(at 99.06 877.47 0)
+			(at 99.06 880.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4285,7 +4718,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 78.74 88.9 0)
+		(at 78.74 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4296,17 +4729,6 @@
 		(fields_autoplaced yes)
 		(uuid "39d8b609-dcc6-49b7-af73-043b8013f98e")
 		(property "Reference" "C30"
-			(at 82.55 87.6299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C22uF"
 			(at 82.55 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4317,8 +4739,19 @@
 				(justify left)
 			)
 		)
+		(property "Value" "C22uF"
+			(at 82.55 92.7099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(property "Footprint" ""
-			(at 79.7052 92.71 0)
+			(at 79.7052 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4329,7 +4762,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 88.9 0)
+			(at 78.74 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4340,7 +4773,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 78.74 88.9 0)
+			(at 78.74 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4680,7 +5113,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 64.77 99.06 0)
+		(at 64.77 101.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4691,7 +5124,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d283b57-4f94-46dd-b40c-15b775a78a11")
 		(property "Reference" "#PWR0137"
-			(at 64.77 105.41 0)
+			(at 64.77 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4702,7 +5135,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 64.77 104.14 0)
+			(at 64.77 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4712,7 +5145,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 99.06 0)
+			(at 64.77 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4723,7 +5156,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 99.06 0)
+			(at 64.77 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4734,7 +5167,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 99.06 0)
+			(at 64.77 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5102,7 +5535,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_10uF"
+		(property "Value" "C10uF"
 			(at 35.56 60.3249 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5234,6 +5667,168 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089"
 					(reference "#PWR0136")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Bridged")
+		(at 57.15 78.74 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ccfb7cb2-84a8-406f-a880-308482e0359b")
+		(property "Reference" "JP2"
+			(at 59.69 77.4699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SolderJumper_2_Bridged"
+			(at 59.69 80.0099 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 57.15 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
+			(at 62.23 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5a1cdea1-e9d9-476f-bfc9-684925a96331")
+		)
+		(pin "1"
+			(uuid "0f19006e-b9d3-47f2-b029-986208cc6738")
+		)
+		(instances
+			(project "LED_CUBE_8x8"
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c/ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089"
+					(reference "JP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 52.07 41.91 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e66453e2-e18e-431c-810c-89ff80f762cb")
+		(property "Reference" "TP2"
+			(at 54.61 37.3379 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 54.61 39.8779 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 57.15 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 52.07 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e55098a1-3a97-49e9-8707-f9a2b23e53b9")
+		)
+		(instances
+			(project "LED_CUBE_8x8"
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c/ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089"
+					(reference "TP2")
 					(unit 1)
 				)
 			)

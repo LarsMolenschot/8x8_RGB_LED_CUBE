@@ -1,7 +1,7 @@
 LTspice 26.0.1 for Windows
 Circuit: E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net
-Start Time: Sat Apr 18 12:54:15 2026
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(3): This sub-circuit cannot be instantiated because it contains these syntax errors:
+Start Time: Sat Apr 18 17:56:09 2026
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(33): This sub-circuit cannot be instantiated because it contains these syntax errors:
 E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(64): Expected a sequence <directive or device instantiation end of line> here.
 $CDNENCSTART_ADV2
 ^^^^^^^^^^^^^^^^^
@@ -1698,59 +1698,59 @@ E:\8x8_RGB_LED_CUBE\Spice_simulations\TPS562202_TRANS.LIB(403): Expected a seque
 $CDNENCFINISH_ADV2
 ^^^^^^^^^^^^^^^^^^
 
-X§U1 N003 0 N005 N004 N002 N001 TPS562202_TRANS STEADY_STATE=1 ;§pnba EN)GND)SW)VBST)VFB)VIN
+X§U1 N003 0 N005 N004 N002 N001 TPS562202_TRANS STEADY_STATE=0 ;§pnba EN)GND)SW)VBST)VFB)VIN
                                 ^^^^^^^^^^^^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(4): Undefined model "c10uf".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(3): Undefined model "c10uf".
 C1 N001 0 C10uF
           ^^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(5): Undefined model "c0.1uf".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(4): Undefined model "c0.1uf".
 C2 N001 0 C0.1uF
           ^^^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(6): Undefined model "c0.1uf".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(5): Undefined model "c0.1uf".
 C3 N001 0 C0.1uF
           ^^^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(8): Undefined model "r10k".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(7): Undefined model "r10k".
 R1 N001 N003 R10K
              ^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(9): Undefined model "c100pf".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(8): Undefined model "c100pf".
 C4 FB N002 C100pF
            ^^^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(10): Undefined model "r52.3k".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(9): Undefined model "r52.3k".
 R2 FB N002 R52.3K
            ^^^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(11): Undefined model "c0.1uf".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(10): Undefined model "c0.1uf".
 C5 N004 N005 C0.1uF
              ^^^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(12): Undefined model "r10k".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(11): Undefined model "r10k".
 R3 N002 0 R10K
           ^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(14): Undefined model "c22uf".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(13): Undefined model "c22uf".
 C6 FB 0 C22uF
         ^^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(15): Undefined model "c22uf".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(14): Undefined model "c22uf".
 C7 FB 0 C22uF
         ^^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(16): Undefined model "r390".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(15): Undefined model "r390".
 R4 FB N006 R390
            ^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(17): Undefined model "r390".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(16): Undefined model "r390".
 R5 FB N007 R390
            ^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(18): Undefined model "r390".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(17): Undefined model "r390".
 R6 FB N008 R390
            ^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(19): Undefined model "r390".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(18): Undefined model "r390".
 R7 FB N009 R390
            ^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(20): Undefined model "r390".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(19): Undefined model "r390".
 R8 FB N010 R390
            ^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(21): Undefined model "r390".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(20): Undefined model "r390".
 R9 FB N011 R390
            ^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(22): Undefined model "r390".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(21): Undefined model "r390".
 R10 FB N012 R390
             ^^^^
-E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(23): Undefined model "r390".
+E:\8x8_RGB_LED_CUBE\Spice_simulations\Power_rail_transients.net(22): Undefined model "r390".
 R11 FB N013 R390
             ^^^^

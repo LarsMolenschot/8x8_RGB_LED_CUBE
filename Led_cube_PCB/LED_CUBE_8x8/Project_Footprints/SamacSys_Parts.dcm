@@ -102,4 +102,34 @@ K
 F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/sn74hcs238
 $ENDCMP
 #
+$CMP TPS62A01DRLR
+D Switching Voltage Regulators 2.5-V to 5.5-V input, 1-A high-efficiency step-down converter in SOT-563 package 6-SOT-5X3 -40 to 125
+K
+F https://www.arrow.com/en/products/tps62a01drlr/texas-instruments?region=nac
+$ENDCMP
+#
+$CMP DFE252012F-1R0M=P2
+D DFE252012F Series Inductor 1.0uH +/-20% 1008 (2520)
+K
+F https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-0017.pdf
+$ENDCMP
+#
+$CMP RC0201FR-07453KL
+D Thick Film Resistors - SMD 453 kOhms 50 mW 0201 1%
+K
+F https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf
+$ENDCMP
+#
+$CMP RC0201FR-7D100KL
+D Thick Film Resistors - SMD 100K ohm 1% 25V General Purpose
+K
+F http://www.yageo.com/documents/recent/PYu-RC0201_51_RoHS_L_8.pdf
+$ENDCMP
+#
+$CMP CX3225FB48000F0FZZH1
+D Crystal, 48 MHz, SMD, 3.2mm x 2.5mm, 20 ppm, 10 pF, 10 ppm, CX3225FB Series
+K
+F https://ele.kyocera.com/assets/products/crystal-device/specification/CX3225FB_10pF.pdf
+$ENDCMP
+#
 #End Doc Library

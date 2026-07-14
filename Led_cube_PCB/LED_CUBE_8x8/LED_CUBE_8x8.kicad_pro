@@ -437,7 +437,7 @@
         "uuid": "b239677e-e361-4439-8200-63fb41f7e03c"
       }
     ],
-    "used_designators": "TP1-7,JP1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -456,10 +456,6 @@
     [
       "cc8bd84f-da41-4d1f-b6a9-e2091cdfadf0",
       "Blue LED's"
-    ],
-    [
-      "ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089",
-      "Power"
     ],
     [
       "7bc69d4c-9dbd-42bf-a8af-fd631877e467",

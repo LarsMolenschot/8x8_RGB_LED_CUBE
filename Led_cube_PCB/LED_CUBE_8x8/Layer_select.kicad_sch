@@ -3226,7 +3226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP50P326X110-16N"
+		(property "Footprint" "SamacSys_Parts:SOP50P326X110-16N"
 			(at 86.36 124.13 0)
 			(hide yes)
 			(show_name no)
@@ -3566,7 +3566,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P1030X245-18N"
+		(property "Footprint" "SamacSys_Parts:SOIC127P1030X245-18N"
 			(at 87.63 177.47 0)
 			(hide yes)
 			(show_name no)
@@ -3992,7 +3992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 40.132 45.72 90)
 			(hide yes)
 			(show_name no)

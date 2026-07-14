@@ -1920,12 +1920,6 @@
 		(uuid "b50246fe-07ee-4e0f-b447-fe81e0e2ebd5")
 	)
 	(junction
-		(at 52.07 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bf6261fe-8525-47a0-ad35-65da5216b5e2")
-	)
-	(junction
 		(at 64.77 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2393,17 +2387,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 41.91) (xy 156.21 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb144034-a2d5-4bad-b342-50ccaffe266b")
-	)
-	(wire
-		(pts
-			(xy 31.75 41.91) (xy 52.07 41.91)
+			(xy 31.75 41.91) (xy 156.21 41.91)
 		)
 		(stroke
 			(width 0)
@@ -5750,85 +5734,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089"
 					(reference "JP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 52.07 41.91 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e66453e2-e18e-431c-810c-89ff80f762cb")
-		(property "Reference" "TP2"
-			(at 54.61 37.3379 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 54.61 39.8779 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
-			(at 57.15 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 57.15 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 52.07 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e55098a1-3a97-49e9-8707-f9a2b23e53b9")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/ed51cd6b-ee8e-4c86-b2fc-5627ffcf9089"
-					(reference "TP2")
 					(unit 1)
 				)
 			)

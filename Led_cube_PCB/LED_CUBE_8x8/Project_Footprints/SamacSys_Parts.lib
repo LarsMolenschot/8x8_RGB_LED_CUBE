@@ -516,4 +516,113 @@ P 5 0 1 6 200 100 800 100 800 -800 200 -800 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model TPS62A01DRLR
+#/16079868/1233974/2.50/6/3/Integrated Circuit
+DEF TPS62A01DRLR IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "TPS62A01DRLR" 850 200 50 H V L CNN
+F2 "SOTFL50P160X60-6N" 850 100 50 H I L CNN
+F3 "https://www.arrow.com/en/products/tps62a01drlr/texas-instruments?region=nac" 850 0 50 H I L CNN
+F4 "Switching Voltage Regulators 2.5-V to 5.5-V input, 1-A high-efficiency step-down converter in SOT-563 package 6-SOT-5X3 -40 to 125" 850 -100 50 H I L CNN "Description"
+F5 "0.6" 850 -200 50 H I L CNN "Height"
+F6 "595-TPS62A01DRLR" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62A01DRLR?qs=Znm5pLBrcALcIfh%2FYrJRtw%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TPS62A01DRLR" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X GND 1 0 0 200 R 50 50 0 0 P
+X SW 2 0 -100 200 R 50 50 0 0 P
+X VIN 3 0 -200 200 R 50 50 0 0 P
+X EN 4 1000 0 200 L 50 50 0 0 P
+X FB 5 1000 -100 200 L 50 50 0 0 P
+X PG 6 1000 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model DFE252012F-1R0M=P2
+#/348208/1233974/2.50/2/2/Inductor
+DEF DFE252012F-1R0M=P2 L 0 30 Y Y 1 F N
+F0 "L" 650 250 50 H V L CNN
+F1 "DFE252012F-1R0M=P2" 650 150 50 H V L CNN
+F2 "DFE2HCAH1R0MJ0L" 650 50 50 H I L CNN
+F3 "https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-0017.pdf" 650 -50 50 H I L CNN
+F4 "DFE252012F Series Inductor 1.0uH +/-20% 1008 (2520)" 650 -150 50 H I L CNN "Description"
+F5 "1.2" 650 -250 50 H I L CNN "Height"
+F6 "81-DFE252012F-1R0MP2" 650 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DFE252012F-1R0M%3dP2?qs=ty6qhqyUUEtPvXJAIo0Pnw%3D%3D" 650 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Murata Electronics" 650 -550 50 H I L CNN "Manufacturer_Name"
+F9 "DFE252012F-1R0M=P2" 650 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 800 0 200 L 50 50 0 0 P
+A 250 -2 50 1777 -23 0 1 6 N 300 0 200 0
+A 350 -2 50 1777 -23 0 1 6 N 400 0 300 0
+A 450 -2 50 1777 -23 0 1 6 N 500 0 400 0
+A 550 -2 50 1777 -23 0 1 6 N 600 0 500 0
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model RC0201FR-07453KL
+#/16470260/1233974/2.50/2/3/Resistor
+DEF RC0201FR-07453KL R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "RC0201FR-07453KL" 550 150 50 H V L CNN
+F2 "RESC0603X26N" 550 50 50 H I L CNN
+F3 "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf" 550 -50 50 H I L CNN
+F4 "Thick Film Resistors - SMD 453 kOhms 50 mW 0201 1%" 550 -150 50 H I L CNN "Description"
+F5 "0.26" 550 -250 50 H I L CNN "Height"
+F6 "603-RC0201FR-07453KL" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0201FR-07453KL?qs=1s%252BlIcjv25sZ2i87AF%252BnmQ%3D%3D" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Yageo Group" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "RC0201FR-07453KL" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model RC0201FR-7D100KL
+#/1813332/1233974/2.50/2/5/Resistor
+DEF RC0201FR-7D100KL R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "RC0201FR-7D100KL" 550 150 50 H V L CNN
+F2 "RESC0603X26N" 550 50 50 H I L CNN
+F3 "http://www.yageo.com/documents/recent/PYu-RC0201_51_RoHS_L_8.pdf" 550 -50 50 H I L CNN
+F4 "Thick Film Resistors - SMD 100K ohm 1% 25V General Purpose" 550 -150 50 H I L CNN "Description"
+F5 "0.26" 550 -250 50 H I L CNN "Height"
+F6 "603-RC0201FR-7D100KL" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0201FR-7D100KL?qs=NgbZBzc1CyEJ6dcGr2%2F%252Bdg%3D%3D" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Yageo Group" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "RC0201FR-7D100KL" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model CX3225FB48000F0FZZH1
+#/20576092/1233974/2.50/4/3/Crystal or Oscillator
+DEF CX3225FB48000F0FZZH1 Y 0 30 Y Y 1 F N
+F0 "Y" 3650 300 50 H V L CNN
+F1 "CX3225FB48000F0FZZH1" 3650 200 50 H V L CNN
+F2 "CX3225FB48000F0FZZH1" 3650 100 50 H I L CNN
+F3 "https://ele.kyocera.com/assets/products/crystal-device/specification/CX3225FB_10pF.pdf" 3650 0 50 H I L CNN
+F4 "Crystal, 48 MHz, SMD, 3.2mm x 2.5mm, 20 ppm, 10 pF, 10 ppm, CX3225FB Series" 3650 -100 50 H I L CNN "Description"
+F5 "0.8" 3650 -200 50 H I L CNN "Height"
+F6 "" 3650 -300 50 H I L CNN "Mouser Part Number"
+F7 "" 3650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Kyocera AVX" 3650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "CX3225FB48000F0FZZH1" 3650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X X'TAL_TERMINAL_(INPUT/OUTPUT)_1 1 0 -100 200 R 50 50 0 0 P
+X GND_TERMINAL_1 2 3800 -100 200 L 50 50 0 0 P
+X X'TAL_TERMINAL_(INPUT/OUTPUT)_2 3 3800 0 200 L 50 50 0 0 P
+X GND_TERMINAL_2 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 3600 100 3600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library

@@ -2627,12 +2627,6 @@
 		(uuid "2e5acd79-b94f-4adf-8fb2-d18f8fa0ad8b")
 	)
 	(junction
-		(at 223.52 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "333b2bc9-c2f9-4ea1-9b1f-e5a9364c0815")
-	)
-	(junction
 		(at 86.36 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2681,22 +2675,10 @@
 		(uuid "629d9050-b1b2-4ff0-b02c-a88a6dfbfd68")
 	)
 	(junction
-		(at 224.79 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "63aecb9b-9730-443b-bf07-350944685eeb")
-	)
-	(junction
 		(at 85.09 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6d3ea938-c5b4-4219-b2e1-7020a98daed3")
-	)
-	(junction
-		(at 106.68 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7f63e44b-ae3b-44e9-b553-2a6d9b8fd457")
 	)
 	(junction
 		(at 102.87 40.64)
@@ -2735,28 +2717,10 @@
 		(uuid "9ff8b8a8-6a44-4163-8de4-752125a6ded8")
 	)
 	(junction
-		(at 106.68 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a58af5ee-df1e-4187-b24b-71f44b4a1761")
-	)
-	(junction
 		(at 86.36 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5ab70e5-89c7-4bae-a813-1ac41ecc533c")
-	)
-	(junction
-		(at 224.79 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7c1ad78-bef3-4b67-b44f-e161b9c46fb8")
-	)
-	(junction
-		(at 105.41 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "af7c9ab0-8cc0-4a89-b831-793c32e910c1")
 	)
 	(junction
 		(at 104.14 142.24)
@@ -2783,12 +2747,6 @@
 		(uuid "c693064b-c095-49a6-b4ed-0abc9a76fda2")
 	)
 	(junction
-		(at 223.52 194.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cb9356da-ec61-4338-969f-53ce29e07b5b")
-	)
-	(junction
 		(at 203.2 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2805,12 +2763,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d45d45c8-1389-4eb6-a946-9b80ef1f53e8")
-	)
-	(junction
-		(at 106.68 194.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f5b5dc6c-469f-48f1-85b4-b8cc5fa2dbe0")
 	)
 	(bus_entry
 		(at 151.13 172.72)
@@ -3500,16 +3452,6 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 133.35) (xy 223.52 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "069418eb-fcf4-44bc-a7b5-646c75cf54a0")
-	)
-	(wire
-		(pts
 			(xy 153.67 67.31) (xy 153.67 50.8)
 		)
 		(stroke
@@ -3750,16 +3692,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 142.24) (xy 223.52 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19cebd74-ba92-4390-a357-65937b65f70c")
-	)
-	(wire
-		(pts
 			(xy 222.25 55.88) (xy 203.2 55.88)
 		)
 		(stroke
@@ -3817,16 +3749,6 @@
 			(type default)
 		)
 		(uuid "1cf0dffb-1071-48f1-9e8b-809bd6098eba")
-	)
-	(wire
-		(pts
-			(xy 106.68 82.55) (xy 106.68 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d3a2df9-5b03-466e-a4ce-8763e51d6414")
 	)
 	(bus
 		(pts
@@ -3977,16 +3899,6 @@
 			(type default)
 		)
 		(uuid "29e4147d-e6f8-4225-aec4-c02931b01a0e")
-	)
-	(wire
-		(pts
-			(xy 224.79 31.75) (xy 224.79 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a0565a9-ae96-4996-8692-65a6b77e4031")
 	)
 	(wire
 		(pts
@@ -4260,26 +4172,6 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 40.64) (xy 233.68 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38386909-0ac0-41e4-9be8-f72504f09c53")
-	)
-	(wire
-		(pts
-			(xy 106.68 91.44) (xy 115.57 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "387dd7d2-6de8-478c-b6ca-1ef45a57a84c")
-	)
-	(wire
-		(pts
 			(xy 342.9 179.07) (xy 351.79 179.07)
 		)
 		(stroke
@@ -4287,16 +4179,6 @@
 			(type default)
 		)
 		(uuid "392c70f6-8f97-4894-ae6f-fb487b420846")
-	)
-	(wire
-		(pts
-			(xy 106.68 185.42) (xy 106.68 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "393745fc-015e-49f0-b6ef-df555f304fc0")
 	)
 	(wire
 		(pts
@@ -4590,16 +4472,6 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 82.55) (xy 224.79 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4bbe4680-706e-4485-a33e-d39dd8f0e2a0")
-	)
-	(wire
-		(pts
 			(xy 104.14 106.68) (xy 104.14 118.11)
 		)
 		(stroke
@@ -4667,16 +4539,6 @@
 			(type default)
 		)
 		(uuid "4ef6849f-4fe9-4efa-bebd-7c239b091f02")
-	)
-	(wire
-		(pts
-			(xy 224.79 91.44) (xy 233.68 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f81c082-ca24-4bba-861d-880803d73db6")
 	)
 	(wire
 		(pts
@@ -4797,16 +4659,6 @@
 			(type default)
 		)
 		(uuid "55306941-56e3-433e-9d0e-1a80db9dbbe2")
-	)
-	(wire
-		(pts
-			(xy 105.41 40.64) (xy 114.3 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "558253cd-1be7-412d-863e-f5ab874cd2d5")
 	)
 	(wire
 		(pts
@@ -5170,7 +5022,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 194.31) (xy 115.57 194.31)
+			(xy 104.14 194.31) (xy 115.57 194.31)
 		)
 		(stroke
 			(width 0)
@@ -5360,7 +5212,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 142.24) (xy 115.57 142.24)
+			(xy 104.14 142.24) (xy 115.57 142.24)
 		)
 		(stroke
 			(width 0)
@@ -5460,16 +5312,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 194.31) (xy 223.52 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75c9d968-6cb5-4be9-a7d9-af670f6a0cac")
-	)
-	(wire
-		(pts
 			(xy 173.99 123.19) (xy 173.99 139.7)
 		)
 		(stroke
@@ -5487,16 +5329,6 @@
 			(type default)
 		)
 		(uuid "76cf2ea7-7a74-47be-92fe-bea2a4eaea98")
-	)
-	(wire
-		(pts
-			(xy 106.68 133.35) (xy 106.68 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77a4d10a-3bce-4f3c-900e-64491c50398c")
 	)
 	(wire
 		(pts
@@ -5740,7 +5572,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 40.64) (xy 105.41 40.64)
+			(xy 102.87 40.64) (xy 114.3 40.64)
 		)
 		(stroke
 			(width 0)
@@ -6290,7 +6122,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 194.31) (xy 232.41 194.31)
+			(xy 220.98 194.31) (xy 232.41 194.31)
 		)
 		(stroke
 			(width 0)
@@ -6590,7 +6422,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 91.44) (xy 106.68 91.44)
+			(xy 104.14 91.44) (xy 115.57 91.44)
 		)
 		(stroke
 			(width 0)
@@ -6677,16 +6509,6 @@
 			(type default)
 		)
 		(uuid "b5d08bb7-d674-4a34-87ec-cc4dc7264203")
-	)
-	(wire
-		(pts
-			(xy 104.14 194.31) (xy 106.68 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5f0c3e9-9e9b-4b39-a2dc-1e1f1f6b8bdc")
 	)
 	(wire
 		(pts
@@ -6790,16 +6612,6 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 185.42) (xy 223.52 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bf7aeb0e-a87a-44dc-8bf5-337dca0b80e6")
-	)
-	(wire
-		(pts
 			(xy 34.29 170.18) (xy 34.29 142.24)
 		)
 		(stroke
@@ -6837,16 +6649,6 @@
 			(type default)
 		)
 		(uuid "c0d51da6-46a4-4cd1-877c-454a3be30e5b")
-	)
-	(wire
-		(pts
-			(xy 104.14 142.24) (xy 106.68 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1daa316-1b25-4c19-a416-6e580266bedb")
 	)
 	(wire
 		(pts
@@ -6960,7 +6762,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 91.44) (xy 224.79 91.44)
+			(xy 222.25 91.44) (xy 233.68 91.44)
 		)
 		(stroke
 			(width 0)
@@ -7080,7 +6882,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 142.24) (xy 232.41 142.24)
+			(xy 220.98 142.24) (xy 232.41 142.24)
 		)
 		(stroke
 			(width 0)
@@ -7190,7 +6992,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 40.64) (xy 224.79 40.64)
+			(xy 222.25 40.64) (xy 233.68 40.64)
 		)
 		(stroke
 			(width 0)
@@ -7507,16 +7309,6 @@
 			(type default)
 		)
 		(uuid "e34a4788-edd0-4ca2-93b7-66bacf6709f8")
-	)
-	(wire
-		(pts
-			(xy 105.41 31.75) (xy 105.41 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3527b60-50d7-4ca0-9e30-ead38ba3b1db")
 	)
 	(wire
 		(pts
@@ -12314,7 +12106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 211.7852 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -12473,7 +12265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 118.872 90)
 			(hide yes)
 			(show_name no)
@@ -12751,7 +12543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 129.032 90)
 			(hide yes)
 			(show_name no)
@@ -13017,7 +12809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -13066,83 +12858,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 223.52 185.42 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "0db441d5-c0bf-485f-ba27-fb64ff9148f4")
-		(property "Reference" "#PWR0117"
-			(at 223.52 189.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 223.52 180.34 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 223.52 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3f3df1e7-2e6f-441e-a166-baf4dc744653")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "#PWR0117")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 318.77 156.21 270)
 		(unit 1)
@@ -13176,7 +12891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 154.432 90)
 			(hide yes)
 			(show_name no)
@@ -13336,7 +13051,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 123.952 90)
 			(hide yes)
 			(show_name no)
@@ -13614,7 +13329,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 159.512 90)
 			(hide yes)
 			(show_name no)
@@ -13696,7 +13411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 169.672 90)
 			(hide yes)
 			(show_name no)
@@ -13778,7 +13493,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 43.942 34.29 90)
 			(hide yes)
 			(show_name no)
@@ -13860,7 +13575,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 177.292 90)
 			(hide yes)
 			(show_name no)
@@ -13942,7 +13657,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -14024,7 +13739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -14339,7 +14054,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -14421,7 +14136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 169.672 90)
 			(hide yes)
 			(show_name no)
@@ -14503,7 +14218,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -14662,7 +14377,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 113.792 90)
 			(hide yes)
 			(show_name no)
@@ -14711,88 +14426,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 223.52 138.43 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "24f6ca67-3f33-4e27-b89a-c7b8f15f8154")
-		(property "Reference" "R41"
-			(at 226.06 137.1599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R10K"
-			(at 226.06 139.6999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 221.742 138.43 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 223.52 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e018d107-3f56-4c8c-915f-431492509f9d")
-		)
-		(pin "1"
-			(uuid "206ac378-cc36-4824-b9e7-9ddfd5fc34e9")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "R41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 209.55 187.96 0)
 		(unit 1)
@@ -14826,7 +14459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 210.5152 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -14908,7 +14541,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 113.792 90)
 			(hide yes)
 			(show_name no)
@@ -14990,7 +14623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 106.172 90)
 			(hide yes)
 			(show_name no)
@@ -15150,7 +14783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 98.552 90)
 			(hide yes)
 			(show_name no)
@@ -15388,7 +15021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 151.892 90)
 			(hide yes)
 			(show_name no)
@@ -15468,7 +15101,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 90.932 90)
 			(hide yes)
 			(show_name no)
@@ -15550,7 +15183,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 179.832 90)
 			(hide yes)
 			(show_name no)
@@ -15632,7 +15265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 96.012 90)
 			(hide yes)
 			(show_name no)
@@ -15792,7 +15425,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 310.642 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -15835,88 +15468,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
 					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 224.79 36.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "428a6366-2d30-4a89-b90d-94184a8b4830")
-		(property "Reference" "R43"
-			(at 227.33 35.5599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R10K"
-			(at 227.33 38.0999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 223.012 36.83 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 224.79 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 224.79 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f64ab84b-d3c8-4923-bea3-63a8b6492bae")
-		)
-		(pin "1"
-			(uuid "d2170d04-f31b-41c6-8283-89bbaf44fe37")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -16033,7 +15584,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 93.6752 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -16115,7 +15666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 151.892 90)
 			(hide yes)
 			(show_name no)
@@ -16589,7 +16140,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 167.132 90)
 			(hide yes)
 			(show_name no)
@@ -16671,7 +16222,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 174.752 90)
 			(hide yes)
 			(show_name no)
@@ -16753,7 +16304,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 96.012 90)
 			(hide yes)
 			(show_name no)
@@ -17031,7 +16582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 101.092 90)
 			(hide yes)
 			(show_name no)
@@ -17191,7 +16742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 179.832 90)
 			(hide yes)
 			(show_name no)
@@ -17350,7 +16901,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 144.272 90)
 			(hide yes)
 			(show_name no)
@@ -17432,7 +16983,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 162.052 90)
 			(hide yes)
 			(show_name no)
@@ -17475,88 +17026,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
 					(reference "R114")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 105.41 36.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5a0b5223-d955-43a5-8854-c1853cdd6b0e")
-		(property "Reference" "R15"
-			(at 107.95 35.5599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R10K"
-			(at 107.95 38.0999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 103.632 36.83 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 105.41 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 105.41 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "07bd3572-5a8c-4f01-9e0f-f0c5dadbf9f4")
-		)
-		(pin "1"
-			(uuid "6d74b858-4af6-4af1-8be0-58352b3b9957")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -17673,7 +17142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 45.212 187.96 90)
 			(hide yes)
 			(show_name no)
@@ -17833,7 +17302,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 116.332 90)
 			(hide yes)
 			(show_name no)
@@ -17882,83 +17351,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 105.41 31.75 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "650d2401-c16e-4403-9848-7067a867df91")
-		(property "Reference" "#PWR044"
-			(at 105.41 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 105.41 26.67 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 105.41 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 105.41 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 105.41 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a5f48e0a-d321-424b-ba1a-2c3640fa930f")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "#PWR044")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 355.6 156.21 270)
 		(unit 1)
@@ -17992,7 +17384,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 154.432 90)
 			(hide yes)
 			(show_name no)
@@ -18074,7 +17466,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 162.052 90)
 			(hide yes)
 			(show_name no)
@@ -18234,7 +17626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 45.212 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -18316,7 +17708,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 111.252 90)
 			(hide yes)
 			(show_name no)
@@ -18398,7 +17790,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 211.7852 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -18480,7 +17872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 101.092 90)
 			(hide yes)
 			(show_name no)
@@ -18562,7 +17954,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 149.352 90)
 			(hide yes)
 			(show_name no)
@@ -18690,88 +18082,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 106.68 138.43 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7e21a94d-0c00-423c-8ab5-3e33b4cb7b22")
-		(property "Reference" "R14"
-			(at 109.22 137.1599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R10K"
-			(at 109.22 139.6999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 104.902 138.43 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 106.68 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "da46ea76-ce86-4907-8d3b-f3ef49d980f2")
-		)
-		(pin "1"
-			(uuid "180a3845-bf9b-4640-87bc-8c3bec2c1e86")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 318.77 110.49 270)
 		(unit 1)
 		(body_style 1)
@@ -18804,7 +18114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 108.712 90)
 			(hide yes)
 			(show_name no)
@@ -18931,160 +18241,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 223.52 133.35 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "842db971-e9fd-4729-a8b5-b040959831c6")
-		(property "Reference" "#PWR0116"
-			(at 223.52 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 223.52 128.27 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 223.52 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "90c40cbf-a445-41b5-ba9a-a36041212aa0")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "#PWR0116")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 106.68 185.42 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "879168d3-61e8-4b22-9116-f17e5988a281")
-		(property "Reference" "#PWR089"
-			(at 106.68 189.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 106.68 180.34 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 106.68 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 106.68 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "21e2aae8-0ee9-4b71-b8b1-aebf951b55a3")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "#PWR089")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 318.77 92.71 270)
 		(unit 1)
@@ -19116,7 +18272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 90.932 90)
 			(hide yes)
 			(show_name no)
@@ -19276,7 +18432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 144.272 90)
 			(hide yes)
 			(show_name no)
@@ -19514,7 +18670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 116.332 90)
 			(hide yes)
 			(show_name no)
@@ -19596,7 +18752,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 93.472 90)
 			(hide yes)
 			(show_name no)
@@ -19678,7 +18834,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 98.552 90)
 			(hide yes)
 			(show_name no)
@@ -19760,7 +18916,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 177.292 90)
 			(hide yes)
 			(show_name no)
@@ -19959,88 +19115,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
 					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 223.52 190.5 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "97323861-5632-40f4-b86f-3d476d6d8805")
-		(property "Reference" "R42"
-			(at 226.06 189.2299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R10K"
-			(at 226.06 191.7699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 221.742 190.5 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 190.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 223.52 190.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "ae1eebec-7c78-4164-acb4-20262a93eb15")
-		)
-		(pin "1"
-			(uuid "b5d963ca-a28a-4635-ad4f-08846bd780d4")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -20250,7 +19324,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 129.032 90)
 			(hide yes)
 			(show_name no)
@@ -20528,7 +19602,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 163.322 34.29 90)
 			(hide yes)
 			(show_name no)
@@ -20610,7 +19684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 159.512 90)
 			(hide yes)
 			(show_name no)
@@ -20692,7 +19766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 93.472 90)
 			(hide yes)
 			(show_name no)
@@ -20774,7 +19848,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 210.5152 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -20856,7 +19930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 103.632 90)
 			(hide yes)
 			(show_name no)
@@ -21108,7 +20182,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 162.052 187.96 90)
 			(hide yes)
 			(show_name no)
@@ -21188,7 +20262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 141.732 90)
 			(hide yes)
 			(show_name no)
@@ -21348,7 +20422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 123.952 90)
 			(hide yes)
 			(show_name no)
@@ -21508,7 +20582,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 92.4052 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -21784,7 +20858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 141.732 90)
 			(hide yes)
 			(show_name no)
@@ -21866,7 +20940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 126.492 90)
 			(hide yes)
 			(show_name no)
@@ -21948,7 +21022,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 118.872 90)
 			(hide yes)
 			(show_name no)
@@ -22107,7 +21181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 103.632 90)
 			(hide yes)
 			(show_name no)
@@ -22267,7 +21341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 156.972 90)
 			(hide yes)
 			(show_name no)
@@ -22349,7 +21423,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 45.212 85.09 90)
 			(hide yes)
 			(show_name no)
@@ -22431,7 +21505,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 149.352 90)
 			(hide yes)
 			(show_name no)
@@ -22513,7 +21587,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 164.592 90)
 			(hide yes)
 			(show_name no)
@@ -22556,83 +21630,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
 					(reference "R115")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 106.68 133.35 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d249edfd-94fe-4910-b4e7-500f81b3e5a3")
-		(property "Reference" "#PWR043"
-			(at 106.68 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 106.68 128.27 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 106.68 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 106.68 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e5530e7a-0f81-40eb-ad8b-87bb6701d9de")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -22711,83 +21708,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
 					(reference "#PWR0105")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 224.79 82.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "daa86c5b-1479-4ff1-a181-eb0a03dea1cc")
-		(property "Reference" "#PWR0119"
-			(at 224.79 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 224.79 77.47 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 224.79 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 224.79 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 224.79 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "69c0bd1e-1711-4afc-adad-119d0c7e1d81")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -22905,7 +21825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 167.132 90)
 			(hide yes)
 			(show_name no)
@@ -22948,88 +21868,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
 					(reference "R100")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 224.79 87.63 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dea24745-eba1-4449-9e93-3e8a8d311bec")
-		(property "Reference" "R44"
-			(at 227.33 86.3599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R10K"
-			(at 227.33 88.8999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 223.012 87.63 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 224.79 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 224.79 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9e37c295-51df-4fa2-b90e-ff627c6701e5")
-		)
-		(pin "1"
-			(uuid "ac5fe8f2-30e9-4e9b-aaca-290e131325ba")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -23108,88 +21946,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
 					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 106.68 190.5 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e02da935-4335-482c-9e25-9b8ee7861cc8")
-		(property "Reference" "R32"
-			(at 109.22 189.2299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R10K"
-			(at 109.22 191.7699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 104.902 190.5 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 190.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 106.68 190.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "32837377-44d0-40c5-aa84-d2e3599d59d5")
-		)
-		(pin "1"
-			(uuid "bd0f53f4-47ee-455c-9404-76495a4a5fd1")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -23306,7 +22062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 111.252 90)
 			(hide yes)
 			(show_name no)
@@ -23355,83 +22111,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 106.68 82.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e1e06d15-3fc9-4631-ab3f-038809f44e8f")
-		(property "Reference" "#PWR045"
-			(at 106.68 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 106.68 77.47 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 106.68 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 106.68 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "98de95f5-fc1b-4717-8e7e-c870b1b13e62")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "#PWR045")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 318.77 107.95 270)
 		(unit 1)
@@ -23465,7 +22144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 106.172 90)
 			(hide yes)
 			(show_name no)
@@ -23547,7 +22226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 108.712 90)
 			(hide yes)
 			(show_name no)
@@ -23785,7 +22464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 164.592 90)
 			(hide yes)
 			(show_name no)
@@ -23945,7 +22624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 163.322 85.09 90)
 			(hide yes)
 			(show_name no)
@@ -23994,83 +22673,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 224.79 31.75 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ea34c74b-a484-46ed-a85c-c3de97fd30a8")
-		(property "Reference" "#PWR0118"
-			(at 224.79 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 224.79 26.67 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 224.79 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 224.79 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 224.79 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3199d978-d0f6-44d5-a04f-6cec3a4aabb8")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "#PWR0118")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 92.71 187.96 0)
 		(unit 1)
@@ -24104,7 +22706,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 93.6752 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -24186,7 +22788,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 162.052 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -24268,7 +22870,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 174.752 90)
 			(hide yes)
 			(show_name no)
@@ -24428,7 +23030,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.6 156.972 90)
 			(hide yes)
 			(show_name no)
@@ -24510,7 +23112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 126.492 90)
 			(hide yes)
 			(show_name no)
@@ -24553,88 +23155,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
 					(reference "R72")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 106.68 87.63 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f508f43a-c027-41db-b8db-d7ed55a729b2")
-		(property "Reference" "R16"
-			(at 109.22 86.3599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R10K"
-			(at 109.22 88.8999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 104.902 87.63 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 106.68 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "64467a42-1fdc-4584-a32e-9641124311f7")
-		)
-		(pin "1"
-			(uuid "09a5347a-4315-4925-9697-7ec48d48e8e8")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/39f84ab9-cf03-4ef5-a6b6-c3023701b456"
-					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -24752,7 +23272,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 93.6752 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -24834,7 +23354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 318.77 146.812 90)
 			(hide yes)
 			(show_name no)

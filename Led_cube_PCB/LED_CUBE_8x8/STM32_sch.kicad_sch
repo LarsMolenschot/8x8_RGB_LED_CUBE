@@ -7369,7 +7369,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 56.8452 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -7607,7 +7607,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at -0.94 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7619,7 +7619,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "http://www.yageo.com/documents/recent/PYu-RC0201_51_RoHS_L_8.pdf"
+		(property "Datasheet" ""
 			(at -100.94 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7654,7 +7654,7 @@
 				(justify left top)
 			)
 		)
-		(property "Mouser Part Number" "603-RC0201FR-7D100KL"
+		(property "Mouser Part Number" "603-SR0603FR-07100KL"
 			(at -400.94 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7666,7 +7666,7 @@
 				(justify left top)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0201FR-7D100KL?qs=NgbZBzc1CyEJ6dcGr2%2F%252Bdg%3D%3D"
+		(property "Mouser Price/Stock" "https://nl.mouser.com/en/ProductDetail/YAGEO/SR0603FR-07100KL?qs=sGAEpiMZZMtG0KNrPCHnjRv1MJzRlXPZ3DN8ub9uSdtrODw9zR96PQ%3D%3D"
 			(at -500.94 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7690,7 +7690,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0201FR-7D100KL"
+		(property "Manufacturer_Part_Number" "SR0603FR-07100KL"
 			(at -700.94 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7899,7 +7899,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 107.6452 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -8823,7 +8823,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 42.8752 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -9047,7 +9047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 254 164.338 90)
 			(hide yes)
 			(show_name no)
@@ -9207,7 +9207,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 70.8152 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -9445,7 +9445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 25.0952 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -9605,7 +9605,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 107.6452 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -9844,7 +9844,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 121.6152 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -10237,7 +10237,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 30.1752 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -10397,7 +10397,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 131.572 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -10736,7 +10736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at -0.94 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10748,7 +10748,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nl.mouser.com/datasheet/3/508/1/PYu-AF_51_RoHS_L_9.pdf"
 			(at -100.94 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10783,7 +10783,7 @@
 				(justify left top)
 			)
 		)
-		(property "Mouser Part Number" "603-RC0201FR-07453KL"
+		(property "Mouser Part Number" "603-AF0603FR-07453KL"
 			(at -400.94 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10795,7 +10795,7 @@
 				(justify left top)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0201FR-07453KL?qs=1s%252BlIcjv25sZ2i87AF%252BnmQ%3D%3D"
+		(property "Mouser Price/Stock" "https://nl.mouser.com/en/ProductDetail/YAGEO/AF0603FR-07453KL?qs=sGAEpiMZZMtlubZbdhIBIK%252BAKCop5cydMz3xptmMHDE%3D"
 			(at -500.94 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10819,7 +10819,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0201FR-07453KL"
+		(property "Manufacturer_Part_Number" "AF0603FR-07453KL"
 			(at -700.94 39.37 0)
 			(hide yes)
 			(show_name no)

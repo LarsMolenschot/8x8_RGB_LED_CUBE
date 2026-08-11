@@ -15614,7 +15614,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x16_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x16_P2.54mm_Vertical"
 			(at 335.28 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -16346,7 +16346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x16_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x16_P2.54mm_Vertical"
 			(at 335.28 101.6 0)
 			(hide yes)
 			(show_name no)

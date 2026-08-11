@@ -992,396 +992,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SamacSys_Parts:20021121-00014T4LF"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 19.05 7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "20021121-00014T4LF"
-				(at 19.05 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "2002112100014T4LF"
-				(at 19.05 -94.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/20021121.pdf"
-				(at 19.05 -194.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Description" "Headers & Wire Housings 1.27mm BTB, Hdr, SMT Unshrd, 14 Pos, Tub"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Height" "4.75"
-				(at 19.05 -394.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Part Number" "649-221121-00014T4LF"
-				(at 19.05 -494.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/20021121-00014T4LF?qs=oJs1R%252BxK6kTmAaa2SgvDEw%3D%3D"
-				(at 19.05 -594.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Name" "Amphenol"
-				(at 19.05 -694.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Part_Number" "20021121-00014T4LF"
-				(at 19.05 -794.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(symbol "20021121-00014T4LF_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 17.78 -17.78)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 0 180)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -2.54 180)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -5.08 180)
-					(length 5.08)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 0)
-					(length 5.08)
-					(name "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -7.62 180)
-					(length 5.08)
-					(name "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -10.16 0)
-					(length 5.08)
-					(name "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -10.16 180)
-					(length 5.08)
-					(name "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -12.7 0)
-					(length 5.08)
-					(name "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -12.7 180)
-					(length 5.08)
-					(name "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -15.24 0)
-					(length 5.08)
-					(name "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 -15.24 180)
-					(length 5.08)
-					(name "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "SamacSys_Parts:CX3225FB48000F0FZZH1"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1796,6 +1406,396 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "SamacSys_Parts:FTSH-107-01-L-DV-K-A"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 19.05 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "FTSH-107-01-L-DV-K-A"
+				(at 19.05 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "FTSH-107-XX-YYY-DV-K-A"
+				(at 19.05 -94.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Datasheet" "http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-xxx-mkt.pdf"
+				(at 19.05 -194.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Description" "14 position, High Reliability Header Strips, 0.050&quot; pitch, Dual-Row Vertical"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Height" ""
+				(at 19.05 -394.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Part Number" "200-FTSH10701LDVKA"
+				(at 19.05 -494.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samtec/FTSH-107-01-L-DV-K-A?qs=PB6%2FjmICvI3xEHFou4PhNg%3D%3D"
+				(at 19.05 -594.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Name" "SAMTEC"
+				(at 19.05 -694.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Part_Number" "FTSH-107-01-L-DV-K-A"
+				(at 19.05 -794.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(symbol "FTSH-107-01-L-DV-K-A_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 17.78 -17.78)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -2.54 180)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -5.08 180)
+					(length 5.08)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -7.62 180)
+					(length 5.08)
+					(name "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 0)
+					(length 5.08)
+					(name "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -10.16 180)
+					(length 5.08)
+					(name "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -12.7 0)
+					(length 5.08)
+					(name "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -12.7 180)
+					(length 5.08)
+					(name "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -15.24 0)
+					(length 5.08)
+					(name "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -15.24 180)
+					(length 5.08)
+					(name "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4017,7 +4017,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left top)
+			(justify right top)
 		)
 		(uuid "d4145a90-ab16-4ab9-951e-e2be2085fdb6")
 	)
@@ -4028,16 +4028,10 @@
 		(uuid "1cb6d271-9624-4eac-a964-0d672faf3f7b")
 	)
 	(junction
-		(at 41.91 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "25fadde2-77ae-41ea-8de5-60e5bec54a85")
-	)
-	(junction
 		(at 29.21 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2797efce-eb44-4a62-8a3d-26388ac6353e")
+		(uuid "25fadde2-77ae-41ea-8de5-60e5bec54a85")
 	)
 	(junction
 		(at 95.25 52.07)
@@ -4052,7 +4046,13 @@
 		(uuid "3d0b2798-69ba-4ca4-8129-ce6424a02df4")
 	)
 	(junction
-		(at 41.91 125.73)
+		(at 104.14 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f87c28f-fd4b-40ef-8e70-e157abf06504")
+	)
+	(junction
+		(at 29.21 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f98340d-7999-4c68-81bd-5ec631a7eb87")
@@ -4076,7 +4076,7 @@
 		(uuid "8fda6b3f-25ee-4327-8fc3-add9f1e94a68")
 	)
 	(junction
-		(at 55.88 125.73)
+		(at 43.18 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "94ad5ef4-678b-4aef-a144-7f43802bde40")
@@ -4086,12 +4086,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a625173d-5f20-4197-aa4d-86a6ee401fbe")
-	)
-	(junction
-		(at 29.21 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ac6a74b3-d99c-4223-9d6c-8a6bc9050303")
 	)
 	(junction
 		(at 332.74 40.64)
@@ -4112,12 +4106,6 @@
 		(uuid "cf283289-fa9f-4679-93fc-85868b35966c")
 	)
 	(junction
-		(at 106.68 185.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d16fa781-fb06-4188-affb-ada9d4082b84")
-	)
-	(junction
 		(at 287.02 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4130,7 +4118,7 @@
 		(uuid "dcb84518-4987-462e-808d-702117ede030")
 	)
 	(junction
-		(at 55.88 133.35)
+		(at 43.18 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eca33105-0b1d-48df-892a-09cb002484e6")
@@ -4152,8 +4140,8 @@
 		(uuid "03e2ea0a-f045-4260-a2e3-8c08536dbe6f")
 	)
 	(no_connect
-		(at 156.21 165.1)
-		(uuid "97dda850-8e6e-4e80-8f10-b90715d83dcb")
+		(at 328.93 135.89)
+		(uuid "1bc67eb1-54ba-4b0c-9a51-b78f14c6ac52")
 	)
 	(no_connect
 		(at 306.07 128.27)
@@ -4283,16 +4271,6 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 125.73) (xy 41.91 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12afa82b-a760-4fd3-a367-d5b8707b522d")
-	)
-	(wire
-		(pts
 			(xy 173.99 121.92) (xy 173.99 147.32)
 		)
 		(stroke
@@ -4303,7 +4281,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 125.73) (xy 69.85 125.73)
+			(xy 43.18 125.73) (xy 57.15 125.73)
 		)
 		(stroke
 			(width 0)
@@ -4323,7 +4301,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 125.73) (xy 55.88 125.73)
+			(xy 29.21 125.73) (xy 43.18 125.73)
 		)
 		(stroke
 			(width 0)
@@ -4493,7 +4471,17 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 133.35) (xy 69.85 133.35)
+			(xy 152.4 190.5) (xy 156.21 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ce2d093-d35a-4345-93a9-7453d21227a5")
+	)
+	(wire
+		(pts
+			(xy 43.18 133.35) (xy 57.15 133.35)
 		)
 		(stroke
 			(width 0)
@@ -4553,7 +4541,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 162.56) (xy 250.19 162.56)
+			(xy 204.47 162.56) (xy 245.11 162.56)
 		)
 		(stroke
 			(width 0)
@@ -4600,6 +4588,16 @@
 			(type default)
 		)
 		(uuid "4e31bea0-45ba-46aa-a432-58bd1f2348c8")
+	)
+	(wire
+		(pts
+			(xy 153.67 165.1) (xy 156.21 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50cfaaee-fc6f-420b-be0d-880596ebcba4")
 	)
 	(wire
 		(pts
@@ -4723,7 +4721,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 185.42) (xy 106.68 185.42)
+			(xy 99.06 185.42) (xy 104.14 185.42)
 		)
 		(stroke
 			(width 0)
@@ -4763,7 +4761,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 185.42) (xy 106.68 186.69)
+			(xy 104.14 185.42) (xy 104.14 186.69)
 		)
 		(stroke
 			(width 0)
@@ -4800,16 +4798,6 @@
 			(type default)
 		)
 		(uuid "75e1c158-14dc-46e3-86b2-eeffd030196d")
-	)
-	(wire
-		(pts
-			(xy 138.43 190.5) (xy 156.21 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7807a6fb-4f12-4d12-96f1-e5a4910aa003")
 	)
 	(wire
 		(pts
@@ -4853,7 +4841,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 194.31) (xy 106.68 195.58)
+			(xy 104.14 194.31) (xy 104.14 195.58)
 		)
 		(stroke
 			(width 0)
@@ -4923,16 +4911,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 187.96) (xy 156.21 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a098f092-693b-4887-8dfb-0778d3a4d801")
-	)
-	(wire
-		(pts
 			(xy 24.13 74.93) (xy 24.13 81.28)
 		)
 		(stroke
@@ -4943,16 +4921,6 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 162.56) (xy 261.62 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1ecdc84-4d55-4a99-a70c-502ab86d4cb4")
-	)
-	(wire
-		(pts
 			(xy 287.02 140.97) (xy 287.02 143.51)
 		)
 		(stroke
@@ -4960,16 +4928,6 @@
 			(type default)
 		)
 		(uuid "a35b9188-0af7-414e-ae0f-6e99ebdd231e")
-	)
-	(wire
-		(pts
-			(xy 257.81 162.56) (xy 261.62 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a398501b-311c-4d00-8f37-75a9814a0adb")
 	)
 	(wire
 		(pts
@@ -5010,6 +4968,16 @@
 			(type default)
 		)
 		(uuid "a83fc47e-dca6-4387-9c81-bb3389d48390")
+	)
+	(wire
+		(pts
+			(xy 138.43 187.96) (xy 156.21 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9260223-851c-4dd4-a566-e5c7abff134f")
 	)
 	(wire
 		(pts
@@ -5073,26 +5041,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 185.42) (xy 156.21 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c39ae88f-b1eb-40ac-9cd1-691053711612")
-	)
-	(wire
-		(pts
-			(xy 204.47 165.1) (xy 213.36 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3f0a9ef-4e98-4bcd-b9c8-943a32230a24")
-	)
-	(wire
-		(pts
 			(xy 86.36 24.13) (xy 95.25 24.13)
 		)
 		(stroke
@@ -5153,6 +5101,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 165.1) (xy 236.22 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2197f54-9637-41de-ba14-bc14a10b91d0")
+	)
+	(wire
+		(pts
 			(xy 306.07 133.35) (xy 287.02 133.35)
 		)
 		(stroke
@@ -5183,16 +5141,6 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 135.89) (xy 330.2 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dabbe8c6-345b-45b2-bb81-7c44989850b5")
-	)
-	(wire
-		(pts
 			(xy 29.21 133.35) (xy 29.21 135.89)
 		)
 		(stroke
@@ -5203,7 +5151,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 133.35) (xy 55.88 133.35)
+			(xy 29.21 133.35) (xy 43.18 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5223,13 +5171,13 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 133.35) (xy 41.91 133.35)
+			(xy 104.14 185.42) (xy 156.21 185.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e1a294d3-e063-4ad1-9fe8-46b96a91b3a7")
+		(uuid "df77fd5c-8cb6-49a1-8577-45bfac58c42e")
 	)
 	(wire
 		(pts
@@ -5867,6 +5815,16 @@
 			"TMkwGAxFYUqGwWAoClMyDAZDUZiSYTAYivL//2GNezcttEoAAAAASUVORK5CYII="
 		)
 	)
+	(label "3.3V"
+		(at 133.35 22.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "26df31d3-1ad7-491d-99b5-f128cc81c431")
+	)
 	(global_label "DG1"
 		(shape output)
 		(at 194.31 212.09 270)
@@ -5893,7 +5851,7 @@
 	)
 	(global_label "USART1_RX"
 		(shape input)
-		(at 138.43 190.5 180)
+		(at 138.43 187.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5903,7 +5861,7 @@
 		)
 		(uuid "0ad3d9de-502d-4de7-83d3-a7e38024e076")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 124.922 190.5 0)
+			(at 124.922 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6301,7 +6259,7 @@
 	)
 	(global_label "USART1_TX"
 		(shape output)
-		(at 152.4 187.96 180)
+		(at 152.4 190.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6311,7 +6269,7 @@
 		)
 		(uuid "73889cb4-9ce5-40d3-8be0-c0839b6c235b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.1944 187.96 0)
+			(at 139.1944 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6325,17 +6283,17 @@
 	)
 	(global_label "DB1"
 		(shape output)
-		(at 213.36 165.1 0)
+		(at 153.67 165.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "74b06b31-db3c-4658-ab16-b830ebf46cc7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 220.0947 165.1 0)
+			(at 146.9353 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6343,7 +6301,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
@@ -6683,6 +6641,30 @@
 			)
 		)
 	)
+	(global_label "SWDIO"
+		(shape input)
+		(at 236.22 165.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ad975dde-56e2-45d8-9c9e-dcd1339b3f8d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 245.0714 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "USART1_TX"
 		(shape input)
 		(at 339.09 143.51 0)
@@ -6923,30 +6905,6 @@
 			)
 		)
 	)
-	(global_label "SWO"
-		(shape input)
-		(at 330.2 135.89 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f85df250-94ba-485d-97f0-8057ecaa5b58")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 337.1766 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "A2_G"
 		(shape output)
 		(at 168.91 212.09 270)
@@ -7016,6 +6974,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "SWCLK"
+		(shape input)
+		(at 245.11 162.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fddcf649-cd52-46b6-aa50-07f56512bcef")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 254.3242 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -7337,7 +7319,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 55.88 129.54 0)
+		(at 43.18 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7348,7 +7330,7 @@
 		(fields_autoplaced yes)
 		(uuid "2dc4f8a4-ea31-4dca-be9d-8c904127d4be")
 		(property "Reference" "C40"
-			(at 59.69 128.2699 0)
+			(at 46.99 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7359,7 +7341,7 @@
 			)
 		)
 		(property "Value" "C0.1uF"
-			(at 59.69 130.8099 0)
+			(at 46.99 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7370,7 +7352,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 56.8452 133.35 0)
+			(at 44.1452 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7381,7 +7363,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 129.54 0)
+			(at 43.18 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7392,7 +7374,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 55.88 129.54 0)
+			(at 43.18 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7497,7 +7479,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 106.68 195.58 0)
+		(at 104.14 195.58 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7508,7 +7490,7 @@
 		(fields_autoplaced yes)
 		(uuid "44d47665-ba94-4033-af1b-e52b380f750a")
 		(property "Reference" "#PWR0156"
-			(at 106.68 201.93 0)
+			(at 104.14 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7519,7 +7501,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 106.68 200.66 0)
+			(at 104.14 200.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7529,7 +7511,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 106.68 195.58 0)
+			(at 104.14 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7540,7 +7522,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 195.58 0)
+			(at 104.14 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7551,7 +7533,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 106.68 195.58 0)
+			(at 104.14 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7867,7 +7849,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 106.68 190.5 0)
+		(at 104.14 190.5 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7878,7 +7860,7 @@
 		(fields_autoplaced yes)
 		(uuid "55db8947-62d0-42a5-a665-c41264e01146")
 		(property "Reference" "C41"
-			(at 110.49 189.2299 0)
+			(at 107.95 189.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7889,7 +7871,7 @@
 			)
 		)
 		(property "Value" "C0.1uF"
-			(at 110.49 191.7699 0)
+			(at 107.95 191.7699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7900,7 +7882,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 107.6452 194.31 0)
+			(at 105.1052 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7911,7 +7893,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 190.5 0)
+			(at 104.14 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7922,7 +7904,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 106.68 190.5 0)
+			(at 104.14 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7942,84 +7924,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/7bc69d4c-9dbd-42bf-a8af-fd631877e467"
 					(reference "C41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 261.62 163.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5753de1b-7052-4119-a4a1-55d07b040e7d")
-		(property "Reference" "#PWR0153"
-			(at 261.62 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 261.62 168.91 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 261.62 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 261.62 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 261.62 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5973fc31-72a9-4f84-994c-a97491d6ec05")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/7bc69d4c-9dbd-42bf-a8af-fd631877e467"
-					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
@@ -8098,6 +8002,88 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/7bc69d4c-9dbd-42bf-a8af-fd631877e467"
 					(reference "#PWR0141")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 57.15 129.54 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "68f50f93-8f26-43e8-a5bb-e5c3ffdc5528")
+		(property "Reference" "C43"
+			(at 60.96 128.2699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C0.1uF"
+			(at 60.96 130.8099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 58.1152 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 57.15 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "99f8321e-9827-4711-9f29-f9fc15ae3881")
+		)
+		(pin "2"
+			(uuid "3e605bf8-ae19-406a-b42c-a5aea0f0e948")
+		)
+		(instances
+			(project "LED_CUBE_8x8"
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c/7bc69d4c-9dbd-42bf-a8af-fd631877e467"
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -8791,7 +8777,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 41.91 129.54 0)
+		(at 29.21 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8802,7 +8788,7 @@
 		(fields_autoplaced yes)
 		(uuid "95ef6c0a-721d-4106-af82-350d19b5a274")
 		(property "Reference" "C39"
-			(at 45.72 128.2699 0)
+			(at 33.02 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8813,7 +8799,7 @@
 			)
 		)
 		(property "Value" "C4.7uF"
-			(at 45.72 130.8099 0)
+			(at 33.02 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8824,7 +8810,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 42.8752 133.35 0)
+			(at 30.1752 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8835,7 +8821,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 129.54 0)
+			(at 29.21 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8846,7 +8832,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 41.91 129.54 0)
+			(at 29.21 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9016,86 +9002,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 254 162.56 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9f3987fc-b6bf-47cd-bf07-1625417796c1")
-		(property "Reference" "R58"
-			(at 254 156.21 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R10K"
-			(at 254 158.75 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 254 164.338 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 254 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 254 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "b23b0a00-5bc1-484f-8874-4e98e9d2a742")
-		)
-		(pin "1"
-			(uuid "991120e5-994c-4d09-896a-1765612d9d58")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/7bc69d4c-9dbd-42bf-a8af-fd631877e467"
-					(reference "R58")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 26.67 179.07 0)
 		(unit 1)
@@ -9168,88 +9074,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/7bc69d4c-9dbd-42bf-a8af-fd631877e467"
 					(reference "#PWR0148")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 69.85 129.54 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a346c232-2dd1-477e-a01a-50950e9133e0")
-		(property "Reference" "C43"
-			(at 73.66 128.2699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C0.1uF"
-			(at 73.66 130.8099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 70.8152 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 69.85 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 69.85 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c7e690f3-d4cc-45e8-bd9c-5c60c93e83e8")
-		)
-		(pin "2"
-			(uuid "462d8215-c884-4c81-ae69-075d4108f6f5")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/7bc69d4c-9dbd-42bf-a8af-fd631877e467"
-					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -10204,88 +10028,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 29.21 129.54 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d04f9c31-e1a2-430c-8ee7-8031f66fbc33")
-		(property "Reference" "C44"
-			(at 33.02 128.2699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C10uF"
-			(at 33.02 130.8099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 30.1752 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 29.21 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 29.21 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "78a96db6-cbba-45be-9e73-769943e24296")
-		)
-		(pin "2"
-			(uuid "2776a39a-a875-4f40-99c4-64cf4c93dbc6")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/7bc69d4c-9dbd-42bf-a8af-fd631877e467"
-					(reference "C44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 133.35 21.59 0)
 		(unit 1)
@@ -10440,184 +10182,6 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/7bc69d4c-9dbd-42bf-a8af-fd631877e467"
 					(reference "R56")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:20021121-00014T4LF")
-		(at 306.07 128.27 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e4b9c078-3830-466c-9fc1-1ac6a55b88cd")
-		(property "Reference" "J2"
-			(at 317.5 120.65 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "20021121-00014T4LF"
-			(at 317.5 123.19 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:2002112100014T4LF"
-			(at 325.12 223.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/20021121.pdf"
-			(at 325.12 323.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "Headers & Wire Housings 1.27mm BTB, Hdr, SMT Unshrd, 14 Pos, Tub"
-			(at 306.07 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "4.75"
-			(at 325.12 523.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "649-221121-00014T4LF"
-			(at 325.12 623.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/20021121-00014T4LF?qs=oJs1R%252BxK6kTmAaa2SgvDEw%3D%3D"
-			(at 325.12 723.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Amphenol"
-			(at 325.12 823.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "20021121-00014T4LF"
-			(at 325.12 923.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "8"
-			(uuid "a2897cc4-915a-4083-b73f-f033a0dc6074")
-		)
-		(pin "9"
-			(uuid "e3c8f904-0406-4181-81b2-5f054f74271b")
-		)
-		(pin "6"
-			(uuid "646b85c2-0b34-4354-ad57-d4a7ce708c2e")
-		)
-		(pin "11"
-			(uuid "88553f17-0b1a-42b7-b56b-7b213cbaff52")
-		)
-		(pin "12"
-			(uuid "e31f76f6-b3e1-443b-8110-f81fcc4f4e49")
-		)
-		(pin "3"
-			(uuid "0a4e9972-e44f-4bf5-9bd1-1af8274466ec")
-		)
-		(pin "7"
-			(uuid "5f3dc3aa-3197-4275-bb5d-a4bdce765781")
-		)
-		(pin "14"
-			(uuid "3a8ab1dd-d3de-4309-95c3-086beb2018d7")
-		)
-		(pin "2"
-			(uuid "7f085c93-76ed-4a8a-960d-8e61d48bcede")
-		)
-		(pin "4"
-			(uuid "6978ee2c-443c-4c1c-a487-7b4a466179b7")
-		)
-		(pin "10"
-			(uuid "910e9b80-1aa9-4a85-8af1-ed0098c5fe10")
-		)
-		(pin "5"
-			(uuid "20f56957-8e5f-4b03-816d-2a7db6029270")
-		)
-		(pin "13"
-			(uuid "62d8f81c-f3d8-4619-b7a9-aaf760e34e38")
-		)
-		(pin "1"
-			(uuid "ab9461d4-e225-41ca-9bfb-f29076441b4b")
-		)
-		(instances
-			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/7bc69d4c-9dbd-42bf-a8af-fd631877e467"
-					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -11218,6 +10782,184 @@
 			(project "LED_CUBE_8x8"
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/7bc69d4c-9dbd-42bf-a8af-fd631877e467"
 					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:FTSH-107-01-L-DV-K-A")
+		(at 306.07 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fdf28c22-2856-4958-a9fc-e124d7798132")
+		(property "Reference" "J1"
+			(at 317.5 120.65 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FTSH-107-01-L-DV-K-A"
+			(at 317.5 123.19 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "FTSH-107-XX-YYY-DV-K-A"
+			(at 325.12 223.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-xxx-mkt.pdf"
+			(at 325.12 323.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "14 position, High Reliability Header Strips, 0.050&quot; pitch, Dual-Row Vertical"
+			(at 306.07 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 325.12 523.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "200-FTSH10701LDVKA"
+			(at 325.12 623.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samtec/FTSH-107-01-L-DV-K-A?qs=PB6%2FjmICvI3xEHFou4PhNg%3D%3D"
+			(at 325.12 723.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "SAMTEC"
+			(at 325.12 823.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "FTSH-107-01-L-DV-K-A"
+			(at 325.12 923.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "10"
+			(uuid "bddf1726-d17b-452d-83fb-48d438b166a6")
+		)
+		(pin "3"
+			(uuid "92bcf87e-045f-4d00-a130-1f0dbc225c55")
+		)
+		(pin "6"
+			(uuid "84c17e51-470c-4f70-adc0-4f2cdb79879f")
+		)
+		(pin "11"
+			(uuid "b0d984a3-f023-4539-b729-721760b64dfc")
+		)
+		(pin "4"
+			(uuid "5bb1b801-5e7d-4359-bb38-281a4dbe30d1")
+		)
+		(pin "14"
+			(uuid "8bd65492-333b-4649-a939-f8489e4db76d")
+		)
+		(pin "7"
+			(uuid "ff5f1203-98bb-45a5-aa0b-ba0b4aa132a8")
+		)
+		(pin "9"
+			(uuid "5dc12fe2-98a3-450d-894b-34f602040b77")
+		)
+		(pin "1"
+			(uuid "4a0cb368-e7d7-4a80-ac19-ba4e14fe214e")
+		)
+		(pin "5"
+			(uuid "08395a2f-9458-48e1-99b4-da3ded502d1e")
+		)
+		(pin "2"
+			(uuid "e32806b3-11fd-4f29-9575-879230014c4b")
+		)
+		(pin "13"
+			(uuid "3adc19b9-c886-46e2-8c2a-7addbd07f8fd")
+		)
+		(pin "8"
+			(uuid "215a486a-fe0a-4b40-a887-e09eab9b018a")
+		)
+		(pin "12"
+			(uuid "1dec0c79-24a4-48c9-8cc6-7ca66d48abe3")
+		)
+		(instances
+			(project "LED_CUBE_8x8"
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c/7bc69d4c-9dbd-42bf-a8af-fd631877e467"
+					(reference "J1")
 					(unit 1)
 				)
 			)

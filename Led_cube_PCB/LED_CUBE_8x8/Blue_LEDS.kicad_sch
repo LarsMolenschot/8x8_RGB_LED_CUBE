@@ -13328,7 +13328,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 210.82 85.09 0)
+		(at 210.82 85.09 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13346,7 +13346,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "C0.1uf"
@@ -13357,11 +13357,11 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 211.7852 88.9 0)
+			(at 209.8548 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13702,7 +13702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x16_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x16_P2.54mm_Vertical"
 			(at 334.01 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -20412,7 +20412,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x16_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x16_P2.54mm_Vertical"
 			(at 334.01 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -21299,6 +21299,10 @@
 		)
 		(instances
 			(project "LED_CUBE_8x8"
+				(path "/b239677e-e361-4439-8200-63fb41f7e03c/028ca277-4d5d-4d09-af7b-5a73ce3cf523"
+					(reference "IC13")
+					(unit 1)
+				)
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/cc8bd84f-da41-4d1f-b6a9-e2091cdfadf0"
 					(reference "IC13")
 					(unit 1)

@@ -21299,10 +21299,6 @@
 		)
 		(instances
 			(project "LED_CUBE_8x8"
-				(path "/b239677e-e361-4439-8200-63fb41f7e03c/028ca277-4d5d-4d09-af7b-5a73ce3cf523"
-					(reference "IC13")
-					(unit 1)
-				)
 				(path "/b239677e-e361-4439-8200-63fb41f7e03c/cc8bd84f-da41-4d1f-b6a9-e2091cdfadf0"
 					(reference "IC13")
 					(unit 1)

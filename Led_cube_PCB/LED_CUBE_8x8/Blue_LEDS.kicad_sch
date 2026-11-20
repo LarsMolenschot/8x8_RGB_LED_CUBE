@@ -6742,6 +6742,16 @@
 	)
 	(bus
 		(pts
+			(xy 228.6 224.79) (xy 228.6 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4d65851-b523-4b9d-9737-5389fd90e323")
+	)
+	(bus
+		(pts
 			(xy 224.79 224.79) (xy 222.25 224.79)
 		)
 		(stroke
@@ -8901,6 +8911,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "DB[1..8]"
+		(shape input)
+		(at 228.6 227.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "18232a4e-04fa-41b3-8ef2-98847cceef7a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 239.4472 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)

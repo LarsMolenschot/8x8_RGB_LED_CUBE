@@ -3952,6 +3952,16 @@
 	)
 	(bus
 		(pts
+			(xy 228.6 224.79) (xy 228.6 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2242dbaf-add6-4ca5-ade7-a6d20e4422df")
+	)
+	(bus
+		(pts
 			(xy 146.05 172.72) (xy 148.59 172.72)
 		)
 		(stroke
@@ -8605,6 +8615,30 @@
 		(uuid "0226b0cf-ac01-47bb-ad9e-df9e1ead4ae5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 214.4704 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "DG[1..8]"
+		(shape input)
+		(at 228.6 227.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "03f161ef-d10b-42b2-aed3-dbe0fd592e37")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 239.4472 227.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
